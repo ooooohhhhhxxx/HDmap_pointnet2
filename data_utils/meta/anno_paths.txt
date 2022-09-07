@@ -1,0 +1,2 @@
+Area_1/room_1/Annotations
+Area_2/room_1/Annotations
