@@ -1,0 +1,2384 @@
+2022-08-31 20:28:25,232 - Model - INFO - PARAMETER ...
+2022-08-31 20:28:25,233 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:29:06,124 - Model - INFO - PARAMETER ...
+2022-08-31 20:29:06,124 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:29:08,423 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:29:08,425 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:29:08,479 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:29:09,911 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:29:09,912 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:29:23,958 - Model - INFO - PARAMETER ...
+2022-08-31 20:29:23,958 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:29:25,006 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:29:25,007 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:29:25,052 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:29:26,262 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:29:26,263 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:30:13,284 - Model - INFO - PARAMETER ...
+2022-08-31 20:30:13,285 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:30:14,335 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:30:14,336 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:30:14,384 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:30:15,602 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:30:15,602 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:30:35,449 - Model - INFO - PARAMETER ...
+2022-08-31 20:30:35,450 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:30:36,504 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:30:36,505 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:30:36,554 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:30:37,773 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:30:37,774 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:31:19,163 - Model - INFO - PARAMETER ...
+2022-08-31 20:31:19,163 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:31:20,232 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:31:20,233 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:31:20,282 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:31:21,501 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:31:21,502 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:34:56,956 - Model - INFO - PARAMETER ...
+2022-08-31 20:34:56,956 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:34:58,038 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:34:58,038 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:34:58,087 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:34:59,345 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:34:59,346 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:36:00,066 - Model - INFO - PARAMETER ...
+2022-08-31 20:36:00,067 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:36:01,129 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:36:01,130 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:36:01,176 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:36:02,387 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:36:02,388 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:38:22,176 - Model - INFO - PARAMETER ...
+2022-08-31 20:38:22,177 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:38:23,249 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:38:23,250 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:38:23,293 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:38:24,538 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:38:24,539 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:40:28,185 - Model - INFO - PARAMETER ...
+2022-08-31 20:40:28,185 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:40:29,263 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:40:29,263 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:40:29,311 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:40:30,540 - Model - INFO - **** Epoch 1 (1/32) ****
+2022-08-31 20:40:30,540 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:41:52,434 - Model - INFO - PARAMETER ...
+2022-08-31 20:41:52,434 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=16, epoch=100, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg_msg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-08-31 20:41:53,482 - Model - INFO - The number of training data is: 1093
+2022-08-31 20:41:53,482 - Model - INFO - The number of test data is: 1093
+2022-08-31 20:41:53,526 - Model - INFO - No existing model, starting training from scratch...
+2022-08-31 20:41:54,733 - Model - INFO - **** Epoch 1 (1/100) ****
+2022-08-31 20:41:54,733 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:44:38,250 - Model - INFO - Training mean loss: 0.908935
+2022-08-31 20:44:38,250 - Model - INFO - Training accuracy: 0.782958
+2022-08-31 20:44:38,250 - Model - INFO - Save model...
+2022-08-31 20:44:38,251 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 20:44:38,367 - Model - INFO - Saving model....
+2022-08-31 20:44:38,380 - Model - INFO - ---- EPOCH 001 EVALUATION ----
+2022-08-31 20:47:19,461 - Model - INFO - eval mean loss: 0.389383
+2022-08-31 20:47:19,462 - Model - INFO - eval point avg class IoU: 0.425171
+2022-08-31 20:47:19,462 - Model - INFO - eval point accuracy: 0.899609
+2022-08-31 20:47:19,465 - Model - INFO - eval point avg class acc: 0.525195
+2022-08-31 20:47:19,466 - Model - INFO - ------- IoU --------
+class bin            weight: 0.070, IoU: 0.001 
+class cone           weight: 0.006, IoU: 0.000 
+class footway        weight: 0.000, IoU: 0.786 
+class handrail       weight: 0.349, IoU: 0.389 
+class light          weight: 0.033, IoU: 0.426 
+class road           weight: 0.015, IoU: 0.915 
+class sign           weight: 0.525, IoU: 0.000 
+class tree           weight: 0.002, IoU: 0.885 
+
+2022-08-31 20:47:19,469 - Model - INFO - Eval mean loss: 0.389383
+2022-08-31 20:47:19,470 - Model - INFO - Eval accuracy: 0.899609
+2022-08-31 20:47:19,471 - Model - INFO - Save model...
+2022-08-31 20:47:19,471 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 20:47:19,567 - Model - INFO - Saving model....
+2022-08-31 20:47:19,568 - Model - INFO - Best mIoU: 0.425171
+2022-08-31 20:47:19,568 - Model - INFO - **** Epoch 2 (2/100) ****
+2022-08-31 20:47:19,569 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:50:01,688 - Model - INFO - Training mean loss: 0.578453
+2022-08-31 20:50:01,688 - Model - INFO - Training accuracy: 0.865958
+2022-08-31 20:50:01,703 - Model - INFO - ---- EPOCH 002 EVALUATION ----
+2022-08-31 20:52:42,251 - Model - INFO - eval mean loss: 0.292927
+2022-08-31 20:52:42,251 - Model - INFO - eval point avg class IoU: 0.540606
+2022-08-31 20:52:42,252 - Model - INFO - eval point accuracy: 0.941020
+2022-08-31 20:52:42,253 - Model - INFO - eval point avg class acc: 0.607008
+2022-08-31 20:52:42,253 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.463 
+class cone           weight: 0.011, IoU: 0.000 
+class footway        weight: 0.000, IoU: 0.872 
+class handrail       weight: 0.321, IoU: 0.624 
+class light          weight: 0.032, IoU: 0.513 
+class road           weight: 0.013, IoU: 0.941 
+class sign           weight: 0.554, IoU: 0.038 
+class tree           weight: 0.001, IoU: 0.874 
+
+2022-08-31 20:52:42,255 - Model - INFO - Eval mean loss: 0.292927
+2022-08-31 20:52:42,255 - Model - INFO - Eval accuracy: 0.941020
+2022-08-31 20:52:42,256 - Model - INFO - Save model...
+2022-08-31 20:52:42,256 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 20:52:42,347 - Model - INFO - Saving model....
+2022-08-31 20:52:42,348 - Model - INFO - Best mIoU: 0.540606
+2022-08-31 20:52:42,348 - Model - INFO - **** Epoch 3 (3/100) ****
+2022-08-31 20:52:42,349 - Model - INFO - Learning rate:0.001000
+2022-08-31 20:55:25,673 - Model - INFO - Training mean loss: 0.442657
+2022-08-31 20:55:25,674 - Model - INFO - Training accuracy: 0.895946
+2022-08-31 20:55:25,687 - Model - INFO - ---- EPOCH 003 EVALUATION ----
+2022-08-31 20:58:07,148 - Model - INFO - eval mean loss: 0.351218
+2022-08-31 20:58:07,149 - Model - INFO - eval point avg class IoU: 0.424502
+2022-08-31 20:58:07,149 - Model - INFO - eval point accuracy: 0.919749
+2022-08-31 20:58:07,150 - Model - INFO - eval point avg class acc: 0.526211
+2022-08-31 20:58:07,151 - Model - INFO - ------- IoU --------
+class bin            weight: 0.061, IoU: 0.000 
+class cone           weight: 0.007, IoU: 0.000 
+class footway        weight: 0.003, IoU: 0.887 
+class handrail       weight: 0.344, IoU: 0.393 
+class light          weight: 0.029, IoU: 0.563 
+class road           weight: 0.013, IoU: 0.941 
+class sign           weight: 0.541, IoU: 0.000 
+class tree           weight: 0.002, IoU: 0.611 
+
+2022-08-31 20:58:07,153 - Model - INFO - Eval mean loss: 0.351218
+2022-08-31 20:58:07,153 - Model - INFO - Eval accuracy: 0.919749
+2022-08-31 20:58:07,153 - Model - INFO - Best mIoU: 0.540606
+2022-08-31 20:58:07,154 - Model - INFO - **** Epoch 4 (4/100) ****
+2022-08-31 20:58:07,154 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:00:49,401 - Model - INFO - Training mean loss: 0.432968
+2022-08-31 21:00:49,402 - Model - INFO - Training accuracy: 0.906292
+2022-08-31 21:00:49,416 - Model - INFO - ---- EPOCH 004 EVALUATION ----
+2022-08-31 21:03:30,878 - Model - INFO - eval mean loss: 0.213836
+2022-08-31 21:03:30,878 - Model - INFO - eval point avg class IoU: 0.542233
+2022-08-31 21:03:30,879 - Model - INFO - eval point accuracy: 0.958728
+2022-08-31 21:03:30,880 - Model - INFO - eval point avg class acc: 0.609266
+2022-08-31 21:03:30,881 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.267 
+class cone           weight: 0.008, IoU: 0.000 
+class footway        weight: 0.001, IoU: 0.930 
+class handrail       weight: 0.353, IoU: 0.609 
+class light          weight: 0.028, IoU: 0.623 
+class road           weight: 0.016, IoU: 0.962 
+class sign           weight: 0.524, IoU: 0.000 
+class tree           weight: 0.002, IoU: 0.946 
+
+2022-08-31 21:03:30,883 - Model - INFO - Eval mean loss: 0.213836
+2022-08-31 21:03:30,883 - Model - INFO - Eval accuracy: 0.958728
+2022-08-31 21:03:30,886 - Model - INFO - Save model...
+2022-08-31 21:03:30,886 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 21:03:30,978 - Model - INFO - Saving model....
+2022-08-31 21:03:30,979 - Model - INFO - Best mIoU: 0.542233
+2022-08-31 21:03:30,980 - Model - INFO - **** Epoch 5 (5/100) ****
+2022-08-31 21:03:30,980 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:06:13,411 - Model - INFO - Training mean loss: 0.328234
+2022-08-31 21:06:13,411 - Model - INFO - Training accuracy: 0.928881
+2022-08-31 21:06:13,426 - Model - INFO - ---- EPOCH 005 EVALUATION ----
+2022-08-31 21:08:54,747 - Model - INFO - eval mean loss: 0.224807
+2022-08-31 21:08:54,747 - Model - INFO - eval point avg class IoU: 0.648825
+2022-08-31 21:08:54,748 - Model - INFO - eval point accuracy: 0.951053
+2022-08-31 21:08:54,749 - Model - INFO - eval point avg class acc: 0.733100
+2022-08-31 21:08:54,749 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.491 
+class cone           weight: 0.013, IoU: 0.000 
+class footway        weight: 0.001, IoU: 0.910 
+class handrail       weight: 0.359, IoU: 0.564 
+class light          weight: 0.031, IoU: 0.756 
+class road           weight: 0.012, IoU: 0.957 
+class sign           weight: 0.518, IoU: 0.619 
+class tree           weight: 0.003, IoU: 0.893 
+
+2022-08-31 21:08:54,752 - Model - INFO - Eval mean loss: 0.224807
+2022-08-31 21:08:54,752 - Model - INFO - Eval accuracy: 0.951053
+2022-08-31 21:08:54,753 - Model - INFO - Save model...
+2022-08-31 21:08:54,753 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 21:08:54,842 - Model - INFO - Saving model....
+2022-08-31 21:08:54,842 - Model - INFO - Best mIoU: 0.648825
+2022-08-31 21:08:54,843 - Model - INFO - **** Epoch 6 (6/100) ****
+2022-08-31 21:08:54,843 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:11:37,611 - Model - INFO - Training mean loss: 0.360595
+2022-08-31 21:11:37,611 - Model - INFO - Training accuracy: 0.917576
+2022-08-31 21:11:37,612 - Model - INFO - Save model...
+2022-08-31 21:11:37,612 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 21:11:37,730 - Model - INFO - Saving model....
+2022-08-31 21:11:37,744 - Model - INFO - ---- EPOCH 006 EVALUATION ----
+2022-08-31 21:14:19,175 - Model - INFO - eval mean loss: 0.200352
+2022-08-31 21:14:19,175 - Model - INFO - eval point avg class IoU: 0.594865
+2022-08-31 21:14:19,176 - Model - INFO - eval point accuracy: 0.963435
+2022-08-31 21:14:19,177 - Model - INFO - eval point avg class acc: 0.713692
+2022-08-31 21:14:19,178 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.322 
+class cone           weight: 0.010, IoU: 0.000 
+class footway        weight: 0.001, IoU: 0.932 
+class handrail       weight: 0.350, IoU: 0.653 
+class light          weight: 0.029, IoU: 0.759 
+class road           weight: 0.014, IoU: 0.975 
+class sign           weight: 0.528, IoU: 0.173 
+class tree           weight: 0.002, IoU: 0.944 
+
+2022-08-31 21:14:19,180 - Model - INFO - Eval mean loss: 0.200352
+2022-08-31 21:14:19,181 - Model - INFO - Eval accuracy: 0.963435
+2022-08-31 21:14:19,182 - Model - INFO - Best mIoU: 0.648825
+2022-08-31 21:14:19,182 - Model - INFO - **** Epoch 7 (7/100) ****
+2022-08-31 21:14:19,183 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:17:00,737 - Model - INFO - Training mean loss: 0.313626
+2022-08-31 21:17:00,738 - Model - INFO - Training accuracy: 0.932380
+2022-08-31 21:17:00,752 - Model - INFO - ---- EPOCH 007 EVALUATION ----
+2022-08-31 21:19:42,685 - Model - INFO - eval mean loss: 0.146368
+2022-08-31 21:19:42,686 - Model - INFO - eval point avg class IoU: 0.607396
+2022-08-31 21:19:42,687 - Model - INFO - eval point accuracy: 0.968985
+2022-08-31 21:19:42,688 - Model - INFO - eval point avg class acc: 0.678021
+2022-08-31 21:19:42,688 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.468 
+class cone           weight: 0.007, IoU: 0.025 
+class footway        weight: 0.001, IoU: 0.943 
+class handrail       weight: 0.322, IoU: 0.715 
+class light          weight: 0.028, IoU: 0.654 
+class road           weight: 0.011, IoU: 0.971 
+class sign           weight: 0.558, IoU: 0.145 
+class tree           weight: 0.001, IoU: 0.939 
+
+2022-08-31 21:19:42,691 - Model - INFO - Eval mean loss: 0.146368
+2022-08-31 21:19:42,691 - Model - INFO - Eval accuracy: 0.968985
+2022-08-31 21:19:42,691 - Model - INFO - Best mIoU: 0.648825
+2022-08-31 21:19:42,692 - Model - INFO - **** Epoch 8 (8/100) ****
+2022-08-31 21:19:42,693 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:22:23,401 - Model - INFO - Training mean loss: 0.328483
+2022-08-31 21:22:23,402 - Model - INFO - Training accuracy: 0.924520
+2022-08-31 21:22:23,416 - Model - INFO - ---- EPOCH 008 EVALUATION ----
+2022-08-31 21:25:05,656 - Model - INFO - eval mean loss: 0.166549
+2022-08-31 21:25:05,657 - Model - INFO - eval point avg class IoU: 0.649850
+2022-08-31 21:25:05,658 - Model - INFO - eval point accuracy: 0.966735
+2022-08-31 21:25:05,658 - Model - INFO - eval point avg class acc: 0.804653
+2022-08-31 21:25:05,659 - Model - INFO - ------- IoU --------
+class bin            weight: 0.056, IoU: 0.521 
+class cone           weight: 0.008, IoU: 0.182 
+class footway        weight: 0.001, IoU: 0.941 
+class handrail       weight: 0.333, IoU: 0.676 
+class light          weight: 0.027, IoU: 0.478 
+class road           weight: 0.011, IoU: 0.972 
+class sign           weight: 0.564, IoU: 0.519 
+class tree           weight: 0.001, IoU: 0.911 
+
+2022-08-31 21:25:05,662 - Model - INFO - Eval mean loss: 0.166549
+2022-08-31 21:25:05,662 - Model - INFO - Eval accuracy: 0.966735
+2022-08-31 21:25:05,663 - Model - INFO - Save model...
+2022-08-31 21:25:05,663 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 21:25:05,755 - Model - INFO - Saving model....
+2022-08-31 21:25:05,756 - Model - INFO - Best mIoU: 0.649850
+2022-08-31 21:25:05,758 - Model - INFO - **** Epoch 9 (9/100) ****
+2022-08-31 21:25:05,759 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:27:51,988 - Model - INFO - Training mean loss: 0.254469
+2022-08-31 21:27:51,988 - Model - INFO - Training accuracy: 0.951424
+2022-08-31 21:27:52,002 - Model - INFO - ---- EPOCH 009 EVALUATION ----
+2022-08-31 21:30:35,206 - Model - INFO - eval mean loss: 0.168835
+2022-08-31 21:30:35,207 - Model - INFO - eval point avg class IoU: 0.765111
+2022-08-31 21:30:35,208 - Model - INFO - eval point accuracy: 0.966768
+2022-08-31 21:30:35,209 - Model - INFO - eval point avg class acc: 0.857365
+2022-08-31 21:30:35,209 - Model - INFO - ------- IoU --------
+class bin            weight: 0.059, IoU: 0.626 
+class cone           weight: 0.011, IoU: 0.430 
+class footway        weight: 0.002, IoU: 0.935 
+class handrail       weight: 0.350, IoU: 0.772 
+class light          weight: 0.033, IoU: 0.765 
+class road           weight: 0.012, IoU: 0.963 
+class sign           weight: 0.531, IoU: 0.689 
+class tree           weight: 0.001, IoU: 0.940 
+
+2022-08-31 21:30:35,212 - Model - INFO - Eval mean loss: 0.168835
+2022-08-31 21:30:35,213 - Model - INFO - Eval accuracy: 0.966768
+2022-08-31 21:30:35,213 - Model - INFO - Save model...
+2022-08-31 21:30:35,213 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 21:30:35,302 - Model - INFO - Saving model....
+2022-08-31 21:30:35,303 - Model - INFO - Best mIoU: 0.765111
+2022-08-31 21:30:35,306 - Model - INFO - **** Epoch 10 (10/100) ****
+2022-08-31 21:30:35,307 - Model - INFO - Learning rate:0.001000
+2022-08-31 21:33:21,370 - Model - INFO - Training mean loss: 0.242967
+2022-08-31 21:33:21,371 - Model - INFO - Training accuracy: 0.949228
+2022-08-31 21:33:21,384 - Model - INFO - ---- EPOCH 010 EVALUATION ----
+2022-08-31 21:36:04,286 - Model - INFO - eval mean loss: 0.218390
+2022-08-31 21:36:04,288 - Model - INFO - eval point avg class IoU: 0.568017
+2022-08-31 21:36:04,290 - Model - INFO - eval point accuracy: 0.949953
+2022-08-31 21:36:04,293 - Model - INFO - eval point avg class acc: 0.688738
+2022-08-31 21:36:04,294 - Model - INFO - ------- IoU --------
+class bin            weight: 0.063, IoU: 0.523 
+class cone           weight: 0.010, IoU: 0.004 
+class footway        weight: 0.001, IoU: 0.914 
+class handrail       weight: 0.351, IoU: 0.515 
+class light          weight: 0.025, IoU: 0.602 
+class road           weight: 0.015, IoU: 0.964 
+class sign           weight: 0.533, IoU: 0.149 
+class tree           weight: 0.002, IoU: 0.872 
+
+2022-08-31 21:36:04,300 - Model - INFO - Eval mean loss: 0.218390
+2022-08-31 21:36:04,302 - Model - INFO - Eval accuracy: 0.949953
+2022-08-31 21:36:04,303 - Model - INFO - Best mIoU: 0.765111
+2022-08-31 21:36:04,307 - Model - INFO - **** Epoch 11 (11/100) ****
+2022-08-31 21:36:04,309 - Model - INFO - Learning rate:0.000700
+2022-08-31 21:38:52,907 - Model - INFO - Training mean loss: 0.185234
+2022-08-31 21:38:52,908 - Model - INFO - Training accuracy: 0.959714
+2022-08-31 21:38:52,909 - Model - INFO - Save model...
+2022-08-31 21:38:52,909 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 21:38:53,033 - Model - INFO - Saving model....
+2022-08-31 21:38:53,047 - Model - INFO - ---- EPOCH 011 EVALUATION ----
+2022-08-31 21:41:36,178 - Model - INFO - eval mean loss: 0.150327
+2022-08-31 21:41:36,179 - Model - INFO - eval point avg class IoU: 0.668898
+2022-08-31 21:41:36,179 - Model - INFO - eval point accuracy: 0.964746
+2022-08-31 21:41:36,180 - Model - INFO - eval point avg class acc: 0.831070
+2022-08-31 21:41:36,181 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.707 
+class cone           weight: 0.012, IoU: 0.147 
+class footway        weight: 0.001, IoU: 0.936 
+class handrail       weight: 0.343, IoU: 0.591 
+class light          weight: 0.032, IoU: 0.743 
+class road           weight: 0.016, IoU: 0.985 
+class sign           weight: 0.522, IoU: 0.324 
+class tree           weight: 0.002, IoU: 0.918 
+
+2022-08-31 21:41:36,183 - Model - INFO - Eval mean loss: 0.150327
+2022-08-31 21:41:36,183 - Model - INFO - Eval accuracy: 0.964746
+2022-08-31 21:41:36,184 - Model - INFO - Best mIoU: 0.765111
+2022-08-31 21:41:36,188 - Model - INFO - **** Epoch 12 (12/100) ****
+2022-08-31 21:41:36,189 - Model - INFO - Learning rate:0.000700
+2022-08-31 21:44:18,906 - Model - INFO - Training mean loss: 0.180810
+2022-08-31 21:44:18,906 - Model - INFO - Training accuracy: 0.966917
+2022-08-31 21:44:18,921 - Model - INFO - ---- EPOCH 012 EVALUATION ----
+2022-08-31 21:47:01,045 - Model - INFO - eval mean loss: 0.099493
+2022-08-31 21:47:01,046 - Model - INFO - eval point avg class IoU: 0.661104
+2022-08-31 21:47:01,046 - Model - INFO - eval point accuracy: 0.975443
+2022-08-31 21:47:01,046 - Model - INFO - eval point avg class acc: 0.841918
+2022-08-31 21:47:01,047 - Model - INFO - ------- IoU --------
+class bin            weight: 0.060, IoU: 0.682 
+class cone           weight: 0.010, IoU: 0.167 
+class footway        weight: 0.001, IoU: 0.957 
+class handrail       weight: 0.340, IoU: 0.649 
+class light          weight: 0.027, IoU: 0.873 
+class road           weight: 0.016, IoU: 0.985 
+class sign           weight: 0.546, IoU: 0.008 
+class tree           weight: 0.000, IoU: 0.968 
+
+2022-08-31 21:47:01,049 - Model - INFO - Eval mean loss: 0.099493
+2022-08-31 21:47:01,049 - Model - INFO - Eval accuracy: 0.975443
+2022-08-31 21:47:01,050 - Model - INFO - Best mIoU: 0.765111
+2022-08-31 21:47:01,050 - Model - INFO - **** Epoch 13 (13/100) ****
+2022-08-31 21:47:01,050 - Model - INFO - Learning rate:0.000700
+2022-08-31 21:49:43,039 - Model - INFO - Training mean loss: 0.166917
+2022-08-31 21:49:43,040 - Model - INFO - Training accuracy: 0.963995
+2022-08-31 21:49:43,053 - Model - INFO - ---- EPOCH 013 EVALUATION ----
+2022-08-31 21:52:25,091 - Model - INFO - eval mean loss: 0.087523
+2022-08-31 21:52:25,091 - Model - INFO - eval point avg class IoU: 0.656698
+2022-08-31 21:52:25,091 - Model - INFO - eval point accuracy: 0.979469
+2022-08-31 21:52:25,092 - Model - INFO - eval point avg class acc: 0.726024
+2022-08-31 21:52:25,092 - Model - INFO - ------- IoU --------
+class bin            weight: 0.058, IoU: 0.704 
+class cone           weight: 0.011, IoU: 0.060 
+class footway        weight: 0.001, IoU: 0.965 
+class handrail       weight: 0.348, IoU: 0.765 
+class light          weight: 0.027, IoU: 0.853 
+class road           weight: 0.017, IoU: 0.984 
+class sign           weight: 0.539, IoU: 0.000 
+class tree           weight: 0.000, IoU: 0.923 
+
+2022-08-31 21:52:25,093 - Model - INFO - Eval mean loss: 0.087523
+2022-08-31 21:52:25,094 - Model - INFO - Eval accuracy: 0.979469
+2022-08-31 21:52:25,094 - Model - INFO - Best mIoU: 0.765111
+2022-08-31 21:52:25,095 - Model - INFO - **** Epoch 14 (14/100) ****
+2022-08-31 21:52:25,095 - Model - INFO - Learning rate:0.000700
+2022-08-31 21:55:08,484 - Model - INFO - Training mean loss: 0.131529
+2022-08-31 21:55:08,484 - Model - INFO - Training accuracy: 0.974762
+2022-08-31 21:55:08,498 - Model - INFO - ---- EPOCH 014 EVALUATION ----
+2022-08-31 21:57:51,110 - Model - INFO - eval mean loss: 0.072609
+2022-08-31 21:57:51,110 - Model - INFO - eval point avg class IoU: 0.801180
+2022-08-31 21:57:51,110 - Model - INFO - eval point accuracy: 0.984124
+2022-08-31 21:57:51,111 - Model - INFO - eval point avg class acc: 0.937086
+2022-08-31 21:57:51,111 - Model - INFO - ------- IoU --------
+class bin            weight: 0.063, IoU: 0.749 
+class cone           weight: 0.012, IoU: 0.803 
+class footway        weight: 0.001, IoU: 0.973 
+class handrail       weight: 0.337, IoU: 0.791 
+class light          weight: 0.027, IoU: 0.885 
+class road           weight: 0.017, IoU: 0.989 
+class sign           weight: 0.543, IoU: 0.263 
+class tree           weight: 0.001, IoU: 0.957 
+
+2022-08-31 21:57:51,112 - Model - INFO - Eval mean loss: 0.072609
+2022-08-31 21:57:51,113 - Model - INFO - Eval accuracy: 0.984124
+2022-08-31 21:57:51,113 - Model - INFO - Save model...
+2022-08-31 21:57:51,113 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 21:57:51,200 - Model - INFO - Saving model....
+2022-08-31 21:57:51,200 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 21:57:51,200 - Model - INFO - **** Epoch 15 (15/100) ****
+2022-08-31 21:57:51,201 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:00:33,152 - Model - INFO - Training mean loss: 0.172963
+2022-08-31 22:00:33,153 - Model - INFO - Training accuracy: 0.964995
+2022-08-31 22:00:33,166 - Model - INFO - ---- EPOCH 015 EVALUATION ----
+2022-08-31 22:03:15,636 - Model - INFO - eval mean loss: 0.111391
+2022-08-31 22:03:15,637 - Model - INFO - eval point avg class IoU: 0.685513
+2022-08-31 22:03:15,638 - Model - INFO - eval point accuracy: 0.976738
+2022-08-31 22:03:15,638 - Model - INFO - eval point avg class acc: 0.814592
+2022-08-31 22:03:15,638 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.745 
+class cone           weight: 0.008, IoU: 0.127 
+class footway        weight: 0.000, IoU: 0.951 
+class handrail       weight: 0.324, IoU: 0.782 
+class light          weight: 0.026, IoU: 0.884 
+class road           weight: 0.017, IoU: 0.977 
+class sign           weight: 0.558, IoU: 0.050 
+class tree           weight: 0.002, IoU: 0.968 
+
+2022-08-31 22:03:15,639 - Model - INFO - Eval mean loss: 0.111391
+2022-08-31 22:03:15,640 - Model - INFO - Eval accuracy: 0.976738
+2022-08-31 22:03:15,640 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:03:15,641 - Model - INFO - **** Epoch 16 (16/100) ****
+2022-08-31 22:03:15,641 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:05:58,808 - Model - INFO - Training mean loss: 0.181012
+2022-08-31 22:05:58,809 - Model - INFO - Training accuracy: 0.965601
+2022-08-31 22:05:58,809 - Model - INFO - Save model...
+2022-08-31 22:05:58,809 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 22:05:58,926 - Model - INFO - Saving model....
+2022-08-31 22:05:58,939 - Model - INFO - ---- EPOCH 016 EVALUATION ----
+2022-08-31 22:08:41,536 - Model - INFO - eval mean loss: 0.097137
+2022-08-31 22:08:41,536 - Model - INFO - eval point avg class IoU: 0.700936
+2022-08-31 22:08:41,537 - Model - INFO - eval point accuracy: 0.981194
+2022-08-31 22:08:41,537 - Model - INFO - eval point avg class acc: 0.832382
+2022-08-31 22:08:41,538 - Model - INFO - ------- IoU --------
+class bin            weight: 0.071, IoU: 0.756 
+class cone           weight: 0.011, IoU: 0.215 
+class footway        weight: 0.001, IoU: 0.974 
+class handrail       weight: 0.351, IoU: 0.764 
+class light          weight: 0.034, IoU: 0.767 
+class road           weight: 0.019, IoU: 0.988 
+class sign           weight: 0.513, IoU: 0.164 
+class tree           weight: 0.001, IoU: 0.980 
+
+2022-08-31 22:08:41,539 - Model - INFO - Eval mean loss: 0.097137
+2022-08-31 22:08:41,540 - Model - INFO - Eval accuracy: 0.981194
+2022-08-31 22:08:41,540 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:08:41,541 - Model - INFO - **** Epoch 17 (17/100) ****
+2022-08-31 22:08:41,541 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:11:24,317 - Model - INFO - Training mean loss: 0.139845
+2022-08-31 22:11:24,317 - Model - INFO - Training accuracy: 0.973337
+2022-08-31 22:11:24,331 - Model - INFO - ---- EPOCH 017 EVALUATION ----
+2022-08-31 22:14:06,670 - Model - INFO - eval mean loss: 0.095038
+2022-08-31 22:14:06,670 - Model - INFO - eval point avg class IoU: 0.709775
+2022-08-31 22:14:06,671 - Model - INFO - eval point accuracy: 0.980589
+2022-08-31 22:14:06,672 - Model - INFO - eval point avg class acc: 0.844644
+2022-08-31 22:14:06,672 - Model - INFO - ------- IoU --------
+class bin            weight: 0.070, IoU: 0.735 
+class cone           weight: 0.011, IoU: 0.212 
+class footway        weight: 0.001, IoU: 0.972 
+class handrail       weight: 0.339, IoU: 0.775 
+class light          weight: 0.029, IoU: 0.934 
+class road           weight: 0.018, IoU: 0.989 
+class sign           weight: 0.531, IoU: 0.142 
+class tree           weight: 0.001, IoU: 0.919 
+
+2022-08-31 22:14:06,674 - Model - INFO - Eval mean loss: 0.095038
+2022-08-31 22:14:06,674 - Model - INFO - Eval accuracy: 0.980589
+2022-08-31 22:14:06,675 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:14:06,675 - Model - INFO - **** Epoch 18 (18/100) ****
+2022-08-31 22:14:06,675 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:16:50,271 - Model - INFO - Training mean loss: 0.168461
+2022-08-31 22:16:50,272 - Model - INFO - Training accuracy: 0.957673
+2022-08-31 22:16:50,284 - Model - INFO - ---- EPOCH 018 EVALUATION ----
+2022-08-31 22:19:32,613 - Model - INFO - eval mean loss: 0.127108
+2022-08-31 22:19:32,614 - Model - INFO - eval point avg class IoU: 0.677733
+2022-08-31 22:19:32,614 - Model - INFO - eval point accuracy: 0.971571
+2022-08-31 22:19:32,615 - Model - INFO - eval point avg class acc: 0.779903
+2022-08-31 22:19:32,615 - Model - INFO - ------- IoU --------
+class bin            weight: 0.058, IoU: 0.742 
+class cone           weight: 0.009, IoU: 0.000 
+class footway        weight: 0.003, IoU: 0.939 
+class handrail       weight: 0.335, IoU: 0.735 
+class light          weight: 0.028, IoU: 0.899 
+class road           weight: 0.014, IoU: 0.971 
+class sign           weight: 0.551, IoU: 0.155 
+class tree           weight: 0.000, IoU: 0.980 
+
+2022-08-31 22:19:32,617 - Model - INFO - Eval mean loss: 0.127108
+2022-08-31 22:19:32,617 - Model - INFO - Eval accuracy: 0.971571
+2022-08-31 22:19:32,617 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:19:32,618 - Model - INFO - **** Epoch 19 (19/100) ****
+2022-08-31 22:19:32,618 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:22:15,701 - Model - INFO - Training mean loss: 0.149549
+2022-08-31 22:22:15,702 - Model - INFO - Training accuracy: 0.967129
+2022-08-31 22:22:15,716 - Model - INFO - ---- EPOCH 019 EVALUATION ----
+2022-08-31 22:24:57,485 - Model - INFO - eval mean loss: 0.088668
+2022-08-31 22:24:57,486 - Model - INFO - eval point avg class IoU: 0.732498
+2022-08-31 22:24:57,486 - Model - INFO - eval point accuracy: 0.979176
+2022-08-31 22:24:57,487 - Model - INFO - eval point avg class acc: 0.890696
+2022-08-31 22:24:57,487 - Model - INFO - ------- IoU --------
+class bin            weight: 0.063, IoU: 0.789 
+class cone           weight: 0.012, IoU: 0.177 
+class footway        weight: 0.001, IoU: 0.961 
+class handrail       weight: 0.323, IoU: 0.812 
+class light          weight: 0.027, IoU: 0.843 
+class road           weight: 0.016, IoU: 0.983 
+class sign           weight: 0.556, IoU: 0.359 
+class tree           weight: 0.002, IoU: 0.935 
+
+2022-08-31 22:24:57,489 - Model - INFO - Eval mean loss: 0.088668
+2022-08-31 22:24:57,489 - Model - INFO - Eval accuracy: 0.979176
+2022-08-31 22:24:57,490 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:24:57,490 - Model - INFO - **** Epoch 20 (20/100) ****
+2022-08-31 22:24:57,490 - Model - INFO - Learning rate:0.000700
+2022-08-31 22:27:40,361 - Model - INFO - Training mean loss: 0.137120
+2022-08-31 22:27:40,361 - Model - INFO - Training accuracy: 0.966482
+2022-08-31 22:27:40,375 - Model - INFO - ---- EPOCH 020 EVALUATION ----
+2022-08-31 22:30:22,195 - Model - INFO - eval mean loss: 0.078252
+2022-08-31 22:30:22,195 - Model - INFO - eval point avg class IoU: 0.709282
+2022-08-31 22:30:22,196 - Model - INFO - eval point accuracy: 0.974237
+2022-08-31 22:30:22,196 - Model - INFO - eval point avg class acc: 0.966376
+2022-08-31 22:30:22,197 - Model - INFO - ------- IoU --------
+class bin            weight: 0.073, IoU: 0.544 
+class cone           weight: 0.011, IoU: 0.288 
+class footway        weight: 0.002, IoU: 0.937 
+class handrail       weight: 0.326, IoU: 0.796 
+class light          weight: 0.030, IoU: 0.966 
+class road           weight: 0.015, IoU: 0.985 
+class sign           weight: 0.543, IoU: 0.176 
+class tree           weight: 0.000, IoU: 0.981 
+
+2022-08-31 22:30:22,198 - Model - INFO - Eval mean loss: 0.078252
+2022-08-31 22:30:22,199 - Model - INFO - Eval accuracy: 0.974237
+2022-08-31 22:30:22,199 - Model - INFO - Best mIoU: 0.801180
+2022-08-31 22:30:22,199 - Model - INFO - **** Epoch 21 (21/100) ****
+2022-08-31 22:30:22,200 - Model - INFO - Learning rate:0.000490
+2022-08-31 22:33:05,043 - Model - INFO - Training mean loss: 0.109212
+2022-08-31 22:33:05,043 - Model - INFO - Training accuracy: 0.976414
+2022-08-31 22:33:05,044 - Model - INFO - Save model...
+2022-08-31 22:33:05,045 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 22:33:05,162 - Model - INFO - Saving model....
+2022-08-31 22:33:05,176 - Model - INFO - ---- EPOCH 021 EVALUATION ----
+2022-08-31 22:35:47,527 - Model - INFO - eval mean loss: 0.058133
+2022-08-31 22:35:47,527 - Model - INFO - eval point avg class IoU: 0.851506
+2022-08-31 22:35:47,528 - Model - INFO - eval point accuracy: 0.987783
+2022-08-31 22:35:47,528 - Model - INFO - eval point avg class acc: 0.942897
+2022-08-31 22:35:47,529 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.778 
+class cone           weight: 0.010, IoU: 0.737 
+class footway        weight: 0.002, IoU: 0.977 
+class handrail       weight: 0.346, IoU: 0.877 
+class light          weight: 0.028, IoU: 0.956 
+class road           weight: 0.017, IoU: 0.990 
+class sign           weight: 0.532, IoU: 0.531 
+class tree           weight: 0.002, IoU: 0.966 
+
+2022-08-31 22:35:47,531 - Model - INFO - Eval mean loss: 0.058133
+2022-08-31 22:35:47,532 - Model - INFO - Eval accuracy: 0.987783
+2022-08-31 22:35:47,532 - Model - INFO - Save model...
+2022-08-31 22:35:47,532 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 22:35:47,619 - Model - INFO - Saving model....
+2022-08-31 22:35:47,619 - Model - INFO - Best mIoU: 0.851506
+2022-08-31 22:35:47,620 - Model - INFO - **** Epoch 22 (22/100) ****
+2022-08-31 22:35:47,620 - Model - INFO - Learning rate:0.000490
+2022-08-31 22:38:31,359 - Model - INFO - Training mean loss: 0.096867
+2022-08-31 22:38:31,359 - Model - INFO - Training accuracy: 0.978880
+2022-08-31 22:38:31,372 - Model - INFO - ---- EPOCH 022 EVALUATION ----
+2022-08-31 22:41:13,573 - Model - INFO - eval mean loss: 0.063406
+2022-08-31 22:41:13,574 - Model - INFO - eval point avg class IoU: 0.780184
+2022-08-31 22:41:13,574 - Model - INFO - eval point accuracy: 0.983415
+2022-08-31 22:41:13,575 - Model - INFO - eval point avg class acc: 0.961890
+2022-08-31 22:41:13,575 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.676 
+class cone           weight: 0.009, IoU: 0.500 
+class footway        weight: 0.002, IoU: 0.968 
+class handrail       weight: 0.329, IoU: 0.815 
+class light          weight: 0.029, IoU: 0.936 
+class road           weight: 0.017, IoU: 0.988 
+class sign           weight: 0.544, IoU: 0.382 
+class tree           weight: 0.001, IoU: 0.976 
+
+2022-08-31 22:41:13,577 - Model - INFO - Eval mean loss: 0.063406
+2022-08-31 22:41:13,578 - Model - INFO - Eval accuracy: 0.983415
+2022-08-31 22:41:13,578 - Model - INFO - Best mIoU: 0.851506
+2022-08-31 22:41:13,578 - Model - INFO - **** Epoch 23 (23/100) ****
+2022-08-31 22:41:13,579 - Model - INFO - Learning rate:0.000490
+2022-08-31 22:43:56,220 - Model - INFO - Training mean loss: 0.077920
+2022-08-31 22:43:56,221 - Model - INFO - Training accuracy: 0.983449
+2022-08-31 22:43:56,234 - Model - INFO - ---- EPOCH 023 EVALUATION ----
+2022-08-31 22:46:38,276 - Model - INFO - eval mean loss: 0.045652
+2022-08-31 22:46:38,277 - Model - INFO - eval point avg class IoU: 0.841145
+2022-08-31 22:46:38,277 - Model - INFO - eval point accuracy: 0.987181
+2022-08-31 22:46:38,278 - Model - INFO - eval point avg class acc: 0.960957
+2022-08-31 22:46:38,278 - Model - INFO - ------- IoU --------
+class bin            weight: 0.074, IoU: 0.733 
+class cone           weight: 0.008, IoU: 0.630 
+class footway        weight: 0.001, IoU: 0.973 
+class handrail       weight: 0.352, IoU: 0.914 
+class light          weight: 0.029, IoU: 0.977 
+class road           weight: 0.014, IoU: 0.988 
+class sign           weight: 0.520, IoU: 0.540 
+class tree           weight: 0.002, IoU: 0.974 
+
+2022-08-31 22:46:38,279 - Model - INFO - Eval mean loss: 0.045652
+2022-08-31 22:46:38,280 - Model - INFO - Eval accuracy: 0.987181
+2022-08-31 22:46:38,280 - Model - INFO - Best mIoU: 0.851506
+2022-08-31 22:46:38,281 - Model - INFO - **** Epoch 24 (24/100) ****
+2022-08-31 22:46:38,281 - Model - INFO - Learning rate:0.000490
+2022-08-31 22:49:21,725 - Model - INFO - Training mean loss: 0.095248
+2022-08-31 22:49:21,725 - Model - INFO - Training accuracy: 0.981304
+2022-08-31 22:49:21,739 - Model - INFO - ---- EPOCH 024 EVALUATION ----
+2022-08-31 22:52:04,158 - Model - INFO - eval mean loss: 0.044465
+2022-08-31 22:52:04,158 - Model - INFO - eval point avg class IoU: 0.796403
+2022-08-31 22:52:04,159 - Model - INFO - eval point accuracy: 0.989410
+2022-08-31 22:52:04,159 - Model - INFO - eval point avg class acc: 0.891500
+2022-08-31 22:52:04,159 - Model - INFO - ------- IoU --------
+class bin            weight: 0.059, IoU: 0.816 
+class cone           weight: 0.011, IoU: 0.437 
+class footway        weight: 0.001, IoU: 0.980 
+class handrail       weight: 0.345, IoU: 0.870 
+class light          weight: 0.030, IoU: 0.966 
+class road           weight: 0.014, IoU: 0.991 
+class sign           weight: 0.540, IoU: 0.325 
+class tree           weight: 0.000, IoU: 0.987 
+
+2022-08-31 22:52:04,162 - Model - INFO - Eval mean loss: 0.044465
+2022-08-31 22:52:04,164 - Model - INFO - Eval accuracy: 0.989410
+2022-08-31 22:52:04,165 - Model - INFO - Best mIoU: 0.851506
+2022-08-31 22:52:04,167 - Model - INFO - **** Epoch 25 (25/100) ****
+2022-08-31 22:52:04,168 - Model - INFO - Learning rate:0.000490
+2022-08-31 22:54:46,958 - Model - INFO - Training mean loss: 0.124643
+2022-08-31 22:54:46,959 - Model - INFO - Training accuracy: 0.977412
+2022-08-31 22:54:46,972 - Model - INFO - ---- EPOCH 025 EVALUATION ----
+2022-08-31 22:57:29,297 - Model - INFO - eval mean loss: 0.055592
+2022-08-31 22:57:29,298 - Model - INFO - eval point avg class IoU: 0.855431
+2022-08-31 22:57:29,299 - Model - INFO - eval point accuracy: 0.986283
+2022-08-31 22:57:29,299 - Model - INFO - eval point avg class acc: 0.954534
+2022-08-31 22:57:29,299 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.742 
+class cone           weight: 0.007, IoU: 0.610 
+class footway        weight: 0.002, IoU: 0.971 
+class handrail       weight: 0.350, IoU: 0.872 
+class light          weight: 0.028, IoU: 0.952 
+class road           weight: 0.019, IoU: 0.987 
+class sign           weight: 0.523, IoU: 0.725 
+class tree           weight: 0.002, IoU: 0.986 
+
+2022-08-31 22:57:29,302 - Model - INFO - Eval mean loss: 0.055592
+2022-08-31 22:57:29,302 - Model - INFO - Eval accuracy: 0.986283
+2022-08-31 22:57:29,303 - Model - INFO - Save model...
+2022-08-31 22:57:29,303 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 22:57:29,389 - Model - INFO - Saving model....
+2022-08-31 22:57:29,390 - Model - INFO - Best mIoU: 0.855431
+2022-08-31 22:57:29,391 - Model - INFO - **** Epoch 26 (26/100) ****
+2022-08-31 22:57:29,391 - Model - INFO - Learning rate:0.000490
+2022-08-31 23:00:12,625 - Model - INFO - Training mean loss: 0.086100
+2022-08-31 23:00:12,626 - Model - INFO - Training accuracy: 0.981079
+2022-08-31 23:00:12,626 - Model - INFO - Save model...
+2022-08-31 23:00:12,626 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 23:00:12,746 - Model - INFO - Saving model....
+2022-08-31 23:00:12,759 - Model - INFO - ---- EPOCH 026 EVALUATION ----
+2022-08-31 23:02:55,120 - Model - INFO - eval mean loss: 0.054614
+2022-08-31 23:02:55,121 - Model - INFO - eval point avg class IoU: 0.815495
+2022-08-31 23:02:55,121 - Model - INFO - eval point accuracy: 0.985019
+2022-08-31 23:02:55,122 - Model - INFO - eval point avg class acc: 0.963446
+2022-08-31 23:02:55,123 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.717 
+class cone           weight: 0.011, IoU: 0.627 
+class footway        weight: 0.003, IoU: 0.974 
+class handrail       weight: 0.349, IoU: 0.863 
+class light          weight: 0.030, IoU: 0.928 
+class road           weight: 0.015, IoU: 0.990 
+class sign           weight: 0.518, IoU: 0.462 
+class tree           weight: 0.002, IoU: 0.963 
+
+2022-08-31 23:02:55,127 - Model - INFO - Eval mean loss: 0.054614
+2022-08-31 23:02:55,128 - Model - INFO - Eval accuracy: 0.985019
+2022-08-31 23:02:55,128 - Model - INFO - Best mIoU: 0.855431
+2022-08-31 23:02:55,129 - Model - INFO - **** Epoch 27 (27/100) ****
+2022-08-31 23:02:55,129 - Model - INFO - Learning rate:0.000490
+2022-08-31 23:05:39,266 - Model - INFO - Training mean loss: 0.086413
+2022-08-31 23:05:39,267 - Model - INFO - Training accuracy: 0.982128
+2022-08-31 23:05:39,280 - Model - INFO - ---- EPOCH 027 EVALUATION ----
+2022-08-31 23:08:21,204 - Model - INFO - eval mean loss: 0.060396
+2022-08-31 23:08:21,204 - Model - INFO - eval point avg class IoU: 0.832258
+2022-08-31 23:08:21,205 - Model - INFO - eval point accuracy: 0.982832
+2022-08-31 23:08:21,205 - Model - INFO - eval point avg class acc: 0.920364
+2022-08-31 23:08:21,205 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.781 
+class cone           weight: 0.010, IoU: 0.766 
+class footway        weight: 0.001, IoU: 0.958 
+class handrail       weight: 0.338, IoU: 0.865 
+class light          weight: 0.025, IoU: 0.977 
+class road           weight: 0.017, IoU: 0.979 
+class sign           weight: 0.541, IoU: 0.343 
+class tree           weight: 0.000, IoU: 0.990 
+
+2022-08-31 23:08:21,207 - Model - INFO - Eval mean loss: 0.060396
+2022-08-31 23:08:21,207 - Model - INFO - Eval accuracy: 0.982832
+2022-08-31 23:08:21,208 - Model - INFO - Best mIoU: 0.855431
+2022-08-31 23:08:21,208 - Model - INFO - **** Epoch 28 (28/100) ****
+2022-08-31 23:08:21,210 - Model - INFO - Learning rate:0.000490
+2022-08-31 23:11:02,452 - Model - INFO - Training mean loss: 0.073459
+2022-08-31 23:11:02,453 - Model - INFO - Training accuracy: 0.983422
+2022-08-31 23:11:02,466 - Model - INFO - ---- EPOCH 028 EVALUATION ----
+2022-08-31 23:13:43,685 - Model - INFO - eval mean loss: 0.043293
+2022-08-31 23:13:43,685 - Model - INFO - eval point avg class IoU: 0.859226
+2022-08-31 23:13:43,686 - Model - INFO - eval point accuracy: 0.988604
+2022-08-31 23:13:43,686 - Model - INFO - eval point avg class acc: 0.974592
+2022-08-31 23:13:43,687 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.776 
+class cone           weight: 0.007, IoU: 0.779 
+class footway        weight: 0.003, IoU: 0.976 
+class handrail       weight: 0.349, IoU: 0.908 
+class light          weight: 0.030, IoU: 0.930 
+class road           weight: 0.016, IoU: 0.989 
+class sign           weight: 0.529, IoU: 0.533 
+class tree           weight: 0.001, IoU: 0.983 
+
+2022-08-31 23:13:43,688 - Model - INFO - Eval mean loss: 0.043293
+2022-08-31 23:13:43,689 - Model - INFO - Eval accuracy: 0.988604
+2022-08-31 23:13:43,689 - Model - INFO - Save model...
+2022-08-31 23:13:43,689 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 23:13:43,773 - Model - INFO - Saving model....
+2022-08-31 23:13:43,773 - Model - INFO - Best mIoU: 0.859226
+2022-08-31 23:13:43,774 - Model - INFO - **** Epoch 29 (29/100) ****
+2022-08-31 23:13:43,774 - Model - INFO - Learning rate:0.000490
+2022-08-31 23:16:25,065 - Model - INFO - Training mean loss: 0.076167
+2022-08-31 23:16:25,065 - Model - INFO - Training accuracy: 0.982328
+2022-08-31 23:16:25,079 - Model - INFO - ---- EPOCH 029 EVALUATION ----
+2022-08-31 23:19:05,366 - Model - INFO - eval mean loss: 0.048142
+2022-08-31 23:19:05,367 - Model - INFO - eval point avg class IoU: 0.871471
+2022-08-31 23:19:05,367 - Model - INFO - eval point accuracy: 0.988520
+2022-08-31 23:19:05,368 - Model - INFO - eval point avg class acc: 0.965734
+2022-08-31 23:19:05,368 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.771 
+class cone           weight: 0.010, IoU: 0.822 
+class footway        weight: 0.001, IoU: 0.978 
+class handrail       weight: 0.349, IoU: 0.884 
+class light          weight: 0.028, IoU: 0.983 
+class road           weight: 0.018, IoU: 0.990 
+class sign           weight: 0.524, IoU: 0.572 
+class tree           weight: 0.002, IoU: 0.972 
+
+2022-08-31 23:19:05,370 - Model - INFO - Eval mean loss: 0.048142
+2022-08-31 23:19:05,370 - Model - INFO - Eval accuracy: 0.988520
+2022-08-31 23:19:05,370 - Model - INFO - Save model...
+2022-08-31 23:19:05,370 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 23:19:05,456 - Model - INFO - Saving model....
+2022-08-31 23:19:05,457 - Model - INFO - Best mIoU: 0.871471
+2022-08-31 23:19:05,459 - Model - INFO - **** Epoch 30 (30/100) ****
+2022-08-31 23:19:05,460 - Model - INFO - Learning rate:0.000490
+2022-08-31 23:21:46,721 - Model - INFO - Training mean loss: 0.101424
+2022-08-31 23:21:46,721 - Model - INFO - Training accuracy: 0.978317
+2022-08-31 23:21:46,735 - Model - INFO - ---- EPOCH 030 EVALUATION ----
+2022-08-31 23:24:27,000 - Model - INFO - eval mean loss: 0.065523
+2022-08-31 23:24:27,000 - Model - INFO - eval point avg class IoU: 0.784826
+2022-08-31 23:24:27,001 - Model - INFO - eval point accuracy: 0.986186
+2022-08-31 23:24:27,002 - Model - INFO - eval point avg class acc: 0.913262
+2022-08-31 23:24:27,002 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.727 
+class cone           weight: 0.011, IoU: 0.356 
+class footway        weight: 0.002, IoU: 0.978 
+class handrail       weight: 0.331, IoU: 0.784 
+class light          weight: 0.027, IoU: 0.967 
+class road           weight: 0.015, IoU: 0.992 
+class sign           weight: 0.547, IoU: 0.492 
+class tree           weight: 0.002, IoU: 0.982 
+
+2022-08-31 23:24:27,004 - Model - INFO - Eval mean loss: 0.065523
+2022-08-31 23:24:27,004 - Model - INFO - Eval accuracy: 0.986186
+2022-08-31 23:24:27,004 - Model - INFO - Best mIoU: 0.871471
+2022-08-31 23:24:27,004 - Model - INFO - **** Epoch 31 (31/100) ****
+2022-08-31 23:24:27,005 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:27:07,353 - Model - INFO - Training mean loss: 0.101446
+2022-08-31 23:27:07,354 - Model - INFO - Training accuracy: 0.977900
+2022-08-31 23:27:07,354 - Model - INFO - Save model...
+2022-08-31 23:27:07,354 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 23:27:07,474 - Model - INFO - Saving model....
+2022-08-31 23:27:07,487 - Model - INFO - ---- EPOCH 031 EVALUATION ----
+2022-08-31 23:29:47,426 - Model - INFO - eval mean loss: 0.056602
+2022-08-31 23:29:47,427 - Model - INFO - eval point avg class IoU: 0.762364
+2022-08-31 23:29:47,427 - Model - INFO - eval point accuracy: 0.984658
+2022-08-31 23:29:47,427 - Model - INFO - eval point avg class acc: 0.950978
+2022-08-31 23:29:47,428 - Model - INFO - ------- IoU --------
+class bin            weight: 0.070, IoU: 0.732 
+class cone           weight: 0.010, IoU: 0.189 
+class footway        weight: 0.001, IoU: 0.971 
+class handrail       weight: 0.332, IoU: 0.844 
+class light          weight: 0.024, IoU: 0.949 
+class road           weight: 0.014, IoU: 0.990 
+class sign           weight: 0.547, IoU: 0.457 
+class tree           weight: 0.002, IoU: 0.967 
+
+2022-08-31 23:29:47,429 - Model - INFO - Eval mean loss: 0.056602
+2022-08-31 23:29:47,429 - Model - INFO - Eval accuracy: 0.984658
+2022-08-31 23:29:47,430 - Model - INFO - Best mIoU: 0.871471
+2022-08-31 23:29:47,430 - Model - INFO - **** Epoch 32 (32/100) ****
+2022-08-31 23:29:47,430 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:32:28,180 - Model - INFO - Training mean loss: 0.082228
+2022-08-31 23:32:28,180 - Model - INFO - Training accuracy: 0.982015
+2022-08-31 23:32:28,194 - Model - INFO - ---- EPOCH 032 EVALUATION ----
+2022-08-31 23:35:08,388 - Model - INFO - eval mean loss: 0.049849
+2022-08-31 23:35:08,389 - Model - INFO - eval point avg class IoU: 0.863883
+2022-08-31 23:35:08,389 - Model - INFO - eval point accuracy: 0.987346
+2022-08-31 23:35:08,390 - Model - INFO - eval point avg class acc: 0.962582
+2022-08-31 23:35:08,390 - Model - INFO - ------- IoU --------
+class bin            weight: 0.071, IoU: 0.777 
+class cone           weight: 0.010, IoU: 0.747 
+class footway        weight: 0.003, IoU: 0.975 
+class handrail       weight: 0.332, IoU: 0.840 
+class light          weight: 0.026, IoU: 0.927 
+class road           weight: 0.017, IoU: 0.989 
+class sign           weight: 0.539, IoU: 0.669 
+class tree           weight: 0.001, IoU: 0.986 
+
+2022-08-31 23:35:08,391 - Model - INFO - Eval mean loss: 0.049849
+2022-08-31 23:35:08,392 - Model - INFO - Eval accuracy: 0.987346
+2022-08-31 23:35:08,392 - Model - INFO - Best mIoU: 0.871471
+2022-08-31 23:35:08,393 - Model - INFO - **** Epoch 33 (33/100) ****
+2022-08-31 23:35:08,393 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:37:49,284 - Model - INFO - Training mean loss: 0.105048
+2022-08-31 23:37:49,285 - Model - INFO - Training accuracy: 0.977775
+2022-08-31 23:37:49,298 - Model - INFO - ---- EPOCH 033 EVALUATION ----
+2022-08-31 23:40:29,183 - Model - INFO - eval mean loss: 0.068665
+2022-08-31 23:40:29,183 - Model - INFO - eval point avg class IoU: 0.858534
+2022-08-31 23:40:29,184 - Model - INFO - eval point accuracy: 0.983526
+2022-08-31 23:40:29,184 - Model - INFO - eval point avg class acc: 0.964104
+2022-08-31 23:40:29,184 - Model - INFO - ------- IoU --------
+class bin            weight: 0.074, IoU: 0.734 
+class cone           weight: 0.010, IoU: 0.726 
+class footway        weight: 0.002, IoU: 0.960 
+class handrail       weight: 0.338, IoU: 0.881 
+class light          weight: 0.028, IoU: 0.933 
+class road           weight: 0.014, IoU: 0.982 
+class sign           weight: 0.533, IoU: 0.657 
+class tree           weight: 0.002, IoU: 0.994 
+
+2022-08-31 23:40:29,186 - Model - INFO - Eval mean loss: 0.068665
+2022-08-31 23:40:29,186 - Model - INFO - Eval accuracy: 0.983526
+2022-08-31 23:40:29,187 - Model - INFO - Best mIoU: 0.871471
+2022-08-31 23:40:29,188 - Model - INFO - **** Epoch 34 (34/100) ****
+2022-08-31 23:40:29,188 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:43:09,992 - Model - INFO - Training mean loss: 0.052375
+2022-08-31 23:43:09,992 - Model - INFO - Training accuracy: 0.987535
+2022-08-31 23:43:10,005 - Model - INFO - ---- EPOCH 034 EVALUATION ----
+2022-08-31 23:45:49,902 - Model - INFO - eval mean loss: 0.034683
+2022-08-31 23:45:49,902 - Model - INFO - eval point avg class IoU: 0.899565
+2022-08-31 23:45:49,903 - Model - INFO - eval point accuracy: 0.992069
+2022-08-31 23:45:49,904 - Model - INFO - eval point avg class acc: 0.978322
+2022-08-31 23:45:49,904 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.793 
+class cone           weight: 0.007, IoU: 0.871 
+class footway        weight: 0.002, IoU: 0.982 
+class handrail       weight: 0.337, IoU: 0.918 
+class light          weight: 0.030, IoU: 0.981 
+class road           weight: 0.014, IoU: 0.992 
+class sign           weight: 0.540, IoU: 0.664 
+class tree           weight: 0.001, IoU: 0.995 
+
+2022-08-31 23:45:49,906 - Model - INFO - Eval mean loss: 0.034683
+2022-08-31 23:45:49,906 - Model - INFO - Eval accuracy: 0.992069
+2022-08-31 23:45:49,907 - Model - INFO - Save model...
+2022-08-31 23:45:49,907 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-08-31 23:45:49,991 - Model - INFO - Saving model....
+2022-08-31 23:45:49,992 - Model - INFO - Best mIoU: 0.899565
+2022-08-31 23:45:49,993 - Model - INFO - **** Epoch 35 (35/100) ****
+2022-08-31 23:45:49,993 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:48:31,646 - Model - INFO - Training mean loss: 0.064899
+2022-08-31 23:48:31,647 - Model - INFO - Training accuracy: 0.986040
+2022-08-31 23:48:31,660 - Model - INFO - ---- EPOCH 035 EVALUATION ----
+2022-08-31 23:51:11,774 - Model - INFO - eval mean loss: 0.054420
+2022-08-31 23:51:11,775 - Model - INFO - eval point avg class IoU: 0.798295
+2022-08-31 23:51:11,775 - Model - INFO - eval point accuracy: 0.985247
+2022-08-31 23:51:11,776 - Model - INFO - eval point avg class acc: 0.956262
+2022-08-31 23:51:11,776 - Model - INFO - ------- IoU --------
+class bin            weight: 0.060, IoU: 0.721 
+class cone           weight: 0.009, IoU: 0.101 
+class footway        weight: 0.000, IoU: 0.974 
+class handrail       weight: 0.363, IoU: 0.806 
+class light          weight: 0.029, IoU: 0.948 
+class road           weight: 0.014, IoU: 0.989 
+class sign           weight: 0.523, IoU: 0.855 
+class tree           weight: 0.002, IoU: 0.993 
+
+2022-08-31 23:51:11,778 - Model - INFO - Eval mean loss: 0.054420
+2022-08-31 23:51:11,778 - Model - INFO - Eval accuracy: 0.985247
+2022-08-31 23:51:11,779 - Model - INFO - Best mIoU: 0.899565
+2022-08-31 23:51:11,779 - Model - INFO - **** Epoch 36 (36/100) ****
+2022-08-31 23:51:11,779 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:53:53,218 - Model - INFO - Training mean loss: 0.056339
+2022-08-31 23:53:53,218 - Model - INFO - Training accuracy: 0.987569
+2022-08-31 23:53:53,219 - Model - INFO - Save model...
+2022-08-31 23:53:53,219 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-08-31 23:53:53,340 - Model - INFO - Saving model....
+2022-08-31 23:53:53,353 - Model - INFO - ---- EPOCH 036 EVALUATION ----
+2022-08-31 23:56:33,484 - Model - INFO - eval mean loss: 0.033820
+2022-08-31 23:56:33,484 - Model - INFO - eval point avg class IoU: 0.797103
+2022-08-31 23:56:33,485 - Model - INFO - eval point accuracy: 0.990234
+2022-08-31 23:56:33,485 - Model - INFO - eval point avg class acc: 0.851115
+2022-08-31 23:56:33,485 - Model - INFO - ------- IoU --------
+class bin            weight: 0.060, IoU: 0.734 
+class cone           weight: 0.010, IoU: 0.000 
+class footway        weight: 0.000, IoU: 0.979 
+class handrail       weight: 0.365, IoU: 0.908 
+class light          weight: 0.029, IoU: 0.987 
+class road           weight: 0.025, IoU: 0.991 
+class sign           weight: 0.511, IoU: 0.787 
+class tree           weight: 0.001, IoU: 0.990 
+
+2022-08-31 23:56:33,487 - Model - INFO - Eval mean loss: 0.033820
+2022-08-31 23:56:33,487 - Model - INFO - Eval accuracy: 0.990234
+2022-08-31 23:56:33,488 - Model - INFO - Best mIoU: 0.899565
+2022-08-31 23:56:33,488 - Model - INFO - **** Epoch 37 (37/100) ****
+2022-08-31 23:56:33,488 - Model - INFO - Learning rate:0.000343
+2022-08-31 23:59:14,895 - Model - INFO - Training mean loss: 0.059283
+2022-08-31 23:59:14,895 - Model - INFO - Training accuracy: 0.986000
+2022-08-31 23:59:14,908 - Model - INFO - ---- EPOCH 037 EVALUATION ----
+2022-09-01 00:01:55,607 - Model - INFO - eval mean loss: 0.035334
+2022-09-01 00:01:55,607 - Model - INFO - eval point avg class IoU: 0.866919
+2022-09-01 00:01:55,608 - Model - INFO - eval point accuracy: 0.990513
+2022-09-01 00:01:55,609 - Model - INFO - eval point avg class acc: 0.983298
+2022-09-01 00:01:55,609 - Model - INFO - ------- IoU --------
+class bin            weight: 0.059, IoU: 0.745 
+class cone           weight: 0.005, IoU: 0.683 
+class footway        weight: 0.001, IoU: 0.981 
+class handrail       weight: 0.357, IoU: 0.927 
+class light          weight: 0.033, IoU: 0.993 
+class road           weight: 0.013, IoU: 0.991 
+class sign           weight: 0.529, IoU: 0.637 
+class tree           weight: 0.002, IoU: 0.978 
+
+2022-09-01 00:01:55,611 - Model - INFO - Eval mean loss: 0.035334
+2022-09-01 00:01:55,611 - Model - INFO - Eval accuracy: 0.990513
+2022-09-01 00:01:55,611 - Model - INFO - Best mIoU: 0.899565
+2022-09-01 00:01:55,611 - Model - INFO - **** Epoch 38 (38/100) ****
+2022-09-01 00:01:55,612 - Model - INFO - Learning rate:0.000343
+2022-09-01 00:04:37,093 - Model - INFO - Training mean loss: 0.072264
+2022-09-01 00:04:37,093 - Model - INFO - Training accuracy: 0.982923
+2022-09-01 00:04:37,107 - Model - INFO - ---- EPOCH 038 EVALUATION ----
+2022-09-01 00:07:17,835 - Model - INFO - eval mean loss: 0.058816
+2022-09-01 00:07:17,835 - Model - INFO - eval point avg class IoU: 0.837033
+2022-09-01 00:07:17,836 - Model - INFO - eval point accuracy: 0.984130
+2022-09-01 00:07:17,836 - Model - INFO - eval point avg class acc: 0.973228
+2022-09-01 00:07:17,837 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.701 
+class cone           weight: 0.007, IoU: 0.659 
+class footway        weight: 0.003, IoU: 0.964 
+class handrail       weight: 0.350, IoU: 0.840 
+class light          weight: 0.027, IoU: 0.981 
+class road           weight: 0.019, IoU: 0.988 
+class sign           weight: 0.529, IoU: 0.586 
+class tree           weight: 0.002, IoU: 0.978 
+
+2022-09-01 00:07:17,838 - Model - INFO - Eval mean loss: 0.058816
+2022-09-01 00:07:17,839 - Model - INFO - Eval accuracy: 0.984130
+2022-09-01 00:07:17,839 - Model - INFO - Best mIoU: 0.899565
+2022-09-01 00:07:17,839 - Model - INFO - **** Epoch 39 (39/100) ****
+2022-09-01 00:07:17,840 - Model - INFO - Learning rate:0.000343
+2022-09-01 00:09:58,487 - Model - INFO - Training mean loss: 0.077407
+2022-09-01 00:09:58,487 - Model - INFO - Training accuracy: 0.982585
+2022-09-01 00:09:58,500 - Model - INFO - ---- EPOCH 039 EVALUATION ----
+2022-09-01 00:12:39,083 - Model - INFO - eval mean loss: 0.079413
+2022-09-01 00:12:39,084 - Model - INFO - eval point avg class IoU: 0.767504
+2022-09-01 00:12:39,084 - Model - INFO - eval point accuracy: 0.979018
+2022-09-01 00:12:39,085 - Model - INFO - eval point avg class acc: 0.947038
+2022-09-01 00:12:39,085 - Model - INFO - ------- IoU --------
+class bin            weight: 0.055, IoU: 0.694 
+class cone           weight: 0.011, IoU: 0.746 
+class footway        weight: 0.003, IoU: 0.972 
+class handrail       weight: 0.341, IoU: 0.850 
+class light          weight: 0.024, IoU: 0.630 
+class road           weight: 0.012, IoU: 0.991 
+class sign           weight: 0.552, IoU: 0.417 
+class tree           weight: 0.001, IoU: 0.840 
+
+2022-09-01 00:12:39,087 - Model - INFO - Eval mean loss: 0.079413
+2022-09-01 00:12:39,087 - Model - INFO - Eval accuracy: 0.979018
+2022-09-01 00:12:39,088 - Model - INFO - Best mIoU: 0.899565
+2022-09-01 00:12:39,088 - Model - INFO - **** Epoch 40 (40/100) ****
+2022-09-01 00:12:39,088 - Model - INFO - Learning rate:0.000343
+2022-09-01 00:15:19,742 - Model - INFO - Training mean loss: 0.057094
+2022-09-01 00:15:19,743 - Model - INFO - Training accuracy: 0.986803
+2022-09-01 00:15:19,756 - Model - INFO - ---- EPOCH 040 EVALUATION ----
+2022-09-01 00:18:01,098 - Model - INFO - eval mean loss: 0.046674
+2022-09-01 00:18:01,099 - Model - INFO - eval point avg class IoU: 0.911826
+2022-09-01 00:18:01,099 - Model - INFO - eval point accuracy: 0.988859
+2022-09-01 00:18:01,100 - Model - INFO - eval point avg class acc: 0.960021
+2022-09-01 00:18:01,100 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.786 
+class cone           weight: 0.013, IoU: 0.857 
+class footway        weight: 0.003, IoU: 0.977 
+class handrail       weight: 0.332, IoU: 0.862 
+class light          weight: 0.029, IoU: 0.967 
+class road           weight: 0.019, IoU: 0.991 
+class sign           weight: 0.536, IoU: 0.867 
+class tree           weight: 0.001, IoU: 0.989 
+
+2022-09-01 00:18:01,101 - Model - INFO - Eval mean loss: 0.046674
+2022-09-01 00:18:01,102 - Model - INFO - Eval accuracy: 0.988859
+2022-09-01 00:18:01,102 - Model - INFO - Save model...
+2022-09-01 00:18:01,102 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 00:18:01,204 - Model - INFO - Saving model....
+2022-09-01 00:18:01,205 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:18:01,205 - Model - INFO - **** Epoch 41 (41/100) ****
+2022-09-01 00:18:01,205 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:20:42,063 - Model - INFO - Training mean loss: 0.059995
+2022-09-01 00:20:42,064 - Model - INFO - Training accuracy: 0.987521
+2022-09-01 00:20:42,064 - Model - INFO - Save model...
+2022-09-01 00:20:42,064 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 00:20:42,187 - Model - INFO - Saving model....
+2022-09-01 00:20:42,200 - Model - INFO - ---- EPOCH 041 EVALUATION ----
+2022-09-01 00:23:22,763 - Model - INFO - eval mean loss: 0.040429
+2022-09-01 00:23:22,764 - Model - INFO - eval point avg class IoU: 0.868005
+2022-09-01 00:23:22,764 - Model - INFO - eval point accuracy: 0.989085
+2022-09-01 00:23:22,765 - Model - INFO - eval point avg class acc: 0.969083
+2022-09-01 00:23:22,766 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.806 
+class cone           weight: 0.013, IoU: 0.752 
+class footway        weight: 0.002, IoU: 0.980 
+class handrail       weight: 0.343, IoU: 0.872 
+class light          weight: 0.030, IoU: 0.940 
+class road           weight: 0.015, IoU: 0.991 
+class sign           weight: 0.526, IoU: 0.621 
+class tree           weight: 0.001, IoU: 0.981 
+
+2022-09-01 00:23:22,768 - Model - INFO - Eval mean loss: 0.040429
+2022-09-01 00:23:22,768 - Model - INFO - Eval accuracy: 0.989085
+2022-09-01 00:23:22,769 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:23:22,769 - Model - INFO - **** Epoch 42 (42/100) ****
+2022-09-01 00:23:22,769 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:26:04,742 - Model - INFO - Training mean loss: 0.064267
+2022-09-01 00:26:04,742 - Model - INFO - Training accuracy: 0.985910
+2022-09-01 00:26:04,756 - Model - INFO - ---- EPOCH 042 EVALUATION ----
+2022-09-01 00:28:46,472 - Model - INFO - eval mean loss: 0.031541
+2022-09-01 00:28:46,473 - Model - INFO - eval point avg class IoU: 0.900488
+2022-09-01 00:28:46,473 - Model - INFO - eval point accuracy: 0.991748
+2022-09-01 00:28:46,474 - Model - INFO - eval point avg class acc: 0.974457
+2022-09-01 00:28:46,474 - Model - INFO - ------- IoU --------
+class bin            weight: 0.075, IoU: 0.862 
+class cone           weight: 0.009, IoU: 0.694 
+class footway        weight: 0.002, IoU: 0.982 
+class handrail       weight: 0.354, IoU: 0.924 
+class light          weight: 0.030, IoU: 0.989 
+class road           weight: 0.017, IoU: 0.992 
+class sign           weight: 0.511, IoU: 0.769 
+class tree           weight: 0.001, IoU: 0.993 
+
+2022-09-01 00:28:46,475 - Model - INFO - Eval mean loss: 0.031541
+2022-09-01 00:28:46,476 - Model - INFO - Eval accuracy: 0.991748
+2022-09-01 00:28:46,477 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:28:46,477 - Model - INFO - **** Epoch 43 (43/100) ****
+2022-09-01 00:28:46,477 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:31:27,257 - Model - INFO - Training mean loss: 0.054583
+2022-09-01 00:31:27,257 - Model - INFO - Training accuracy: 0.986211
+2022-09-01 00:31:27,270 - Model - INFO - ---- EPOCH 043 EVALUATION ----
+2022-09-01 00:34:07,784 - Model - INFO - eval mean loss: 0.034466
+2022-09-01 00:34:07,784 - Model - INFO - eval point avg class IoU: 0.903576
+2022-09-01 00:34:07,785 - Model - INFO - eval point accuracy: 0.989788
+2022-09-01 00:34:07,785 - Model - INFO - eval point avg class acc: 0.976391
+2022-09-01 00:34:07,786 - Model - INFO - ------- IoU --------
+class bin            weight: 0.067, IoU: 0.829 
+class cone           weight: 0.010, IoU: 0.729 
+class footway        weight: 0.001, IoU: 0.976 
+class handrail       weight: 0.338, IoU: 0.912 
+class light          weight: 0.029, IoU: 0.994 
+class road           weight: 0.018, IoU: 0.988 
+class sign           weight: 0.536, IoU: 0.808 
+class tree           weight: 0.001, IoU: 0.993 
+
+2022-09-01 00:34:07,788 - Model - INFO - Eval mean loss: 0.034466
+2022-09-01 00:34:07,788 - Model - INFO - Eval accuracy: 0.989788
+2022-09-01 00:34:07,789 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:34:07,789 - Model - INFO - **** Epoch 44 (44/100) ****
+2022-09-01 00:34:07,790 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:36:48,955 - Model - INFO - Training mean loss: 0.057596
+2022-09-01 00:36:48,955 - Model - INFO - Training accuracy: 0.986429
+2022-09-01 00:36:48,969 - Model - INFO - ---- EPOCH 044 EVALUATION ----
+2022-09-01 00:39:29,394 - Model - INFO - eval mean loss: 0.043948
+2022-09-01 00:39:29,394 - Model - INFO - eval point avg class IoU: 0.816653
+2022-09-01 00:39:29,395 - Model - INFO - eval point accuracy: 0.987414
+2022-09-01 00:39:29,395 - Model - INFO - eval point avg class acc: 0.957398
+2022-09-01 00:39:29,395 - Model - INFO - ------- IoU --------
+class bin            weight: 0.058, IoU: 0.646 
+class cone           weight: 0.010, IoU: 0.621 
+class footway        weight: 0.002, IoU: 0.972 
+class handrail       weight: 0.327, IoU: 0.875 
+class light          weight: 0.029, IoU: 0.981 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.559, IoU: 0.457 
+class tree           weight: 0.000, IoU: 0.987 
+
+2022-09-01 00:39:29,397 - Model - INFO - Eval mean loss: 0.043948
+2022-09-01 00:39:29,398 - Model - INFO - Eval accuracy: 0.987414
+2022-09-01 00:39:29,398 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:39:29,399 - Model - INFO - **** Epoch 45 (45/100) ****
+2022-09-01 00:39:29,399 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:42:10,031 - Model - INFO - Training mean loss: 0.058750
+2022-09-01 00:42:10,032 - Model - INFO - Training accuracy: 0.986312
+2022-09-01 00:42:10,046 - Model - INFO - ---- EPOCH 045 EVALUATION ----
+2022-09-01 00:44:50,239 - Model - INFO - eval mean loss: 0.037055
+2022-09-01 00:44:50,240 - Model - INFO - eval point avg class IoU: 0.856598
+2022-09-01 00:44:50,241 - Model - INFO - eval point accuracy: 0.989718
+2022-09-01 00:44:50,241 - Model - INFO - eval point avg class acc: 0.963262
+2022-09-01 00:44:50,242 - Model - INFO - ------- IoU --------
+class bin            weight: 0.067, IoU: 0.801 
+class cone           weight: 0.010, IoU: 0.550 
+class footway        weight: 0.002, IoU: 0.980 
+class handrail       weight: 0.344, IoU: 0.881 
+class light          weight: 0.025, IoU: 0.966 
+class road           weight: 0.010, IoU: 0.991 
+class sign           weight: 0.540, IoU: 0.698 
+class tree           weight: 0.002, IoU: 0.986 
+
+2022-09-01 00:44:50,243 - Model - INFO - Eval mean loss: 0.037055
+2022-09-01 00:44:50,243 - Model - INFO - Eval accuracy: 0.989718
+2022-09-01 00:44:50,244 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:44:50,244 - Model - INFO - **** Epoch 46 (46/100) ****
+2022-09-01 00:44:50,244 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:47:31,991 - Model - INFO - Training mean loss: 0.048016
+2022-09-01 00:47:31,991 - Model - INFO - Training accuracy: 0.988951
+2022-09-01 00:47:31,991 - Model - INFO - Save model...
+2022-09-01 00:47:31,992 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 00:47:32,113 - Model - INFO - Saving model....
+2022-09-01 00:47:32,126 - Model - INFO - ---- EPOCH 046 EVALUATION ----
+2022-09-01 00:50:14,255 - Model - INFO - eval mean loss: 0.030411
+2022-09-01 00:50:14,255 - Model - INFO - eval point avg class IoU: 0.863993
+2022-09-01 00:50:14,255 - Model - INFO - eval point accuracy: 0.990756
+2022-09-01 00:50:14,256 - Model - INFO - eval point avg class acc: 0.981752
+2022-09-01 00:50:14,256 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.788 
+class cone           weight: 0.009, IoU: 0.770 
+class footway        weight: 0.002, IoU: 0.978 
+class handrail       weight: 0.330, IoU: 0.911 
+class light          weight: 0.025, IoU: 0.995 
+class road           weight: 0.020, IoU: 0.991 
+class sign           weight: 0.545, IoU: 0.487 
+class tree           weight: 0.000, IoU: 0.992 
+
+2022-09-01 00:50:14,257 - Model - INFO - Eval mean loss: 0.030411
+2022-09-01 00:50:14,258 - Model - INFO - Eval accuracy: 0.990756
+2022-09-01 00:50:14,258 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:50:14,258 - Model - INFO - **** Epoch 47 (47/100) ****
+2022-09-01 00:50:14,259 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:52:55,432 - Model - INFO - Training mean loss: 0.044517
+2022-09-01 00:52:55,433 - Model - INFO - Training accuracy: 0.989404
+2022-09-01 00:52:55,446 - Model - INFO - ---- EPOCH 047 EVALUATION ----
+2022-09-01 00:55:36,026 - Model - INFO - eval mean loss: 0.037145
+2022-09-01 00:55:36,026 - Model - INFO - eval point avg class IoU: 0.894553
+2022-09-01 00:55:36,027 - Model - INFO - eval point accuracy: 0.988481
+2022-09-01 00:55:36,027 - Model - INFO - eval point avg class acc: 0.979461
+2022-09-01 00:55:36,028 - Model - INFO - ------- IoU --------
+class bin            weight: 0.061, IoU: 0.768 
+class cone           weight: 0.011, IoU: 0.783 
+class footway        weight: 0.006, IoU: 0.976 
+class handrail       weight: 0.351, IoU: 0.880 
+class light          weight: 0.029, IoU: 0.993 
+class road           weight: 0.019, IoU: 0.990 
+class sign           weight: 0.522, IoU: 0.773 
+class tree           weight: 0.001, IoU: 0.993 
+
+2022-09-01 00:55:36,030 - Model - INFO - Eval mean loss: 0.037145
+2022-09-01 00:55:36,030 - Model - INFO - Eval accuracy: 0.988481
+2022-09-01 00:55:36,031 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 00:55:36,031 - Model - INFO - **** Epoch 48 (48/100) ****
+2022-09-01 00:55:36,031 - Model - INFO - Learning rate:0.000240
+2022-09-01 00:58:17,836 - Model - INFO - Training mean loss: 0.051490
+2022-09-01 00:58:17,836 - Model - INFO - Training accuracy: 0.988545
+2022-09-01 00:58:17,849 - Model - INFO - ---- EPOCH 048 EVALUATION ----
+2022-09-01 01:00:58,570 - Model - INFO - eval mean loss: 0.029819
+2022-09-01 01:00:58,570 - Model - INFO - eval point avg class IoU: 0.895631
+2022-09-01 01:00:58,571 - Model - INFO - eval point accuracy: 0.991478
+2022-09-01 01:00:58,572 - Model - INFO - eval point avg class acc: 0.979833
+2022-09-01 01:00:58,572 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.864 
+class cone           weight: 0.007, IoU: 0.590 
+class footway        weight: 0.002, IoU: 0.982 
+class handrail       weight: 0.368, IoU: 0.912 
+class light          weight: 0.027, IoU: 0.989 
+class road           weight: 0.020, IoU: 0.991 
+class sign           weight: 0.506, IoU: 0.843 
+class tree           weight: 0.001, IoU: 0.995 
+
+2022-09-01 01:00:58,574 - Model - INFO - Eval mean loss: 0.029819
+2022-09-01 01:00:58,574 - Model - INFO - Eval accuracy: 0.991478
+2022-09-01 01:00:58,575 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 01:00:58,575 - Model - INFO - **** Epoch 49 (49/100) ****
+2022-09-01 01:00:58,575 - Model - INFO - Learning rate:0.000240
+2022-09-01 01:03:40,341 - Model - INFO - Training mean loss: 0.044029
+2022-09-01 01:03:40,342 - Model - INFO - Training accuracy: 0.990359
+2022-09-01 01:03:40,355 - Model - INFO - ---- EPOCH 049 EVALUATION ----
+2022-09-01 01:06:22,768 - Model - INFO - eval mean loss: 0.034363
+2022-09-01 01:06:22,769 - Model - INFO - eval point avg class IoU: 0.868763
+2022-09-01 01:06:22,769 - Model - INFO - eval point accuracy: 0.991150
+2022-09-01 01:06:22,770 - Model - INFO - eval point avg class acc: 0.970960
+2022-09-01 01:06:22,770 - Model - INFO - ------- IoU --------
+class bin            weight: 0.073, IoU: 0.866 
+class cone           weight: 0.006, IoU: 0.792 
+class footway        weight: 0.003, IoU: 0.984 
+class handrail       weight: 0.344, IoU: 0.892 
+class light          weight: 0.022, IoU: 0.912 
+class road           weight: 0.016, IoU: 0.993 
+class sign           weight: 0.535, IoU: 0.533 
+class tree           weight: 0.001, IoU: 0.979 
+
+2022-09-01 01:06:22,772 - Model - INFO - Eval mean loss: 0.034363
+2022-09-01 01:06:22,772 - Model - INFO - Eval accuracy: 0.991150
+2022-09-01 01:06:22,773 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 01:06:22,773 - Model - INFO - **** Epoch 50 (50/100) ****
+2022-09-01 01:06:22,774 - Model - INFO - Learning rate:0.000240
+2022-09-01 01:09:03,663 - Model - INFO - Training mean loss: 0.053286
+2022-09-01 01:09:03,664 - Model - INFO - Training accuracy: 0.986533
+2022-09-01 01:09:03,676 - Model - INFO - ---- EPOCH 050 EVALUATION ----
+2022-09-01 01:11:45,706 - Model - INFO - eval mean loss: 0.031072
+2022-09-01 01:11:45,706 - Model - INFO - eval point avg class IoU: 0.892364
+2022-09-01 01:11:45,707 - Model - INFO - eval point accuracy: 0.991544
+2022-09-01 01:11:45,708 - Model - INFO - eval point avg class acc: 0.978234
+2022-09-01 01:11:45,708 - Model - INFO - ------- IoU --------
+class bin            weight: 0.063, IoU: 0.787 
+class cone           weight: 0.009, IoU: 0.727 
+class footway        weight: 0.001, IoU: 0.981 
+class handrail       weight: 0.331, IoU: 0.908 
+class light          weight: 0.028, IoU: 0.995 
+class road           weight: 0.014, IoU: 0.993 
+class sign           weight: 0.552, IoU: 0.756 
+class tree           weight: 0.002, IoU: 0.991 
+
+2022-09-01 01:11:45,710 - Model - INFO - Eval mean loss: 0.031072
+2022-09-01 01:11:45,710 - Model - INFO - Eval accuracy: 0.991544
+2022-09-01 01:11:45,711 - Model - INFO - Best mIoU: 0.911826
+2022-09-01 01:11:45,711 - Model - INFO - **** Epoch 51 (51/100) ****
+2022-09-01 01:11:45,711 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:14:26,603 - Model - INFO - Training mean loss: 0.039924
+2022-09-01 01:14:26,604 - Model - INFO - Training accuracy: 0.990604
+2022-09-01 01:14:26,604 - Model - INFO - Save model...
+2022-09-01 01:14:26,604 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 01:14:26,719 - Model - INFO - Saving model....
+2022-09-01 01:14:26,733 - Model - INFO - ---- EPOCH 051 EVALUATION ----
+2022-09-01 01:17:07,528 - Model - INFO - eval mean loss: 0.024965
+2022-09-01 01:17:07,528 - Model - INFO - eval point avg class IoU: 0.922929
+2022-09-01 01:17:07,529 - Model - INFO - eval point accuracy: 0.991974
+2022-09-01 01:17:07,529 - Model - INFO - eval point avg class acc: 0.983821
+2022-09-01 01:17:07,530 - Model - INFO - ------- IoU --------
+class bin            weight: 0.063, IoU: 0.786 
+class cone           weight: 0.008, IoU: 0.761 
+class footway        weight: 0.002, IoU: 0.981 
+class handrail       weight: 0.337, IoU: 0.920 
+class light          weight: 0.029, IoU: 0.988 
+class road           weight: 0.013, IoU: 0.992 
+class sign           weight: 0.547, IoU: 0.958 
+class tree           weight: 0.001, IoU: 0.996 
+
+2022-09-01 01:17:07,532 - Model - INFO - Eval mean loss: 0.024965
+2022-09-01 01:17:07,532 - Model - INFO - Eval accuracy: 0.991974
+2022-09-01 01:17:07,533 - Model - INFO - Save model...
+2022-09-01 01:17:07,533 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 01:17:07,618 - Model - INFO - Saving model....
+2022-09-01 01:17:07,619 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:17:07,620 - Model - INFO - **** Epoch 52 (52/100) ****
+2022-09-01 01:17:07,620 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:19:48,357 - Model - INFO - Training mean loss: 0.046894
+2022-09-01 01:19:48,358 - Model - INFO - Training accuracy: 0.989494
+2022-09-01 01:19:48,372 - Model - INFO - ---- EPOCH 052 EVALUATION ----
+2022-09-01 01:22:29,204 - Model - INFO - eval mean loss: 0.039546
+2022-09-01 01:22:29,204 - Model - INFO - eval point avg class IoU: 0.828009
+2022-09-01 01:22:29,205 - Model - INFO - eval point accuracy: 0.988734
+2022-09-01 01:22:29,205 - Model - INFO - eval point avg class acc: 0.975663
+2022-09-01 01:22:29,205 - Model - INFO - ------- IoU --------
+class bin            weight: 0.061, IoU: 0.754 
+class cone           weight: 0.012, IoU: 0.220 
+class footway        weight: 0.001, IoU: 0.976 
+class handrail       weight: 0.326, IoU: 0.846 
+class light          weight: 0.026, IoU: 0.980 
+class road           weight: 0.012, IoU: 0.993 
+class sign           weight: 0.561, IoU: 0.859 
+class tree           weight: 0.002, IoU: 0.995 
+
+2022-09-01 01:22:29,207 - Model - INFO - Eval mean loss: 0.039546
+2022-09-01 01:22:29,208 - Model - INFO - Eval accuracy: 0.988734
+2022-09-01 01:22:29,208 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:22:29,208 - Model - INFO - **** Epoch 53 (53/100) ****
+2022-09-01 01:22:29,208 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:25:10,975 - Model - INFO - Training mean loss: 0.052131
+2022-09-01 01:25:10,976 - Model - INFO - Training accuracy: 0.986058
+2022-09-01 01:25:10,988 - Model - INFO - ---- EPOCH 053 EVALUATION ----
+2022-09-01 01:27:53,256 - Model - INFO - eval mean loss: 0.033058
+2022-09-01 01:27:53,256 - Model - INFO - eval point avg class IoU: 0.916973
+2022-09-01 01:27:53,257 - Model - INFO - eval point accuracy: 0.990864
+2022-09-01 01:27:53,257 - Model - INFO - eval point avg class acc: 0.970029
+2022-09-01 01:27:53,257 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.841 
+class cone           weight: 0.013, IoU: 0.831 
+class footway        weight: 0.003, IoU: 0.979 
+class handrail       weight: 0.351, IoU: 0.910 
+class light          weight: 0.026, IoU: 0.978 
+class road           weight: 0.010, IoU: 0.991 
+class sign           weight: 0.533, IoU: 0.811 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 01:27:53,259 - Model - INFO - Eval mean loss: 0.033058
+2022-09-01 01:27:53,259 - Model - INFO - Eval accuracy: 0.990864
+2022-09-01 01:27:53,260 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:27:53,260 - Model - INFO - **** Epoch 54 (54/100) ****
+2022-09-01 01:27:53,260 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:30:33,363 - Model - INFO - Training mean loss: 0.045560
+2022-09-01 01:30:33,364 - Model - INFO - Training accuracy: 0.988958
+2022-09-01 01:30:33,376 - Model - INFO - ---- EPOCH 054 EVALUATION ----
+2022-09-01 01:33:14,487 - Model - INFO - eval mean loss: 0.027303
+2022-09-01 01:33:14,487 - Model - INFO - eval point avg class IoU: 0.895518
+2022-09-01 01:33:14,488 - Model - INFO - eval point accuracy: 0.992355
+2022-09-01 01:33:14,488 - Model - INFO - eval point avg class acc: 0.980113
+2022-09-01 01:33:14,488 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.854 
+class cone           weight: 0.009, IoU: 0.790 
+class footway        weight: 0.001, IoU: 0.981 
+class handrail       weight: 0.322, IoU: 0.933 
+class light          weight: 0.027, IoU: 0.982 
+class road           weight: 0.017, IoU: 0.993 
+class sign           weight: 0.558, IoU: 0.641 
+class tree           weight: 0.001, IoU: 0.990 
+
+2022-09-01 01:33:14,490 - Model - INFO - Eval mean loss: 0.027303
+2022-09-01 01:33:14,490 - Model - INFO - Eval accuracy: 0.992355
+2022-09-01 01:33:14,491 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:33:14,491 - Model - INFO - **** Epoch 55 (55/100) ****
+2022-09-01 01:33:14,491 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:35:54,368 - Model - INFO - Training mean loss: 0.033248
+2022-09-01 01:35:54,369 - Model - INFO - Training accuracy: 0.992130
+2022-09-01 01:35:54,383 - Model - INFO - ---- EPOCH 055 EVALUATION ----
+2022-09-01 01:38:35,297 - Model - INFO - eval mean loss: 0.026248
+2022-09-01 01:38:35,297 - Model - INFO - eval point avg class IoU: 0.903763
+2022-09-01 01:38:35,297 - Model - INFO - eval point accuracy: 0.991632
+2022-09-01 01:38:35,298 - Model - INFO - eval point avg class acc: 0.982211
+2022-09-01 01:38:35,298 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.805 
+class cone           weight: 0.010, IoU: 0.827 
+class footway        weight: 0.001, IoU: 0.980 
+class handrail       weight: 0.340, IoU: 0.937 
+class light          weight: 0.028, IoU: 0.994 
+class road           weight: 0.018, IoU: 0.992 
+class sign           weight: 0.536, IoU: 0.704 
+class tree           weight: 0.001, IoU: 0.993 
+
+2022-09-01 01:38:35,300 - Model - INFO - Eval mean loss: 0.026248
+2022-09-01 01:38:35,300 - Model - INFO - Eval accuracy: 0.991632
+2022-09-01 01:38:35,300 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:38:35,301 - Model - INFO - **** Epoch 56 (56/100) ****
+2022-09-01 01:38:35,301 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:41:16,964 - Model - INFO - Training mean loss: 0.057961
+2022-09-01 01:41:16,964 - Model - INFO - Training accuracy: 0.986464
+2022-09-01 01:41:16,965 - Model - INFO - Save model...
+2022-09-01 01:41:16,965 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 01:41:17,085 - Model - INFO - Saving model....
+2022-09-01 01:41:17,099 - Model - INFO - ---- EPOCH 056 EVALUATION ----
+2022-09-01 01:43:57,361 - Model - INFO - eval mean loss: 0.035057
+2022-09-01 01:43:57,361 - Model - INFO - eval point avg class IoU: 0.856227
+2022-09-01 01:43:57,362 - Model - INFO - eval point accuracy: 0.989537
+2022-09-01 01:43:57,363 - Model - INFO - eval point avg class acc: 0.980801
+2022-09-01 01:43:57,363 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.845 
+class cone           weight: 0.012, IoU: 0.756 
+class footway        weight: 0.002, IoU: 0.978 
+class handrail       weight: 0.340, IoU: 0.930 
+class light          weight: 0.030, IoU: 0.975 
+class road           weight: 0.022, IoU: 0.991 
+class sign           weight: 0.531, IoU: 0.404 
+class tree           weight: 0.001, IoU: 0.970 
+
+2022-09-01 01:43:57,365 - Model - INFO - Eval mean loss: 0.035057
+2022-09-01 01:43:57,366 - Model - INFO - Eval accuracy: 0.989537
+2022-09-01 01:43:57,366 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:43:57,366 - Model - INFO - **** Epoch 57 (57/100) ****
+2022-09-01 01:43:57,367 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:46:38,487 - Model - INFO - Training mean loss: 0.046193
+2022-09-01 01:46:38,487 - Model - INFO - Training accuracy: 0.988971
+2022-09-01 01:46:38,500 - Model - INFO - ---- EPOCH 057 EVALUATION ----
+2022-09-01 01:49:19,396 - Model - INFO - eval mean loss: 0.025277
+2022-09-01 01:49:19,396 - Model - INFO - eval point avg class IoU: 0.903425
+2022-09-01 01:49:19,397 - Model - INFO - eval point accuracy: 0.992624
+2022-09-01 01:49:19,397 - Model - INFO - eval point avg class acc: 0.985617
+2022-09-01 01:49:19,398 - Model - INFO - ------- IoU --------
+class bin            weight: 0.076, IoU: 0.846 
+class cone           weight: 0.007, IoU: 0.822 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.339, IoU: 0.947 
+class light          weight: 0.025, IoU: 0.994 
+class road           weight: 0.014, IoU: 0.992 
+class sign           weight: 0.536, IoU: 0.654 
+class tree           weight: 0.001, IoU: 0.989 
+
+2022-09-01 01:49:19,399 - Model - INFO - Eval mean loss: 0.025277
+2022-09-01 01:49:19,399 - Model - INFO - Eval accuracy: 0.992624
+2022-09-01 01:49:19,400 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:49:19,400 - Model - INFO - **** Epoch 58 (58/100) ****
+2022-09-01 01:49:19,401 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:51:59,870 - Model - INFO - Training mean loss: 0.049523
+2022-09-01 01:51:59,870 - Model - INFO - Training accuracy: 0.988769
+2022-09-01 01:51:59,884 - Model - INFO - ---- EPOCH 058 EVALUATION ----
+2022-09-01 01:54:40,298 - Model - INFO - eval mean loss: 0.027114
+2022-09-01 01:54:40,298 - Model - INFO - eval point avg class IoU: 0.867392
+2022-09-01 01:54:40,299 - Model - INFO - eval point accuracy: 0.991264
+2022-09-01 01:54:40,299 - Model - INFO - eval point avg class acc: 0.980249
+2022-09-01 01:54:40,299 - Model - INFO - ------- IoU --------
+class bin            weight: 0.068, IoU: 0.819 
+class cone           weight: 0.011, IoU: 0.680 
+class footway        weight: 0.001, IoU: 0.978 
+class handrail       weight: 0.335, IoU: 0.933 
+class light          weight: 0.028, IoU: 0.990 
+class road           weight: 0.018, IoU: 0.992 
+class sign           weight: 0.538, IoU: 0.554 
+class tree           weight: 0.000, IoU: 0.993 
+
+2022-09-01 01:54:40,301 - Model - INFO - Eval mean loss: 0.027114
+2022-09-01 01:54:40,301 - Model - INFO - Eval accuracy: 0.991264
+2022-09-01 01:54:40,302 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 01:54:40,302 - Model - INFO - **** Epoch 59 (59/100) ****
+2022-09-01 01:54:40,303 - Model - INFO - Learning rate:0.000168
+2022-09-01 01:57:22,381 - Model - INFO - Training mean loss: 0.034916
+2022-09-01 01:57:22,381 - Model - INFO - Training accuracy: 0.991431
+2022-09-01 01:57:22,394 - Model - INFO - ---- EPOCH 059 EVALUATION ----
+2022-09-01 02:00:03,073 - Model - INFO - eval mean loss: 0.029724
+2022-09-01 02:00:03,074 - Model - INFO - eval point avg class IoU: 0.889202
+2022-09-01 02:00:03,074 - Model - INFO - eval point accuracy: 0.991070
+2022-09-01 02:00:03,075 - Model - INFO - eval point avg class acc: 0.979546
+2022-09-01 02:00:03,075 - Model - INFO - ------- IoU --------
+class bin            weight: 0.053, IoU: 0.839 
+class cone           weight: 0.009, IoU: 0.632 
+class footway        weight: 0.002, IoU: 0.978 
+class handrail       weight: 0.324, IoU: 0.924 
+class light          weight: 0.028, IoU: 0.978 
+class road           weight: 0.011, IoU: 0.992 
+class sign           weight: 0.572, IoU: 0.778 
+class tree           weight: 0.002, IoU: 0.993 
+
+2022-09-01 02:00:03,076 - Model - INFO - Eval mean loss: 0.029724
+2022-09-01 02:00:03,077 - Model - INFO - Eval accuracy: 0.991070
+2022-09-01 02:00:03,077 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:00:03,078 - Model - INFO - **** Epoch 60 (60/100) ****
+2022-09-01 02:00:03,079 - Model - INFO - Learning rate:0.000168
+2022-09-01 02:02:44,112 - Model - INFO - Training mean loss: 0.037006
+2022-09-01 02:02:44,113 - Model - INFO - Training accuracy: 0.991134
+2022-09-01 02:02:44,125 - Model - INFO - ---- EPOCH 060 EVALUATION ----
+2022-09-01 02:05:26,262 - Model - INFO - eval mean loss: 0.026827
+2022-09-01 02:05:26,263 - Model - INFO - eval point avg class IoU: 0.854453
+2022-09-01 02:05:26,264 - Model - INFO - eval point accuracy: 0.991435
+2022-09-01 02:05:26,264 - Model - INFO - eval point avg class acc: 0.984154
+2022-09-01 02:05:26,264 - Model - INFO - ------- IoU --------
+class bin            weight: 0.061, IoU: 0.804 
+class cone           weight: 0.010, IoU: 0.384 
+class footway        weight: 0.000, IoU: 0.979 
+class handrail       weight: 0.328, IoU: 0.935 
+class light          weight: 0.029, IoU: 0.984 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.553, IoU: 0.768 
+class tree           weight: 0.002, IoU: 0.987 
+
+2022-09-01 02:05:26,266 - Model - INFO - Eval mean loss: 0.026827
+2022-09-01 02:05:26,266 - Model - INFO - Eval accuracy: 0.991435
+2022-09-01 02:05:26,267 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:05:26,267 - Model - INFO - **** Epoch 61 (61/100) ****
+2022-09-01 02:05:26,268 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:08:06,906 - Model - INFO - Training mean loss: 0.034959
+2022-09-01 02:08:06,906 - Model - INFO - Training accuracy: 0.991945
+2022-09-01 02:08:06,907 - Model - INFO - Save model...
+2022-09-01 02:08:06,907 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 02:08:07,024 - Model - INFO - Saving model....
+2022-09-01 02:08:07,037 - Model - INFO - ---- EPOCH 061 EVALUATION ----
+2022-09-01 02:10:48,125 - Model - INFO - eval mean loss: 0.023411
+2022-09-01 02:10:48,125 - Model - INFO - eval point avg class IoU: 0.894092
+2022-09-01 02:10:48,126 - Model - INFO - eval point accuracy: 0.992761
+2022-09-01 02:10:48,126 - Model - INFO - eval point avg class acc: 0.984998
+2022-09-01 02:10:48,127 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.856 
+class cone           weight: 0.007, IoU: 0.796 
+class footway        weight: 0.002, IoU: 0.982 
+class handrail       weight: 0.324, IoU: 0.945 
+class light          weight: 0.027, IoU: 0.979 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.560, IoU: 0.612 
+class tree           weight: 0.001, IoU: 0.991 
+
+2022-09-01 02:10:48,128 - Model - INFO - Eval mean loss: 0.023411
+2022-09-01 02:10:48,129 - Model - INFO - Eval accuracy: 0.992761
+2022-09-01 02:10:48,129 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:10:48,130 - Model - INFO - **** Epoch 62 (62/100) ****
+2022-09-01 02:10:48,130 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:13:28,898 - Model - INFO - Training mean loss: 0.033593
+2022-09-01 02:13:28,898 - Model - INFO - Training accuracy: 0.991745
+2022-09-01 02:13:28,911 - Model - INFO - ---- EPOCH 062 EVALUATION ----
+2022-09-01 02:16:09,347 - Model - INFO - eval mean loss: 0.023862
+2022-09-01 02:16:09,348 - Model - INFO - eval point avg class IoU: 0.814614
+2022-09-01 02:16:09,348 - Model - INFO - eval point accuracy: 0.992371
+2022-09-01 02:16:09,349 - Model - INFO - eval point avg class acc: 0.861370
+2022-09-01 02:16:09,350 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.796 
+class cone           weight: 0.010, IoU: 0.000 
+class footway        weight: 0.000, IoU: 0.981 
+class handrail       weight: 0.325, IoU: 0.943 
+class light          weight: 0.032, IoU: 0.991 
+class road           weight: 0.016, IoU: 0.993 
+class sign           weight: 0.552, IoU: 0.819 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 02:16:09,352 - Model - INFO - Eval mean loss: 0.023862
+2022-09-01 02:16:09,352 - Model - INFO - Eval accuracy: 0.992371
+2022-09-01 02:16:09,353 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:16:09,353 - Model - INFO - **** Epoch 63 (63/100) ****
+2022-09-01 02:16:09,353 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:18:50,234 - Model - INFO - Training mean loss: 0.043912
+2022-09-01 02:18:50,235 - Model - INFO - Training accuracy: 0.988217
+2022-09-01 02:18:50,248 - Model - INFO - ---- EPOCH 063 EVALUATION ----
+2022-09-01 02:21:31,097 - Model - INFO - eval mean loss: 0.027475
+2022-09-01 02:21:31,097 - Model - INFO - eval point avg class IoU: 0.816679
+2022-09-01 02:21:31,098 - Model - INFO - eval point accuracy: 0.991149
+2022-09-01 02:21:31,099 - Model - INFO - eval point avg class acc: 0.986198
+2022-09-01 02:21:31,099 - Model - INFO - ------- IoU --------
+class bin            weight: 0.067, IoU: 0.835 
+class cone           weight: 0.013, IoU: 0.001 
+class footway        weight: 0.000, IoU: 0.979 
+class handrail       weight: 0.346, IoU: 0.926 
+class light          weight: 0.027, IoU: 0.989 
+class road           weight: 0.019, IoU: 0.993 
+class sign           weight: 0.526, IoU: 0.819 
+class tree           weight: 0.002, IoU: 0.991 
+
+2022-09-01 02:21:31,101 - Model - INFO - Eval mean loss: 0.027475
+2022-09-01 02:21:31,101 - Model - INFO - Eval accuracy: 0.991149
+2022-09-01 02:21:31,102 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:21:31,102 - Model - INFO - **** Epoch 64 (64/100) ****
+2022-09-01 02:21:31,102 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:24:12,691 - Model - INFO - Training mean loss: 0.038627
+2022-09-01 02:24:12,691 - Model - INFO - Training accuracy: 0.990055
+2022-09-01 02:24:12,704 - Model - INFO - ---- EPOCH 064 EVALUATION ----
+2022-09-01 02:26:52,997 - Model - INFO - eval mean loss: 0.023674
+2022-09-01 02:26:52,997 - Model - INFO - eval point avg class IoU: 0.916986
+2022-09-01 02:26:52,997 - Model - INFO - eval point accuracy: 0.993147
+2022-09-01 02:26:52,998 - Model - INFO - eval point avg class acc: 0.984412
+2022-09-01 02:26:52,998 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.835 
+class cone           weight: 0.008, IoU: 0.907 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.322, IoU: 0.943 
+class light          weight: 0.026, IoU: 0.995 
+class road           weight: 0.011, IoU: 0.993 
+class sign           weight: 0.569, IoU: 0.690 
+class tree           weight: 0.001, IoU: 0.991 
+
+2022-09-01 02:26:53,000 - Model - INFO - Eval mean loss: 0.023674
+2022-09-01 02:26:53,000 - Model - INFO - Eval accuracy: 0.993147
+2022-09-01 02:26:53,000 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:26:53,000 - Model - INFO - **** Epoch 65 (65/100) ****
+2022-09-01 02:26:53,001 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:29:33,567 - Model - INFO - Training mean loss: 0.033169
+2022-09-01 02:29:33,567 - Model - INFO - Training accuracy: 0.992261
+2022-09-01 02:29:33,581 - Model - INFO - ---- EPOCH 065 EVALUATION ----
+2022-09-01 02:32:13,685 - Model - INFO - eval mean loss: 0.028559
+2022-09-01 02:32:13,686 - Model - INFO - eval point avg class IoU: 0.887161
+2022-09-01 02:32:13,686 - Model - INFO - eval point accuracy: 0.991224
+2022-09-01 02:32:13,687 - Model - INFO - eval point avg class acc: 0.981976
+2022-09-01 02:32:13,687 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.849 
+class cone           weight: 0.011, IoU: 0.706 
+class footway        weight: 0.002, IoU: 0.980 
+class handrail       weight: 0.341, IoU: 0.933 
+class light          weight: 0.028, IoU: 0.974 
+class road           weight: 0.016, IoU: 0.992 
+class sign           weight: 0.538, IoU: 0.679 
+class tree           weight: 0.001, IoU: 0.985 
+
+2022-09-01 02:32:13,689 - Model - INFO - Eval mean loss: 0.028559
+2022-09-01 02:32:13,689 - Model - INFO - Eval accuracy: 0.991224
+2022-09-01 02:32:13,690 - Model - INFO - Best mIoU: 0.922929
+2022-09-01 02:32:13,690 - Model - INFO - **** Epoch 66 (66/100) ****
+2022-09-01 02:32:13,691 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:34:54,946 - Model - INFO - Training mean loss: 0.038816
+2022-09-01 02:34:54,946 - Model - INFO - Training accuracy: 0.990648
+2022-09-01 02:34:54,947 - Model - INFO - Save model...
+2022-09-01 02:34:54,947 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 02:34:55,069 - Model - INFO - Saving model....
+2022-09-01 02:34:55,083 - Model - INFO - ---- EPOCH 066 EVALUATION ----
+2022-09-01 02:37:35,350 - Model - INFO - eval mean loss: 0.025329
+2022-09-01 02:37:35,350 - Model - INFO - eval point avg class IoU: 0.931316
+2022-09-01 02:37:35,351 - Model - INFO - eval point accuracy: 0.992611
+2022-09-01 02:37:35,351 - Model - INFO - eval point avg class acc: 0.983569
+2022-09-01 02:37:35,352 - Model - INFO - ------- IoU --------
+class bin            weight: 0.059, IoU: 0.822 
+class cone           weight: 0.008, IoU: 0.888 
+class footway        weight: 0.003, IoU: 0.981 
+class handrail       weight: 0.328, IoU: 0.937 
+class light          weight: 0.023, IoU: 0.984 
+class road           weight: 0.014, IoU: 0.993 
+class sign           weight: 0.564, IoU: 0.852 
+class tree           weight: 0.002, IoU: 0.992 
+
+2022-09-01 02:37:35,353 - Model - INFO - Eval mean loss: 0.025329
+2022-09-01 02:37:35,354 - Model - INFO - Eval accuracy: 0.992611
+2022-09-01 02:37:35,354 - Model - INFO - Save model...
+2022-09-01 02:37:35,354 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 02:37:35,439 - Model - INFO - Saving model....
+2022-09-01 02:37:35,440 - Model - INFO - Best mIoU: 0.931316
+2022-09-01 02:37:35,440 - Model - INFO - **** Epoch 67 (67/100) ****
+2022-09-01 02:37:35,441 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:40:16,901 - Model - INFO - Training mean loss: 0.034768
+2022-09-01 02:40:16,902 - Model - INFO - Training accuracy: 0.990749
+2022-09-01 02:40:16,915 - Model - INFO - ---- EPOCH 067 EVALUATION ----
+2022-09-01 02:42:57,338 - Model - INFO - eval mean loss: 0.025569
+2022-09-01 02:42:57,338 - Model - INFO - eval point avg class IoU: 0.835136
+2022-09-01 02:42:57,339 - Model - INFO - eval point accuracy: 0.992937
+2022-09-01 02:42:57,339 - Model - INFO - eval point avg class acc: 0.935225
+2022-09-01 02:42:57,340 - Model - INFO - ------- IoU --------
+class bin            weight: 0.057, IoU: 0.853 
+class cone           weight: 0.009, IoU: 0.851 
+class footway        weight: 0.003, IoU: 0.982 
+class handrail       weight: 0.333, IoU: 0.952 
+class light          weight: 0.029, IoU: 0.982 
+class road           weight: 0.013, IoU: 0.993 
+class sign           weight: 0.556, IoU: 0.075 
+class tree           weight: 0.000, IoU: 0.993 
+
+2022-09-01 02:42:57,341 - Model - INFO - Eval mean loss: 0.025569
+2022-09-01 02:42:57,342 - Model - INFO - Eval accuracy: 0.992937
+2022-09-01 02:42:57,342 - Model - INFO - Best mIoU: 0.931316
+2022-09-01 02:42:57,342 - Model - INFO - **** Epoch 68 (68/100) ****
+2022-09-01 02:42:57,343 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:45:38,240 - Model - INFO - Training mean loss: 0.035775
+2022-09-01 02:45:38,241 - Model - INFO - Training accuracy: 0.991611
+2022-09-01 02:45:38,254 - Model - INFO - ---- EPOCH 068 EVALUATION ----
+2022-09-01 02:48:20,329 - Model - INFO - eval mean loss: 0.026718
+2022-09-01 02:48:20,330 - Model - INFO - eval point avg class IoU: 0.900011
+2022-09-01 02:48:20,330 - Model - INFO - eval point accuracy: 0.991683
+2022-09-01 02:48:20,331 - Model - INFO - eval point avg class acc: 0.982782
+2022-09-01 02:48:20,331 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.822 
+class cone           weight: 0.010, IoU: 0.801 
+class footway        weight: 0.003, IoU: 0.980 
+class handrail       weight: 0.348, IoU: 0.933 
+class light          weight: 0.029, IoU: 0.987 
+class road           weight: 0.019, IoU: 0.992 
+class sign           weight: 0.527, IoU: 0.690 
+class tree           weight: 0.000, IoU: 0.994 
+
+2022-09-01 02:48:20,333 - Model - INFO - Eval mean loss: 0.026718
+2022-09-01 02:48:20,333 - Model - INFO - Eval accuracy: 0.991683
+2022-09-01 02:48:20,334 - Model - INFO - Best mIoU: 0.931316
+2022-09-01 02:48:20,334 - Model - INFO - **** Epoch 69 (69/100) ****
+2022-09-01 02:48:20,334 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:51:01,361 - Model - INFO - Training mean loss: 0.037939
+2022-09-01 02:51:01,362 - Model - INFO - Training accuracy: 0.990869
+2022-09-01 02:51:01,375 - Model - INFO - ---- EPOCH 069 EVALUATION ----
+2022-09-01 02:53:41,866 - Model - INFO - eval mean loss: 0.023358
+2022-09-01 02:53:41,866 - Model - INFO - eval point avg class IoU: 0.935665
+2022-09-01 02:53:41,866 - Model - INFO - eval point accuracy: 0.992638
+2022-09-01 02:53:41,867 - Model - INFO - eval point avg class acc: 0.985942
+2022-09-01 02:53:41,867 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.821 
+class cone           weight: 0.011, IoU: 0.876 
+class footway        weight: 0.002, IoU: 0.981 
+class handrail       weight: 0.339, IoU: 0.940 
+class light          weight: 0.027, IoU: 0.992 
+class road           weight: 0.018, IoU: 0.994 
+class sign           weight: 0.532, IoU: 0.885 
+class tree           weight: 0.002, IoU: 0.996 
+
+2022-09-01 02:53:41,868 - Model - INFO - Eval mean loss: 0.023358
+2022-09-01 02:53:41,869 - Model - INFO - Eval accuracy: 0.992638
+2022-09-01 02:53:41,869 - Model - INFO - Save model...
+2022-09-01 02:53:41,870 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 02:53:41,955 - Model - INFO - Saving model....
+2022-09-01 02:53:41,955 - Model - INFO - Best mIoU: 0.935665
+2022-09-01 02:53:41,956 - Model - INFO - **** Epoch 70 (70/100) ****
+2022-09-01 02:53:41,956 - Model - INFO - Learning rate:0.000118
+2022-09-01 02:56:22,695 - Model - INFO - Training mean loss: 0.033675
+2022-09-01 02:56:22,695 - Model - INFO - Training accuracy: 0.991230
+2022-09-01 02:56:22,708 - Model - INFO - ---- EPOCH 070 EVALUATION ----
+2022-09-01 02:59:02,918 - Model - INFO - eval mean loss: 0.028740
+2022-09-01 02:59:02,919 - Model - INFO - eval point avg class IoU: 0.876489
+2022-09-01 02:59:02,920 - Model - INFO - eval point accuracy: 0.991095
+2022-09-01 02:59:02,920 - Model - INFO - eval point avg class acc: 0.972723
+2022-09-01 02:59:02,920 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.826 
+class cone           weight: 0.012, IoU: 0.520 
+class footway        weight: 0.001, IoU: 0.979 
+class handrail       weight: 0.350, IoU: 0.924 
+class light          weight: 0.029, IoU: 0.988 
+class road           weight: 0.017, IoU: 0.993 
+class sign           weight: 0.522, IoU: 0.788 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 02:59:02,922 - Model - INFO - Eval mean loss: 0.028740
+2022-09-01 02:59:02,923 - Model - INFO - Eval accuracy: 0.991095
+2022-09-01 02:59:02,923 - Model - INFO - Best mIoU: 0.935665
+2022-09-01 02:59:02,924 - Model - INFO - **** Epoch 71 (71/100) ****
+2022-09-01 02:59:02,924 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:01:44,637 - Model - INFO - Training mean loss: 0.038203
+2022-09-01 03:01:44,637 - Model - INFO - Training accuracy: 0.990017
+2022-09-01 03:01:44,637 - Model - INFO - Save model...
+2022-09-01 03:01:44,638 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 03:01:44,758 - Model - INFO - Saving model....
+2022-09-01 03:01:44,772 - Model - INFO - ---- EPOCH 071 EVALUATION ----
+2022-09-01 03:04:25,343 - Model - INFO - eval mean loss: 0.023230
+2022-09-01 03:04:25,344 - Model - INFO - eval point avg class IoU: 0.912174
+2022-09-01 03:04:25,344 - Model - INFO - eval point accuracy: 0.992810
+2022-09-01 03:04:25,345 - Model - INFO - eval point avg class acc: 0.988663
+2022-09-01 03:04:25,346 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.857 
+class cone           weight: 0.008, IoU: 0.766 
+class footway        weight: 0.002, IoU: 0.982 
+class handrail       weight: 0.338, IoU: 0.959 
+class light          weight: 0.033, IoU: 0.990 
+class road           weight: 0.016, IoU: 0.992 
+class sign           weight: 0.538, IoU: 0.758 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 03:04:25,348 - Model - INFO - Eval mean loss: 0.023230
+2022-09-01 03:04:25,348 - Model - INFO - Eval accuracy: 0.992810
+2022-09-01 03:04:25,349 - Model - INFO - Best mIoU: 0.935665
+2022-09-01 03:04:25,349 - Model - INFO - **** Epoch 72 (72/100) ****
+2022-09-01 03:04:25,350 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:07:06,789 - Model - INFO - Training mean loss: 0.034541
+2022-09-01 03:07:06,789 - Model - INFO - Training accuracy: 0.990767
+2022-09-01 03:07:06,802 - Model - INFO - ---- EPOCH 072 EVALUATION ----
+2022-09-01 03:09:48,816 - Model - INFO - eval mean loss: 0.020964
+2022-09-01 03:09:48,816 - Model - INFO - eval point avg class IoU: 0.924384
+2022-09-01 03:09:48,817 - Model - INFO - eval point accuracy: 0.993794
+2022-09-01 03:09:48,817 - Model - INFO - eval point avg class acc: 0.984848
+2022-09-01 03:09:48,818 - Model - INFO - ------- IoU --------
+class bin            weight: 0.071, IoU: 0.848 
+class cone           weight: 0.008, IoU: 0.807 
+class footway        weight: 0.000, IoU: 0.985 
+class handrail       weight: 0.357, IoU: 0.953 
+class light          weight: 0.029, IoU: 0.995 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.518, IoU: 0.818 
+class tree           weight: 0.001, IoU: 0.995 
+
+2022-09-01 03:09:48,819 - Model - INFO - Eval mean loss: 0.020964
+2022-09-01 03:09:48,819 - Model - INFO - Eval accuracy: 0.993794
+2022-09-01 03:09:48,820 - Model - INFO - Best mIoU: 0.935665
+2022-09-01 03:09:48,820 - Model - INFO - **** Epoch 73 (73/100) ****
+2022-09-01 03:09:48,821 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:12:29,787 - Model - INFO - Training mean loss: 0.026886
+2022-09-01 03:12:29,788 - Model - INFO - Training accuracy: 0.992632
+2022-09-01 03:12:29,801 - Model - INFO - ---- EPOCH 073 EVALUATION ----
+2022-09-01 03:15:12,311 - Model - INFO - eval mean loss: 0.021356
+2022-09-01 03:15:12,311 - Model - INFO - eval point avg class IoU: 0.946589
+2022-09-01 03:15:12,312 - Model - INFO - eval point accuracy: 0.993716
+2022-09-01 03:15:12,312 - Model - INFO - eval point avg class acc: 0.984558
+2022-09-01 03:15:12,313 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.889 
+class cone           weight: 0.010, IoU: 0.814 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.339, IoU: 0.943 
+class light          weight: 0.027, IoU: 0.994 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.543, IoU: 0.959 
+class tree           weight: 0.001, IoU: 0.997 
+
+2022-09-01 03:15:12,315 - Model - INFO - Eval mean loss: 0.021356
+2022-09-01 03:15:12,315 - Model - INFO - Eval accuracy: 0.993716
+2022-09-01 03:15:12,316 - Model - INFO - Save model...
+2022-09-01 03:15:12,316 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 03:15:12,403 - Model - INFO - Saving model....
+2022-09-01 03:15:12,403 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:15:12,405 - Model - INFO - **** Epoch 74 (74/100) ****
+2022-09-01 03:15:12,405 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:17:53,287 - Model - INFO - Training mean loss: 0.033045
+2022-09-01 03:17:53,288 - Model - INFO - Training accuracy: 0.991578
+2022-09-01 03:17:53,301 - Model - INFO - ---- EPOCH 074 EVALUATION ----
+2022-09-01 03:20:35,297 - Model - INFO - eval mean loss: 0.018183
+2022-09-01 03:20:35,297 - Model - INFO - eval point avg class IoU: 0.930254
+2022-09-01 03:20:35,298 - Model - INFO - eval point accuracy: 0.994524
+2022-09-01 03:20:35,299 - Model - INFO - eval point avg class acc: 0.986537
+2022-09-01 03:20:35,299 - Model - INFO - ------- IoU --------
+class bin            weight: 0.071, IoU: 0.858 
+class cone           weight: 0.005, IoU: 0.924 
+class footway        weight: 0.003, IoU: 0.987 
+class handrail       weight: 0.355, IoU: 0.974 
+class light          weight: 0.031, IoU: 0.994 
+class road           weight: 0.015, IoU: 0.994 
+class sign           weight: 0.518, IoU: 0.719 
+class tree           weight: 0.001, IoU: 0.993 
+
+2022-09-01 03:20:35,300 - Model - INFO - Eval mean loss: 0.018183
+2022-09-01 03:20:35,300 - Model - INFO - Eval accuracy: 0.994524
+2022-09-01 03:20:35,301 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:20:35,301 - Model - INFO - **** Epoch 75 (75/100) ****
+2022-09-01 03:20:35,301 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:23:15,521 - Model - INFO - Training mean loss: 0.031673
+2022-09-01 03:23:15,522 - Model - INFO - Training accuracy: 0.992046
+2022-09-01 03:23:15,535 - Model - INFO - ---- EPOCH 075 EVALUATION ----
+2022-09-01 03:25:55,837 - Model - INFO - eval mean loss: 0.022850
+2022-09-01 03:25:55,838 - Model - INFO - eval point avg class IoU: 0.913460
+2022-09-01 03:25:55,838 - Model - INFO - eval point accuracy: 0.993120
+2022-09-01 03:25:55,839 - Model - INFO - eval point avg class acc: 0.987452
+2022-09-01 03:25:55,839 - Model - INFO - ------- IoU --------
+class bin            weight: 0.067, IoU: 0.865 
+class cone           weight: 0.012, IoU: 0.645 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.341, IoU: 0.941 
+class light          weight: 0.034, IoU: 0.994 
+class road           weight: 0.016, IoU: 0.993 
+class sign           weight: 0.528, IoU: 0.889 
+class tree           weight: 0.001, IoU: 0.996 
+
+2022-09-01 03:25:55,840 - Model - INFO - Eval mean loss: 0.022850
+2022-09-01 03:25:55,841 - Model - INFO - Eval accuracy: 0.993120
+2022-09-01 03:25:55,841 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:25:55,842 - Model - INFO - **** Epoch 76 (76/100) ****
+2022-09-01 03:25:55,842 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:28:36,143 - Model - INFO - Training mean loss: 0.033823
+2022-09-01 03:28:36,144 - Model - INFO - Training accuracy: 0.991645
+2022-09-01 03:28:36,144 - Model - INFO - Save model...
+2022-09-01 03:28:36,144 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 03:28:36,262 - Model - INFO - Saving model....
+2022-09-01 03:28:36,275 - Model - INFO - ---- EPOCH 076 EVALUATION ----
+2022-09-01 03:31:21,518 - Model - INFO - eval mean loss: 0.019086
+2022-09-01 03:31:21,518 - Model - INFO - eval point avg class IoU: 0.933931
+2022-09-01 03:31:21,518 - Model - INFO - eval point accuracy: 0.993677
+2022-09-01 03:31:21,519 - Model - INFO - eval point avg class acc: 0.989093
+2022-09-01 03:31:21,519 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.869 
+class cone           weight: 0.007, IoU: 0.874 
+class footway        weight: 0.001, IoU: 0.984 
+class handrail       weight: 0.342, IoU: 0.961 
+class light          weight: 0.028, IoU: 0.992 
+class road           weight: 0.016, IoU: 0.993 
+class sign           weight: 0.540, IoU: 0.805 
+class tree           weight: 0.002, IoU: 0.992 
+
+2022-09-01 03:31:21,520 - Model - INFO - Eval mean loss: 0.019086
+2022-09-01 03:31:21,521 - Model - INFO - Eval accuracy: 0.993677
+2022-09-01 03:31:21,521 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:31:21,522 - Model - INFO - **** Epoch 77 (77/100) ****
+2022-09-01 03:31:21,522 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:34:13,240 - Model - INFO - Training mean loss: 0.040694
+2022-09-01 03:34:13,240 - Model - INFO - Training accuracy: 0.989961
+2022-09-01 03:34:13,254 - Model - INFO - ---- EPOCH 077 EVALUATION ----
+2022-09-01 03:36:56,636 - Model - INFO - eval mean loss: 0.021312
+2022-09-01 03:36:56,637 - Model - INFO - eval point avg class IoU: 0.906116
+2022-09-01 03:36:56,638 - Model - INFO - eval point accuracy: 0.993001
+2022-09-01 03:36:56,638 - Model - INFO - eval point avg class acc: 0.987312
+2022-09-01 03:36:56,639 - Model - INFO - ------- IoU --------
+class bin            weight: 0.053, IoU: 0.852 
+class cone           weight: 0.007, IoU: 0.662 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.352, IoU: 0.947 
+class light          weight: 0.026, IoU: 0.994 
+class road           weight: 0.022, IoU: 0.992 
+class sign           weight: 0.537, IoU: 0.823 
+class tree           weight: 0.000, IoU: 0.996 
+
+2022-09-01 03:36:56,640 - Model - INFO - Eval mean loss: 0.021312
+2022-09-01 03:36:56,640 - Model - INFO - Eval accuracy: 0.993001
+2022-09-01 03:36:56,641 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:36:56,641 - Model - INFO - **** Epoch 78 (78/100) ****
+2022-09-01 03:36:56,642 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:39:37,447 - Model - INFO - Training mean loss: 0.033504
+2022-09-01 03:39:37,447 - Model - INFO - Training accuracy: 0.992170
+2022-09-01 03:39:37,461 - Model - INFO - ---- EPOCH 078 EVALUATION ----
+2022-09-01 03:42:19,842 - Model - INFO - eval mean loss: 0.024999
+2022-09-01 03:42:19,843 - Model - INFO - eval point avg class IoU: 0.912214
+2022-09-01 03:42:19,843 - Model - INFO - eval point accuracy: 0.992996
+2022-09-01 03:42:19,844 - Model - INFO - eval point avg class acc: 0.983660
+2022-09-01 03:42:19,844 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.901 
+class cone           weight: 0.012, IoU: 0.727 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.320, IoU: 0.933 
+class light          weight: 0.029, IoU: 0.994 
+class road           weight: 0.014, IoU: 0.993 
+class sign           weight: 0.551, IoU: 0.774 
+class tree           weight: 0.002, IoU: 0.993 
+
+2022-09-01 03:42:19,846 - Model - INFO - Eval mean loss: 0.024999
+2022-09-01 03:42:19,847 - Model - INFO - Eval accuracy: 0.992996
+2022-09-01 03:42:19,847 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:42:19,848 - Model - INFO - **** Epoch 79 (79/100) ****
+2022-09-01 03:42:19,848 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:45:00,531 - Model - INFO - Training mean loss: 0.028843
+2022-09-01 03:45:00,531 - Model - INFO - Training accuracy: 0.992295
+2022-09-01 03:45:00,543 - Model - INFO - ---- EPOCH 079 EVALUATION ----
+2022-09-01 03:47:42,546 - Model - INFO - eval mean loss: 0.020654
+2022-09-01 03:47:42,546 - Model - INFO - eval point avg class IoU: 0.909868
+2022-09-01 03:47:42,547 - Model - INFO - eval point accuracy: 0.993740
+2022-09-01 03:47:42,547 - Model - INFO - eval point avg class acc: 0.990198
+2022-09-01 03:47:42,548 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.891 
+class cone           weight: 0.007, IoU: 0.927 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.329, IoU: 0.959 
+class light          weight: 0.029, IoU: 0.980 
+class road           weight: 0.013, IoU: 0.993 
+class sign           weight: 0.554, IoU: 0.552 
+class tree           weight: 0.000, IoU: 0.992 
+
+2022-09-01 03:47:42,550 - Model - INFO - Eval mean loss: 0.020654
+2022-09-01 03:47:42,550 - Model - INFO - Eval accuracy: 0.993740
+2022-09-01 03:47:42,551 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:47:42,551 - Model - INFO - **** Epoch 80 (80/100) ****
+2022-09-01 03:47:42,552 - Model - INFO - Learning rate:0.000082
+2022-09-01 03:50:22,614 - Model - INFO - Training mean loss: 0.033287
+2022-09-01 03:50:22,614 - Model - INFO - Training accuracy: 0.991648
+2022-09-01 03:50:22,627 - Model - INFO - ---- EPOCH 080 EVALUATION ----
+2022-09-01 03:53:05,239 - Model - INFO - eval mean loss: 0.022629
+2022-09-01 03:53:05,240 - Model - INFO - eval point avg class IoU: 0.918980
+2022-09-01 03:53:05,241 - Model - INFO - eval point accuracy: 0.993123
+2022-09-01 03:53:05,241 - Model - INFO - eval point avg class acc: 0.986264
+2022-09-01 03:53:05,241 - Model - INFO - ------- IoU --------
+class bin            weight: 0.075, IoU: 0.863 
+class cone           weight: 0.008, IoU: 0.854 
+class footway        weight: 0.002, IoU: 0.985 
+class handrail       weight: 0.355, IoU: 0.950 
+class light          weight: 0.028, IoU: 0.962 
+class road           weight: 0.017, IoU: 0.993 
+class sign           weight: 0.515, IoU: 0.757 
+class tree           weight: 0.001, IoU: 0.988 
+
+2022-09-01 03:53:05,243 - Model - INFO - Eval mean loss: 0.022629
+2022-09-01 03:53:05,243 - Model - INFO - Eval accuracy: 0.993123
+2022-09-01 03:53:05,244 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:53:05,244 - Model - INFO - **** Epoch 81 (81/100) ****
+2022-09-01 03:53:05,245 - Model - INFO - Learning rate:0.000058
+2022-09-01 03:55:46,515 - Model - INFO - Training mean loss: 0.030191
+2022-09-01 03:55:46,515 - Model - INFO - Training accuracy: 0.991994
+2022-09-01 03:55:46,516 - Model - INFO - Save model...
+2022-09-01 03:55:46,516 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 03:55:46,637 - Model - INFO - Saving model....
+2022-09-01 03:55:46,650 - Model - INFO - ---- EPOCH 081 EVALUATION ----
+2022-09-01 03:58:29,400 - Model - INFO - eval mean loss: 0.021771
+2022-09-01 03:58:29,400 - Model - INFO - eval point avg class IoU: 0.913605
+2022-09-01 03:58:29,400 - Model - INFO - eval point accuracy: 0.993167
+2022-09-01 03:58:29,401 - Model - INFO - eval point avg class acc: 0.983884
+2022-09-01 03:58:29,402 - Model - INFO - ------- IoU --------
+class bin            weight: 0.069, IoU: 0.861 
+class cone           weight: 0.008, IoU: 0.819 
+class footway        weight: 0.001, IoU: 0.984 
+class handrail       weight: 0.345, IoU: 0.948 
+class light          weight: 0.026, IoU: 0.986 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.535, IoU: 0.726 
+class tree           weight: 0.001, IoU: 0.992 
+
+2022-09-01 03:58:29,404 - Model - INFO - Eval mean loss: 0.021771
+2022-09-01 03:58:29,404 - Model - INFO - Eval accuracy: 0.993167
+2022-09-01 03:58:29,404 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 03:58:29,405 - Model - INFO - **** Epoch 82 (82/100) ****
+2022-09-01 03:58:29,405 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:01:10,213 - Model - INFO - Training mean loss: 0.034243
+2022-09-01 04:01:10,214 - Model - INFO - Training accuracy: 0.991634
+2022-09-01 04:01:10,227 - Model - INFO - ---- EPOCH 082 EVALUATION ----
+2022-09-01 04:03:50,722 - Model - INFO - eval mean loss: 0.021395
+2022-09-01 04:03:50,723 - Model - INFO - eval point avg class IoU: 0.931575
+2022-09-01 04:03:50,724 - Model - INFO - eval point accuracy: 0.993464
+2022-09-01 04:03:50,724 - Model - INFO - eval point avg class acc: 0.987206
+2022-09-01 04:03:50,724 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.860 
+class cone           weight: 0.008, IoU: 0.836 
+class footway        weight: 0.003, IoU: 0.984 
+class handrail       weight: 0.327, IoU: 0.951 
+class light          weight: 0.030, IoU: 0.989 
+class road           weight: 0.015, IoU: 0.994 
+class sign           weight: 0.550, IoU: 0.846 
+class tree           weight: 0.002, IoU: 0.994 
+
+2022-09-01 04:03:50,727 - Model - INFO - Eval mean loss: 0.021395
+2022-09-01 04:03:50,727 - Model - INFO - Eval accuracy: 0.993464
+2022-09-01 04:03:50,728 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:03:50,728 - Model - INFO - **** Epoch 83 (83/100) ****
+2022-09-01 04:03:50,728 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:06:31,823 - Model - INFO - Training mean loss: 0.030688
+2022-09-01 04:06:31,823 - Model - INFO - Training accuracy: 0.991697
+2022-09-01 04:06:31,836 - Model - INFO - ---- EPOCH 083 EVALUATION ----
+2022-09-01 04:09:13,757 - Model - INFO - eval mean loss: 0.023421
+2022-09-01 04:09:13,758 - Model - INFO - eval point avg class IoU: 0.896905
+2022-09-01 04:09:13,758 - Model - INFO - eval point accuracy: 0.992433
+2022-09-01 04:09:13,759 - Model - INFO - eval point avg class acc: 0.986326
+2022-09-01 04:09:13,759 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.871 
+class cone           weight: 0.011, IoU: 0.811 
+class footway        weight: 0.002, IoU: 0.983 
+class handrail       weight: 0.325, IoU: 0.937 
+class light          weight: 0.026, IoU: 0.989 
+class road           weight: 0.019, IoU: 0.994 
+class sign           weight: 0.550, IoU: 0.608 
+class tree           weight: 0.002, IoU: 0.983 
+
+2022-09-01 04:09:13,761 - Model - INFO - Eval mean loss: 0.023421
+2022-09-01 04:09:13,762 - Model - INFO - Eval accuracy: 0.992433
+2022-09-01 04:09:13,762 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:09:13,762 - Model - INFO - **** Epoch 84 (84/100) ****
+2022-09-01 04:09:13,763 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:11:54,788 - Model - INFO - Training mean loss: 0.032322
+2022-09-01 04:11:54,788 - Model - INFO - Training accuracy: 0.992221
+2022-09-01 04:11:54,802 - Model - INFO - ---- EPOCH 084 EVALUATION ----
+2022-09-01 04:14:35,182 - Model - INFO - eval mean loss: 0.018684
+2022-09-01 04:14:35,182 - Model - INFO - eval point avg class IoU: 0.942084
+2022-09-01 04:14:35,182 - Model - INFO - eval point accuracy: 0.994143
+2022-09-01 04:14:35,183 - Model - INFO - eval point avg class acc: 0.990526
+2022-09-01 04:14:35,183 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.864 
+class cone           weight: 0.008, IoU: 0.906 
+class footway        weight: 0.001, IoU: 0.985 
+class handrail       weight: 0.336, IoU: 0.962 
+class light          weight: 0.027, IoU: 0.996 
+class road           weight: 0.014, IoU: 0.994 
+class sign           weight: 0.541, IoU: 0.836 
+class tree           weight: 0.001, IoU: 0.995 
+
+2022-09-01 04:14:35,185 - Model - INFO - Eval mean loss: 0.018684
+2022-09-01 04:14:35,185 - Model - INFO - Eval accuracy: 0.994143
+2022-09-01 04:14:35,186 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:14:35,186 - Model - INFO - **** Epoch 85 (85/100) ****
+2022-09-01 04:14:35,187 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:17:16,282 - Model - INFO - Training mean loss: 0.034952
+2022-09-01 04:17:16,282 - Model - INFO - Training accuracy: 0.991318
+2022-09-01 04:17:16,295 - Model - INFO - ---- EPOCH 085 EVALUATION ----
+2022-09-01 04:19:58,680 - Model - INFO - eval mean loss: 0.023586
+2022-09-01 04:19:58,680 - Model - INFO - eval point avg class IoU: 0.908990
+2022-09-01 04:19:58,681 - Model - INFO - eval point accuracy: 0.992541
+2022-09-01 04:19:58,681 - Model - INFO - eval point avg class acc: 0.988318
+2022-09-01 04:19:58,682 - Model - INFO - ------- IoU --------
+class bin            weight: 0.059, IoU: 0.849 
+class cone           weight: 0.012, IoU: 0.788 
+class footway        weight: 0.002, IoU: 0.981 
+class handrail       weight: 0.331, IoU: 0.938 
+class light          weight: 0.030, IoU: 0.994 
+class road           weight: 0.014, IoU: 0.994 
+class sign           weight: 0.552, IoU: 0.733 
+class tree           weight: 0.001, IoU: 0.995 
+
+2022-09-01 04:19:58,683 - Model - INFO - Eval mean loss: 0.023586
+2022-09-01 04:19:58,684 - Model - INFO - Eval accuracy: 0.992541
+2022-09-01 04:19:58,684 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:19:58,685 - Model - INFO - **** Epoch 86 (86/100) ****
+2022-09-01 04:19:58,685 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:22:38,281 - Model - INFO - Training mean loss: 0.028422
+2022-09-01 04:22:38,282 - Model - INFO - Training accuracy: 0.992507
+2022-09-01 04:22:38,282 - Model - INFO - Save model...
+2022-09-01 04:22:38,282 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 04:22:38,399 - Model - INFO - Saving model....
+2022-09-01 04:22:38,413 - Model - INFO - ---- EPOCH 086 EVALUATION ----
+2022-09-01 04:25:20,003 - Model - INFO - eval mean loss: 0.022031
+2022-09-01 04:25:20,004 - Model - INFO - eval point avg class IoU: 0.869663
+2022-09-01 04:25:20,004 - Model - INFO - eval point accuracy: 0.992965
+2022-09-01 04:25:20,005 - Model - INFO - eval point avg class acc: 0.986640
+2022-09-01 04:25:20,006 - Model - INFO - ------- IoU --------
+class bin            weight: 0.070, IoU: 0.870 
+class cone           weight: 0.010, IoU: 0.809 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.336, IoU: 0.948 
+class light          weight: 0.028, IoU: 0.995 
+class road           weight: 0.017, IoU: 0.993 
+class sign           weight: 0.538, IoU: 0.370 
+class tree           weight: 0.000, IoU: 0.989 
+
+2022-09-01 04:25:20,007 - Model - INFO - Eval mean loss: 0.022031
+2022-09-01 04:25:20,007 - Model - INFO - Eval accuracy: 0.992965
+2022-09-01 04:25:20,007 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:25:20,008 - Model - INFO - **** Epoch 87 (87/100) ****
+2022-09-01 04:25:20,008 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:28:00,684 - Model - INFO - Training mean loss: 0.032653
+2022-09-01 04:28:00,684 - Model - INFO - Training accuracy: 0.991862
+2022-09-01 04:28:00,697 - Model - INFO - ---- EPOCH 087 EVALUATION ----
+2022-09-01 04:30:41,269 - Model - INFO - eval mean loss: 0.024797
+2022-09-01 04:30:41,269 - Model - INFO - eval point avg class IoU: 0.885370
+2022-09-01 04:30:41,270 - Model - INFO - eval point accuracy: 0.992124
+2022-09-01 04:30:41,270 - Model - INFO - eval point avg class acc: 0.986766
+2022-09-01 04:30:41,271 - Model - INFO - ------- IoU --------
+class bin            weight: 0.062, IoU: 0.878 
+class cone           weight: 0.011, IoU: 0.821 
+class footway        weight: 0.002, IoU: 0.983 
+class handrail       weight: 0.343, IoU: 0.950 
+class light          weight: 0.030, IoU: 0.994 
+class road           weight: 0.017, IoU: 0.994 
+class sign           weight: 0.533, IoU: 0.486 
+class tree           weight: 0.001, IoU: 0.978 
+
+2022-09-01 04:30:41,273 - Model - INFO - Eval mean loss: 0.024797
+2022-09-01 04:30:41,274 - Model - INFO - Eval accuracy: 0.992124
+2022-09-01 04:30:41,274 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:30:41,274 - Model - INFO - **** Epoch 88 (88/100) ****
+2022-09-01 04:30:41,275 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:33:22,639 - Model - INFO - Training mean loss: 0.029730
+2022-09-01 04:33:22,640 - Model - INFO - Training accuracy: 0.991491
+2022-09-01 04:33:22,652 - Model - INFO - ---- EPOCH 088 EVALUATION ----
+2022-09-01 04:36:03,295 - Model - INFO - eval mean loss: 0.019766
+2022-09-01 04:36:03,295 - Model - INFO - eval point avg class IoU: 0.893860
+2022-09-01 04:36:03,296 - Model - INFO - eval point accuracy: 0.994008
+2022-09-01 04:36:03,296 - Model - INFO - eval point avg class acc: 0.988584
+2022-09-01 04:36:03,297 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.880 
+class cone           weight: 0.009, IoU: 0.902 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.313, IoU: 0.945 
+class light          weight: 0.024, IoU: 0.996 
+class road           weight: 0.018, IoU: 0.994 
+class sign           weight: 0.569, IoU: 0.457 
+class tree           weight: 0.000, IoU: 0.993 
+
+2022-09-01 04:36:03,298 - Model - INFO - Eval mean loss: 0.019766
+2022-09-01 04:36:03,299 - Model - INFO - Eval accuracy: 0.994008
+2022-09-01 04:36:03,299 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:36:03,300 - Model - INFO - **** Epoch 89 (89/100) ****
+2022-09-01 04:36:03,300 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:38:44,872 - Model - INFO - Training mean loss: 0.031311
+2022-09-01 04:38:44,872 - Model - INFO - Training accuracy: 0.991699
+2022-09-01 04:38:44,885 - Model - INFO - ---- EPOCH 089 EVALUATION ----
+2022-09-01 04:41:26,189 - Model - INFO - eval mean loss: 0.018205
+2022-09-01 04:41:26,189 - Model - INFO - eval point avg class IoU: 0.902694
+2022-09-01 04:41:26,190 - Model - INFO - eval point accuracy: 0.993769
+2022-09-01 04:41:26,190 - Model - INFO - eval point avg class acc: 0.989095
+2022-09-01 04:41:26,191 - Model - INFO - ------- IoU --------
+class bin            weight: 0.072, IoU: 0.871 
+class cone           weight: 0.006, IoU: 0.838 
+class footway        weight: 0.001, IoU: 0.986 
+class handrail       weight: 0.359, IoU: 0.963 
+class light          weight: 0.029, IoU: 0.994 
+class road           weight: 0.018, IoU: 0.993 
+class sign           weight: 0.514, IoU: 0.587 
+class tree           weight: 0.001, IoU: 0.991 
+
+2022-09-01 04:41:26,193 - Model - INFO - Eval mean loss: 0.018205
+2022-09-01 04:41:26,193 - Model - INFO - Eval accuracy: 0.993769
+2022-09-01 04:41:26,194 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:41:26,194 - Model - INFO - **** Epoch 90 (90/100) ****
+2022-09-01 04:41:26,194 - Model - INFO - Learning rate:0.000058
+2022-09-01 04:44:08,036 - Model - INFO - Training mean loss: 0.032286
+2022-09-01 04:44:08,036 - Model - INFO - Training accuracy: 0.991828
+2022-09-01 04:44:08,050 - Model - INFO - ---- EPOCH 090 EVALUATION ----
+2022-09-01 04:46:49,025 - Model - INFO - eval mean loss: 0.023564
+2022-09-01 04:46:49,025 - Model - INFO - eval point avg class IoU: 0.924718
+2022-09-01 04:46:49,026 - Model - INFO - eval point accuracy: 0.992774
+2022-09-01 04:46:49,026 - Model - INFO - eval point avg class acc: 0.985949
+2022-09-01 04:46:49,027 - Model - INFO - ------- IoU --------
+class bin            weight: 0.066, IoU: 0.881 
+class cone           weight: 0.010, IoU: 0.833 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.352, IoU: 0.945 
+class light          weight: 0.031, IoU: 0.994 
+class road           weight: 0.018, IoU: 0.992 
+class sign           weight: 0.521, IoU: 0.778 
+class tree           weight: 0.001, IoU: 0.992 
+
+2022-09-01 04:46:49,029 - Model - INFO - Eval mean loss: 0.023564
+2022-09-01 04:46:49,029 - Model - INFO - Eval accuracy: 0.992774
+2022-09-01 04:46:49,029 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:46:49,030 - Model - INFO - **** Epoch 91 (91/100) ****
+2022-09-01 04:46:49,030 - Model - INFO - Learning rate:0.000040
+2022-09-01 04:49:29,909 - Model - INFO - Training mean loss: 0.030973
+2022-09-01 04:49:29,910 - Model - INFO - Training accuracy: 0.992225
+2022-09-01 04:49:29,910 - Model - INFO - Save model...
+2022-09-01 04:49:29,910 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 04:49:30,028 - Model - INFO - Saving model....
+2022-09-01 04:49:30,041 - Model - INFO - ---- EPOCH 091 EVALUATION ----
+2022-09-01 04:52:12,584 - Model - INFO - eval mean loss: 0.020097
+2022-09-01 04:52:12,584 - Model - INFO - eval point avg class IoU: 0.886911
+2022-09-01 04:52:12,585 - Model - INFO - eval point accuracy: 0.993263
+2022-09-01 04:52:12,585 - Model - INFO - eval point avg class acc: 0.989198
+2022-09-01 04:52:12,586 - Model - INFO - ------- IoU --------
+class bin            weight: 0.056, IoU: 0.839 
+class cone           weight: 0.010, IoU: 0.696 
+class footway        weight: 0.000, IoU: 0.984 
+class handrail       weight: 0.344, IoU: 0.941 
+class light          weight: 0.025, IoU: 0.995 
+class road           weight: 0.019, IoU: 0.994 
+class sign           weight: 0.545, IoU: 0.655 
+class tree           weight: 0.001, IoU: 0.992 
+
+2022-09-01 04:52:12,587 - Model - INFO - Eval mean loss: 0.020097
+2022-09-01 04:52:12,587 - Model - INFO - Eval accuracy: 0.993263
+2022-09-01 04:52:12,588 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:52:12,588 - Model - INFO - **** Epoch 92 (92/100) ****
+2022-09-01 04:52:12,588 - Model - INFO - Learning rate:0.000040
+2022-09-01 04:54:53,611 - Model - INFO - Training mean loss: 0.030545
+2022-09-01 04:54:53,611 - Model - INFO - Training accuracy: 0.992345
+2022-09-01 04:54:53,624 - Model - INFO - ---- EPOCH 092 EVALUATION ----
+2022-09-01 04:57:35,176 - Model - INFO - eval mean loss: 0.024999
+2022-09-01 04:57:35,177 - Model - INFO - eval point avg class IoU: 0.717776
+2022-09-01 04:57:35,178 - Model - INFO - eval point accuracy: 0.991861
+2022-09-01 04:57:35,178 - Model - INFO - eval point avg class acc: 0.844827
+2022-09-01 04:57:35,179 - Model - INFO - ------- IoU --------
+class bin            weight: 0.057, IoU: 0.805 
+class cone           weight: 0.015, IoU: 0.000 
+class footway        weight: 0.000, IoU: 0.979 
+class handrail       weight: 0.332, IoU: 0.941 
+class light          weight: 0.032, IoU: 0.995 
+class road           weight: 0.015, IoU: 0.994 
+class sign           weight: 0.550, IoU: 0.033 
+class tree           weight: 0.000, IoU: 0.995 
+
+2022-09-01 04:57:35,180 - Model - INFO - Eval mean loss: 0.024999
+2022-09-01 04:57:35,181 - Model - INFO - Eval accuracy: 0.991861
+2022-09-01 04:57:35,181 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 04:57:35,182 - Model - INFO - **** Epoch 93 (93/100) ****
+2022-09-01 04:57:35,182 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:00:14,722 - Model - INFO - Training mean loss: 0.027165
+2022-09-01 05:00:14,723 - Model - INFO - Training accuracy: 0.992315
+2022-09-01 05:00:14,736 - Model - INFO - ---- EPOCH 093 EVALUATION ----
+2022-09-01 05:02:56,727 - Model - INFO - eval mean loss: 0.021549
+2022-09-01 05:02:56,728 - Model - INFO - eval point avg class IoU: 0.920759
+2022-09-01 05:02:56,728 - Model - INFO - eval point accuracy: 0.992903
+2022-09-01 05:02:56,728 - Model - INFO - eval point avg class acc: 0.988111
+2022-09-01 05:02:56,729 - Model - INFO - ------- IoU --------
+class bin            weight: 0.060, IoU: 0.848 
+class cone           weight: 0.009, IoU: 0.876 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.356, IoU: 0.950 
+class light          weight: 0.031, IoU: 0.996 
+class road           weight: 0.016, IoU: 0.993 
+class sign           weight: 0.525, IoU: 0.729 
+class tree           weight: 0.002, IoU: 0.990 
+
+2022-09-01 05:02:56,730 - Model - INFO - Eval mean loss: 0.021549
+2022-09-01 05:02:56,731 - Model - INFO - Eval accuracy: 0.992903
+2022-09-01 05:02:56,731 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:02:56,731 - Model - INFO - **** Epoch 94 (94/100) ****
+2022-09-01 05:02:56,732 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:05:38,471 - Model - INFO - Training mean loss: 0.027627
+2022-09-01 05:05:38,471 - Model - INFO - Training accuracy: 0.992243
+2022-09-01 05:05:38,484 - Model - INFO - ---- EPOCH 094 EVALUATION ----
+2022-09-01 05:08:19,073 - Model - INFO - eval mean loss: 0.020396
+2022-09-01 05:08:19,073 - Model - INFO - eval point avg class IoU: 0.927005
+2022-09-01 05:08:19,073 - Model - INFO - eval point accuracy: 0.993506
+2022-09-01 05:08:19,074 - Model - INFO - eval point avg class acc: 0.987719
+2022-09-01 05:08:19,074 - Model - INFO - ------- IoU --------
+class bin            weight: 0.061, IoU: 0.890 
+class cone           weight: 0.010, IoU: 0.890 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.342, IoU: 0.951 
+class light          weight: 0.029, IoU: 0.996 
+class road           weight: 0.018, IoU: 0.993 
+class sign           weight: 0.536, IoU: 0.720 
+class tree           weight: 0.001, IoU: 0.991 
+
+2022-09-01 05:08:19,076 - Model - INFO - Eval mean loss: 0.020396
+2022-09-01 05:08:19,076 - Model - INFO - Eval accuracy: 0.993506
+2022-09-01 05:08:19,077 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:08:19,077 - Model - INFO - **** Epoch 95 (95/100) ****
+2022-09-01 05:08:19,077 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:10:59,623 - Model - INFO - Training mean loss: 0.033716
+2022-09-01 05:10:59,624 - Model - INFO - Training accuracy: 0.992146
+2022-09-01 05:10:59,637 - Model - INFO - ---- EPOCH 095 EVALUATION ----
+2022-09-01 05:13:41,847 - Model - INFO - eval mean loss: 0.015883
+2022-09-01 05:13:41,847 - Model - INFO - eval point avg class IoU: 0.939940
+2022-09-01 05:13:41,848 - Model - INFO - eval point accuracy: 0.994928
+2022-09-01 05:13:41,848 - Model - INFO - eval point avg class acc: 0.991292
+2022-09-01 05:13:41,849 - Model - INFO - ------- IoU --------
+class bin            weight: 0.079, IoU: 0.875 
+class cone           weight: 0.005, IoU: 0.880 
+class footway        weight: 0.001, IoU: 0.988 
+class handrail       weight: 0.339, IoU: 0.963 
+class light          weight: 0.027, IoU: 0.996 
+class road           weight: 0.016, IoU: 0.994 
+class sign           weight: 0.532, IoU: 0.831 
+class tree           weight: 0.002, IoU: 0.994 
+
+2022-09-01 05:13:41,850 - Model - INFO - Eval mean loss: 0.015883
+2022-09-01 05:13:41,850 - Model - INFO - Eval accuracy: 0.994928
+2022-09-01 05:13:41,851 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:13:41,851 - Model - INFO - **** Epoch 96 (96/100) ****
+2022-09-01 05:13:41,852 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:16:22,365 - Model - INFO - Training mean loss: 0.026805
+2022-09-01 05:16:22,365 - Model - INFO - Training accuracy: 0.992867
+2022-09-01 05:16:22,366 - Model - INFO - Save model...
+2022-09-01 05:16:22,366 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/model.pth
+2022-09-01 05:16:22,487 - Model - INFO - Saving model....
+2022-09-01 05:16:22,501 - Model - INFO - ---- EPOCH 096 EVALUATION ----
+2022-09-01 05:19:03,002 - Model - INFO - eval mean loss: 0.020933
+2022-09-01 05:19:03,003 - Model - INFO - eval point avg class IoU: 0.918357
+2022-09-01 05:19:03,003 - Model - INFO - eval point accuracy: 0.993265
+2022-09-01 05:19:03,004 - Model - INFO - eval point avg class acc: 0.987618
+2022-09-01 05:19:03,004 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.848 
+class cone           weight: 0.009, IoU: 0.850 
+class footway        weight: 0.002, IoU: 0.984 
+class handrail       weight: 0.356, IoU: 0.941 
+class light          weight: 0.028, IoU: 0.996 
+class road           weight: 0.015, IoU: 0.993 
+class sign           weight: 0.526, IoU: 0.740 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 05:19:03,006 - Model - INFO - Eval mean loss: 0.020933
+2022-09-01 05:19:03,006 - Model - INFO - Eval accuracy: 0.993265
+2022-09-01 05:19:03,007 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:19:03,007 - Model - INFO - **** Epoch 97 (97/100) ****
+2022-09-01 05:19:03,007 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:21:43,654 - Model - INFO - Training mean loss: 0.026896
+2022-09-01 05:21:43,655 - Model - INFO - Training accuracy: 0.993038
+2022-09-01 05:21:43,667 - Model - INFO - ---- EPOCH 097 EVALUATION ----
+2022-09-01 05:24:26,283 - Model - INFO - eval mean loss: 0.021685
+2022-09-01 05:24:26,284 - Model - INFO - eval point avg class IoU: 0.936350
+2022-09-01 05:24:26,285 - Model - INFO - eval point accuracy: 0.993491
+2022-09-01 05:24:26,285 - Model - INFO - eval point avg class acc: 0.978123
+2022-09-01 05:24:26,285 - Model - INFO - ------- IoU --------
+class bin            weight: 0.064, IoU: 0.885 
+class cone           weight: 0.013, IoU: 0.846 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.341, IoU: 0.940 
+class light          weight: 0.026, IoU: 0.992 
+class road           weight: 0.014, IoU: 0.994 
+class sign           weight: 0.539, IoU: 0.854 
+class tree           weight: 0.001, IoU: 0.996 
+
+2022-09-01 05:24:26,287 - Model - INFO - Eval mean loss: 0.021685
+2022-09-01 05:24:26,287 - Model - INFO - Eval accuracy: 0.993491
+2022-09-01 05:24:26,287 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:24:26,288 - Model - INFO - **** Epoch 98 (98/100) ****
+2022-09-01 05:24:26,288 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:27:07,191 - Model - INFO - Training mean loss: 0.022365
+2022-09-01 05:27:07,191 - Model - INFO - Training accuracy: 0.993818
+2022-09-01 05:27:07,204 - Model - INFO - ---- EPOCH 098 EVALUATION ----
+2022-09-01 05:29:48,598 - Model - INFO - eval mean loss: 0.022793
+2022-09-01 05:29:48,599 - Model - INFO - eval point avg class IoU: 0.927475
+2022-09-01 05:29:48,599 - Model - INFO - eval point accuracy: 0.993373
+2022-09-01 05:29:48,600 - Model - INFO - eval point avg class acc: 0.979882
+2022-09-01 05:29:48,600 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.871 
+class cone           weight: 0.010, IoU: 0.853 
+class footway        weight: 0.001, IoU: 0.983 
+class handrail       weight: 0.331, IoU: 0.942 
+class light          weight: 0.027, IoU: 0.995 
+class road           weight: 0.013, IoU: 0.994 
+class sign           weight: 0.552, IoU: 0.789 
+class tree           weight: 0.001, IoU: 0.994 
+
+2022-09-01 05:29:48,602 - Model - INFO - Eval mean loss: 0.022793
+2022-09-01 05:29:48,602 - Model - INFO - Eval accuracy: 0.993373
+2022-09-01 05:29:48,603 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:29:48,603 - Model - INFO - **** Epoch 99 (99/100) ****
+2022-09-01 05:29:48,603 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:32:30,447 - Model - INFO - Training mean loss: 0.033575
+2022-09-01 05:32:30,447 - Model - INFO - Training accuracy: 0.991764
+2022-09-01 05:32:30,460 - Model - INFO - ---- EPOCH 099 EVALUATION ----
+2022-09-01 05:35:11,727 - Model - INFO - eval mean loss: 0.021049
+2022-09-01 05:35:11,728 - Model - INFO - eval point avg class IoU: 0.945533
+2022-09-01 05:35:11,728 - Model - INFO - eval point accuracy: 0.993188
+2022-09-01 05:35:11,729 - Model - INFO - eval point avg class acc: 0.985426
+2022-09-01 05:35:11,730 - Model - INFO - ------- IoU --------
+class bin            weight: 0.060, IoU: 0.874 
+class cone           weight: 0.012, IoU: 0.903 
+class footway        weight: 0.003, IoU: 0.982 
+class handrail       weight: 0.332, IoU: 0.947 
+class light          weight: 0.028, IoU: 0.993 
+class road           weight: 0.014, IoU: 0.993 
+class sign           weight: 0.550, IoU: 0.876 
+class tree           weight: 0.002, IoU: 0.995 
+
+2022-09-01 05:35:11,731 - Model - INFO - Eval mean loss: 0.021049
+2022-09-01 05:35:11,732 - Model - INFO - Eval accuracy: 0.993188
+2022-09-01 05:35:11,732 - Model - INFO - Best mIoU: 0.946589
+2022-09-01 05:35:11,732 - Model - INFO - **** Epoch 100 (100/100) ****
+2022-09-01 05:35:11,733 - Model - INFO - Learning rate:0.000040
+2022-09-01 05:37:53,056 - Model - INFO - Training mean loss: 0.033305
+2022-09-01 05:37:53,056 - Model - INFO - Training accuracy: 0.992112
+2022-09-01 05:37:53,069 - Model - INFO - ---- EPOCH 100 EVALUATION ----
+2022-09-01 05:40:33,648 - Model - INFO - eval mean loss: 0.022835
+2022-09-01 05:40:33,648 - Model - INFO - eval point avg class IoU: 0.951107
+2022-09-01 05:40:33,649 - Model - INFO - eval point accuracy: 0.992821
+2022-09-01 05:40:33,649 - Model - INFO - eval point avg class acc: 0.985977
+2022-09-01 05:40:33,649 - Model - INFO - ------- IoU --------
+class bin            weight: 0.065, IoU: 0.847 
+class cone           weight: 0.011, IoU: 0.926 
+class footway        weight: 0.000, IoU: 0.982 
+class handrail       weight: 0.348, IoU: 0.943 
+class light          weight: 0.030, IoU: 0.992 
+class road           weight: 0.009, IoU: 0.993 
+class sign           weight: 0.534, IoU: 0.929 
+class tree           weight: 0.002, IoU: 0.997 
+
+2022-09-01 05:40:33,651 - Model - INFO - Eval mean loss: 0.022835
+2022-09-01 05:40:33,651 - Model - INFO - Eval accuracy: 0.992821
+2022-09-01 05:40:33,652 - Model - INFO - Save model...
+2022-09-01 05:40:33,652 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg_msg\checkpoints/best_model.pth
+2022-09-01 05:40:33,736 - Model - INFO - Saving model....
+2022-09-01 05:40:33,736 - Model - INFO - Best mIoU: 0.951107
