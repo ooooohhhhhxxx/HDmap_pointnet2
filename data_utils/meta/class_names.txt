@@ -1,0 +1,8 @@
+bin
+cone
+footway
+handrail
+light
+road
+sign
+tree
