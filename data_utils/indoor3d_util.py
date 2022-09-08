@@ -7,17 +7,29 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(BASE_DIR)
 sys.path.append(BASE_DIR)
 
-DATA_PATH = os.path.join(ROOT_DIR, 'data','s3dis', 'Stanford3dDataset_v1.2_Aligned_Version')
+#DATA_PATH = os.path.join(ROOT_DIR, 'data','s3dis', 'Stanford3dDataset_v1.2_Aligned_Version')
+DATA_PATH = 'D:/pointnet/data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/'
 g_classes = [x.rstrip() for x in open(os.path.join(BASE_DIR, 'meta/class_names.txt'))]
 g_class2label = {cls: i for i,cls in enumerate(g_classes)}
-g_class2color = {'bin':	[0,255,0],
-                 'cone':	[0,0,255],
-                 'footway':	[0,255,255],
-                 'handrail':        [255,255,0],
-                 'light':      [255,0,255],
-                 'road':      [100,100,255],
-                 'sign':        [200,200,100],
-                 'tree':       [170,120,200]} 
+g_class2color = {'barrier': 	[255,235,0],
+                 'building':	[202,235,216],
+                 'car':	        [255,227,132],
+                 'cone':        [255,0,255],
+                 'handrail':    [153,51,250],
+                 'human':       [118,128,105],
+                 'lawn':        [107,142,35],
+                 'light':       [0,0,255],
+                 'manhole':     [128,42,42],
+                 'midline':     [255,255,255],
+                 'motor':       [244,164,95],
+                 'ridge':       [0,199,140],
+                 'road':        [88,87,86],
+                 'roadedge':    [255,99,71],
+                 'sign':        [116,0,0],
+                 'slope':       [64,224,205],
+                 'tree':        [0,255,0],
+                 'walkway':     [255,245,238],
+                 'wall':        [160,82,45]} 
 g_easy_view_labels = [7,8,9,10,11,1]
 g_label2color = {g_classes.index(cls): g_class2color[cls] for cls in g_classes}
 

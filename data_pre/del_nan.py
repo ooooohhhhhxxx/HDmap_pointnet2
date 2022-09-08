@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-path = '/Users/jinxuanchen/Desktop/all/Area_1/part_1/Annotations/'
+path = 'D:/pointnet/all/Area_1/part_1/Annotations/'
 files = os.listdir(path)
 txts = []
 for file in files:  #遍历⽂件夹
@@ -14,5 +14,6 @@ for file in files:  #遍历⽂件夹
         print(file)
     except:
         df = df.drop(df.columns[6],axis=1)
-    # df = df.drop(df.columns[])
-    # df.to_csv('/Users/jinxuanchen/Desktop/all/test/%s'%file,sep = ' ',header=0,index=0)
+    #df = df.drop(df.columns[6])
+    df.to_csv('D:/pointnet/data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/Area_1/part_1/Annotations/%s'%file,sep = ' ',header=0,index=0)
+    print(file,' saved')
