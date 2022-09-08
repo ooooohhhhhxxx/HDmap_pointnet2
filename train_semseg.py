@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = BASE_DIR
 sys.path.append(os.path.join(ROOT_DIR, 'models'))
 
-classes = ['bin','cone','footway','handrail','light','road','sign','tree']
+classes = ['barrier','building','car','cone','handrail','human','lawn','light','manhole','midline','motor','ridge','road','roadedge','sign','slope','tree','walkway','wall']
 class2label = {cls: i for i, cls in enumerate(classes)}
 seg_classes = class2label
 seg_label_to_cat = {}
@@ -36,8 +36,8 @@ def inplace_relu(m):
 def parse_args():
     parser = argparse.ArgumentParser('Model')
     parser.add_argument('--model', type=str, default='pointnet2_sem_seg_msg', help='model name [default: pointnet_sem_seg]')
-    parser.add_argument('--batch_size', type=int, default=16, help='Batch Size during training [default: 16]')
-    parser.add_argument('--epoch', default=100, type=int, help='Epoch to run [default: 32]')
+    parser.add_argument('--batch_size', type=int, default=32, help='Batch Size during training [default: 16]')
+    parser.add_argument('--epoch', default=32, type=int, help='Epoch to run [default: 32]')
     parser.add_argument('--learning_rate', default=0.001, type=float, help='Initial learning rate [default: 0.001]')
     parser.add_argument('--gpu', type=str, default='0', help='GPU to use [default: GPU 0]')
     parser.add_argument('--optimizer', type=str, default='Adam', help='Adam or SGD [default: Adam]')
@@ -87,8 +87,8 @@ def main(args):
     log_string('PARAMETER ...')
     log_string(args)
 
-    root = 'D:\pointnet\Pointnet_Pointnet2_pytorch\data\s3dis\stanford_indoor3d'
-    NUM_CLASSES = 8
+    root = r'D:\pointnet\data\stanford_indoor3d'
+    NUM_CLASSES = 19
     NUM_POINT = args.npoint
     BATCH_SIZE = args.batch_size
 
@@ -97,7 +97,7 @@ def main(args):
     print("start loading test data ...")
     TEST_DATASET = S3DISDataset(split='test', data_root=root, num_point=NUM_POINT, test_area=args.test_area, block_size=1.0, sample_rate=1.0, transform=None)
 
-    trainDataLoader = torch.utils.data.DataLoader(TRAIN_DATASET, batch_size=BATCH_SIZE, shuffle=True, num_workers=0,
+    trainDataLoader = torch.utils.data.DataLoader(TRAIN_DATASET, batch_size=BATCH_SIZE, shuffle=False, num_workers=0,
                                                   pin_memory=True, drop_last=True,
                                                   worker_init_fn=lambda x: np.random.seed(x + int(time.time())))
     testDataLoader = torch.utils.data.DataLoader(TEST_DATASET, batch_size=BATCH_SIZE, shuffle=False, num_workers=0,
