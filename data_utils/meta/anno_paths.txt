@@ -1,2 +1,2 @@
-D:/pointnet/data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/Area_1/part_1/Annotations
-D:/pointnet/data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/Area_2/part_1/Annotations
+D:/pointnet/data/downsample/final/Area_1/part_1/Annotations
+D:/pointnet/data/downsample/final/Area_2/part_1/Annotations
