@@ -19,7 +19,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = BASE_DIR
 sys.path.append(os.path.join(ROOT_DIR, 'models'))
 
-classes = ['bin','cone','footway','handrail','light','road','sign','tree']
+classes = ['barrier','building','car','cone','handrail','human','lawn','light','manhole','midline','motor','ridge','road','roadedge','sign','slope','tree','walkway','wall']
 class2label = {cls: i for i, cls in enumerate(classes)}
 seg_classes = class2label
 seg_label_to_cat = {}
@@ -78,7 +78,7 @@ def main(args):
     BATCH_SIZE = args.batch_size
     NUM_POINT = args.num_point
 
-    root = 'D:/pointnet/Pointnet_Pointnet2_pytorch/data/s3dis/stanford_indoor3d/'
+    root = r'D:\pointnet\data\stanford_indoor3d'
 
     TEST_DATASET_WHOLE_SCENE = ScannetDatasetWholeScene(root, split='test', test_area=args.test_area, block_points=NUM_POINT)
     log_string("The number of test data is: %d" % len(TEST_DATASET_WHOLE_SCENE))
