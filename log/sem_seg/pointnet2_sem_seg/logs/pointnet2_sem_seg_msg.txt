@@ -398,3 +398,1061 @@ class wall           weight: 0.226, IoU: 0.000
 2022-09-08 15:26:46,305 - Model - INFO - Best mIoU: 0.054386
 2022-09-08 15:26:46,305 - Model - INFO - **** Epoch 11 (11/32) ****
 2022-09-08 15:26:46,306 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:05:15,918 - Model - INFO - PARAMETER ...
+2022-09-09 20:05:15,919 - Model - INFO - Namespace(model='pointnet2_sem_seg_msg', batch_size=32, epoch=32, learning_rate=0.001, gpu='0', optimizer='Adam', log_dir='pointnet2_sem_seg', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=2)
+2022-09-09 20:05:16,829 - Model - INFO - The number of training data is: 816
+2022-09-09 20:05:16,830 - Model - INFO - The number of test data is: 731
+2022-09-09 20:05:18,373 - Model - INFO - Use pretrain model
+2022-09-09 20:05:18,374 - Model - INFO - **** Epoch 1 (2/32) ****
+2022-09-09 20:05:18,375 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:07:31,622 - Model - INFO - Training mean loss: 2.008585
+2022-09-09 20:07:31,622 - Model - INFO - Training accuracy: 0.559343
+2022-09-09 20:07:31,628 - Model - INFO - ---- EPOCH 001 EVALUATION ----
+2022-09-09 20:09:09,379 - Model - INFO - eval mean loss: 3.118096
+2022-09-09 20:09:09,379 - Model - INFO - eval point avg class IoU: 0.039425
+2022-09-09 20:09:09,380 - Model - INFO - eval point accuracy: 0.434103
+2022-09-09 20:09:09,381 - Model - INFO - eval point avg class acc: 0.104257
+2022-09-09 20:09:09,381 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.030, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.583 
+class car            weight: 0.363, IoU: 0.000 
+class cone           weight: 0.017, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.051, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.021, IoU: 0.024 
+class manhole        weight: 0.002, IoU: 0.000 
+class midline        weight: 0.000, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.004, IoU: 0.000 
+class road           weight: 0.037, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.010, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.032, IoU: 0.142 
+class walkway        weight: 0.351, IoU: 0.000 
+class wall           weight: 0.056, IoU: 0.000 
+
+2022-09-09 20:09:09,383 - Model - INFO - Eval mean loss: 3.118096
+2022-09-09 20:09:09,384 - Model - INFO - Eval accuracy: 0.434103
+2022-09-09 20:09:09,384 - Model - INFO - Save model...
+2022-09-09 20:09:09,384 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/best_model.pth
+2022-09-09 20:09:09,486 - Model - INFO - Saving model....
+2022-09-09 20:09:09,486 - Model - INFO - Best mIoU: 0.039425
+2022-09-09 20:09:09,488 - Model - INFO - **** Epoch 2 (3/32) ****
+2022-09-09 20:09:09,490 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:11:16,338 - Model - INFO - Training mean loss: 1.188526
+2022-09-09 20:11:16,338 - Model - INFO - Training accuracy: 0.747341
+2022-09-09 20:11:16,344 - Model - INFO - ---- EPOCH 002 EVALUATION ----
+2022-09-09 20:12:49,705 - Model - INFO - eval mean loss: 3.010457
+2022-09-09 20:12:49,705 - Model - INFO - eval point avg class IoU: 0.041758
+2022-09-09 20:12:49,706 - Model - INFO - eval point accuracy: 0.415681
+2022-09-09 20:12:49,707 - Model - INFO - eval point avg class acc: 0.085688
+2022-09-09 20:12:49,708 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.029, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.626 
+class car            weight: 0.362, IoU: 0.000 
+class cone           weight: 0.014, IoU: 0.000 
+class handrail       weight: 0.005, IoU: 0.006 
+class human          weight: 0.052, IoU: 0.000 
+class lawn           weight: 0.004, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.015 
+class manhole        weight: 0.007, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.009, IoU: 0.000 
+class road           weight: 0.028, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.011, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.040, IoU: 0.146 
+class walkway        weight: 0.339, IoU: 0.000 
+class wall           weight: 0.056, IoU: 0.000 
+
+2022-09-09 20:12:49,711 - Model - INFO - Eval mean loss: 3.010457
+2022-09-09 20:12:49,711 - Model - INFO - Eval accuracy: 0.415681
+2022-09-09 20:12:49,711 - Model - INFO - Save model...
+2022-09-09 20:12:49,711 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/best_model.pth
+2022-09-09 20:12:49,800 - Model - INFO - Saving model....
+2022-09-09 20:12:49,801 - Model - INFO - Best mIoU: 0.041758
+2022-09-09 20:12:49,802 - Model - INFO - **** Epoch 3 (4/32) ****
+2022-09-09 20:12:49,803 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:15:01,498 - Model - INFO - Training mean loss: 1.131464
+2022-09-09 20:15:01,499 - Model - INFO - Training accuracy: 0.753556
+2022-09-09 20:15:01,504 - Model - INFO - ---- EPOCH 003 EVALUATION ----
+2022-09-09 20:16:43,651 - Model - INFO - eval mean loss: 2.640855
+2022-09-09 20:16:43,651 - Model - INFO - eval point avg class IoU: 0.053609
+2022-09-09 20:16:43,651 - Model - INFO - eval point accuracy: 0.512920
+2022-09-09 20:16:43,652 - Model - INFO - eval point avg class acc: 0.121861
+2022-09-09 20:16:43,653 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.031, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.699 
+class car            weight: 0.398, IoU: 0.000 
+class cone           weight: 0.013, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.002 
+class human          weight: 0.051, IoU: 0.000 
+class lawn           weight: 0.005, IoU: 0.000 
+class light          weight: 0.022, IoU: 0.014 
+class manhole        weight: 0.002, IoU: 0.000 
+class midline        weight: 0.003, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.004, IoU: 0.000 
+class road           weight: 0.030, IoU: 0.000 
+class roadedge       weight: 0.014, IoU: 0.000 
+class sign           weight: 0.009, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.027, IoU: 0.303 
+class walkway        weight: 0.323, IoU: 0.000 
+class wall           weight: 0.056, IoU: 0.000 
+
+2022-09-09 20:16:43,655 - Model - INFO - Eval mean loss: 2.640855
+2022-09-09 20:16:43,655 - Model - INFO - Eval accuracy: 0.512920
+2022-09-09 20:16:43,656 - Model - INFO - Save model...
+2022-09-09 20:16:43,656 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/best_model.pth
+2022-09-09 20:16:43,757 - Model - INFO - Saving model....
+2022-09-09 20:16:43,758 - Model - INFO - Best mIoU: 0.053609
+2022-09-09 20:16:43,758 - Model - INFO - **** Epoch 4 (5/32) ****
+2022-09-09 20:16:43,759 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:18:52,630 - Model - INFO - Training mean loss: 1.017205
+2022-09-09 20:18:52,631 - Model - INFO - Training accuracy: 0.786613
+2022-09-09 20:18:52,638 - Model - INFO - ---- EPOCH 004 EVALUATION ----
+2022-09-09 20:20:25,799 - Model - INFO - eval mean loss: 2.902058
+2022-09-09 20:20:25,800 - Model - INFO - eval point avg class IoU: 0.051467
+2022-09-09 20:20:25,800 - Model - INFO - eval point accuracy: 0.532042
+2022-09-09 20:20:25,801 - Model - INFO - eval point avg class acc: 0.111858
+2022-09-09 20:20:25,802 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.041, IoU: 0.000 
+class building       weight: 0.012, IoU: 0.628 
+class car            weight: 0.379, IoU: 0.000 
+class cone           weight: 0.006, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.000 
+class human          weight: 0.040, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.022, IoU: 0.032 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.002, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.001, IoU: 0.000 
+class road           weight: 0.037, IoU: 0.000 
+class roadedge       weight: 0.008, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.033, IoU: 0.318 
+class walkway        weight: 0.354, IoU: 0.000 
+class wall           weight: 0.050, IoU: 0.000 
+
+2022-09-09 20:20:25,804 - Model - INFO - Eval mean loss: 2.902058
+2022-09-09 20:20:25,804 - Model - INFO - Eval accuracy: 0.532042
+2022-09-09 20:20:25,805 - Model - INFO - Best mIoU: 0.053609
+2022-09-09 20:20:25,806 - Model - INFO - **** Epoch 5 (6/32) ****
+2022-09-09 20:20:25,806 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:22:32,371 - Model - INFO - Training mean loss: 1.044372
+2022-09-09 20:22:32,372 - Model - INFO - Training accuracy: 0.766797
+2022-09-09 20:22:32,373 - Model - INFO - Save model...
+2022-09-09 20:22:32,373 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 20:22:32,494 - Model - INFO - Saving model....
+2022-09-09 20:22:32,500 - Model - INFO - ---- EPOCH 005 EVALUATION ----
+2022-09-09 20:24:04,611 - Model - INFO - eval mean loss: 3.391185
+2022-09-09 20:24:04,611 - Model - INFO - eval point avg class IoU: 0.048565
+2022-09-09 20:24:04,612 - Model - INFO - eval point accuracy: 0.393442
+2022-09-09 20:24:04,613 - Model - INFO - eval point avg class acc: 0.090852
+2022-09-09 20:24:04,613 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.026, IoU: 0.000 
+class building       weight: 0.006, IoU: 0.614 
+class car            weight: 0.376, IoU: 0.000 
+class cone           weight: 0.017, IoU: nan 
+class handrail       weight: 0.000, IoU: 0.000 
+class human          weight: 0.042, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.001 
+class light          weight: 0.021, IoU: 0.007 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.003, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.044, IoU: 0.000 
+class roadedge       weight: 0.013, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.042, IoU: 0.300 
+class walkway        weight: 0.343, IoU: 0.000 
+class wall           weight: 0.049, IoU: 0.000 
+
+2022-09-09 20:24:04,616 - Model - INFO - Eval mean loss: 3.391185
+2022-09-09 20:24:04,617 - Model - INFO - Eval accuracy: 0.393442
+2022-09-09 20:24:04,621 - Model - INFO - Best mIoU: 0.053609
+2022-09-09 20:24:04,621 - Model - INFO - **** Epoch 6 (7/32) ****
+2022-09-09 20:24:04,622 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:26:07,061 - Model - INFO - Training mean loss: 0.897896
+2022-09-09 20:26:07,062 - Model - INFO - Training accuracy: 0.798542
+2022-09-09 20:26:07,068 - Model - INFO - ---- EPOCH 006 EVALUATION ----
+2022-09-09 20:27:42,838 - Model - INFO - eval mean loss: 2.553263
+2022-09-09 20:27:42,838 - Model - INFO - eval point avg class IoU: 0.073970
+2022-09-09 20:27:42,839 - Model - INFO - eval point accuracy: 0.623007
+2022-09-09 20:27:42,840 - Model - INFO - eval point avg class acc: 0.138655
+2022-09-09 20:27:42,841 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.034, IoU: 0.000 
+class building       weight: 0.008, IoU: 0.831 
+class car            weight: 0.385, IoU: 0.000 
+class cone           weight: 0.023, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.050, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.019, IoU: 0.042 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.002, IoU: 0.000 
+class road           weight: 0.033, IoU: 0.000 
+class roadedge       weight: 0.014, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.036, IoU: 0.514 
+class walkway        weight: 0.327, IoU: 0.000 
+class wall           weight: 0.053, IoU: 0.018 
+
+2022-09-09 20:27:42,843 - Model - INFO - Eval mean loss: 2.553263
+2022-09-09 20:27:42,844 - Model - INFO - Eval accuracy: 0.623007
+2022-09-09 20:27:42,845 - Model - INFO - Save model...
+2022-09-09 20:27:42,845 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/best_model.pth
+2022-09-09 20:27:42,939 - Model - INFO - Saving model....
+2022-09-09 20:27:42,940 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:27:42,941 - Model - INFO - **** Epoch 7 (8/32) ****
+2022-09-09 20:27:42,941 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:29:51,226 - Model - INFO - Training mean loss: 0.862592
+2022-09-09 20:29:51,227 - Model - INFO - Training accuracy: 0.812181
+2022-09-09 20:29:51,233 - Model - INFO - ---- EPOCH 007 EVALUATION ----
+2022-09-09 20:31:29,650 - Model - INFO - eval mean loss: 2.686511
+2022-09-09 20:31:29,650 - Model - INFO - eval point avg class IoU: 0.063266
+2022-09-09 20:31:29,651 - Model - INFO - eval point accuracy: 0.573063
+2022-09-09 20:31:29,652 - Model - INFO - eval point avg class acc: 0.128009
+2022-09-09 20:31:29,653 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.045, IoU: 0.000 
+class building       weight: 0.004, IoU: 0.703 
+class car            weight: 0.375, IoU: 0.000 
+class cone           weight: 0.007, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.046, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.021 
+class light          weight: 0.023, IoU: 0.023 
+class manhole        weight: 0.002, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.009, IoU: 0.000 
+class road           weight: 0.033, IoU: 0.000 
+class roadedge       weight: 0.010, IoU: 0.000 
+class sign           weight: 0.006, IoU: 0.000 
+class slope          weight: 0.004, IoU: 0.000 
+class tree           weight: 0.037, IoU: 0.452 
+class walkway        weight: 0.344, IoU: 0.000 
+class wall           weight: 0.049, IoU: 0.003 
+
+2022-09-09 20:31:29,655 - Model - INFO - Eval mean loss: 2.686511
+2022-09-09 20:31:29,656 - Model - INFO - Eval accuracy: 0.573063
+2022-09-09 20:31:29,657 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:31:29,657 - Model - INFO - **** Epoch 8 (9/32) ****
+2022-09-09 20:31:29,658 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:33:43,385 - Model - INFO - Training mean loss: 0.836611
+2022-09-09 20:33:43,385 - Model - INFO - Training accuracy: 0.814548
+2022-09-09 20:33:43,391 - Model - INFO - ---- EPOCH 008 EVALUATION ----
+2022-09-09 20:35:18,160 - Model - INFO - eval mean loss: 2.636470
+2022-09-09 20:35:18,160 - Model - INFO - eval point avg class IoU: 0.070385
+2022-09-09 20:35:18,161 - Model - INFO - eval point accuracy: 0.573479
+2022-09-09 20:35:18,162 - Model - INFO - eval point avg class acc: 0.129131
+2022-09-09 20:35:18,163 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.045, IoU: 0.000 
+class building       weight: 0.004, IoU: 0.772 
+class car            weight: 0.377, IoU: 0.000 
+class cone           weight: 0.020, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.000 
+class human          weight: 0.040, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.020 
+class light          weight: 0.019, IoU: 0.038 
+class manhole        weight: 0.008, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.042, IoU: 0.000 
+class roadedge       weight: 0.013, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.003, IoU: 0.000 
+class tree           weight: 0.033, IoU: 0.454 
+class walkway        weight: 0.331, IoU: 0.000 
+class wall           weight: 0.049, IoU: 0.053 
+
+2022-09-09 20:35:18,166 - Model - INFO - Eval mean loss: 2.636470
+2022-09-09 20:35:18,167 - Model - INFO - Eval accuracy: 0.573479
+2022-09-09 20:35:18,169 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:35:18,170 - Model - INFO - **** Epoch 9 (10/32) ****
+2022-09-09 20:35:18,170 - Model - INFO - Learning rate:0.001000
+2022-09-09 20:37:25,918 - Model - INFO - Training mean loss: 0.843921
+2022-09-09 20:37:25,919 - Model - INFO - Training accuracy: 0.824398
+2022-09-09 20:37:25,926 - Model - INFO - ---- EPOCH 009 EVALUATION ----
+2022-09-09 20:39:06,401 - Model - INFO - eval mean loss: 2.566196
+2022-09-09 20:39:06,401 - Model - INFO - eval point avg class IoU: 0.064288
+2022-09-09 20:39:06,402 - Model - INFO - eval point accuracy: 0.586931
+2022-09-09 20:39:06,403 - Model - INFO - eval point avg class acc: 0.105207
+2022-09-09 20:39:06,405 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.035, IoU: 0.000 
+class building       weight: 0.008, IoU: 0.680 
+class car            weight: 0.366, IoU: 0.000 
+class cone           weight: 0.018, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.047, IoU: nan 
+class lawn           weight: 0.000, IoU: 0.023 
+class light          weight: 0.025, IoU: 0.023 
+class manhole        weight: 0.004, IoU: 0.000 
+class midline        weight: 0.001, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.005, IoU: 0.000 
+class road           weight: 0.034, IoU: 0.000 
+class roadedge       weight: 0.011, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.033, IoU: 0.493 
+class walkway        weight: 0.350, IoU: 0.000 
+class wall           weight: 0.051, IoU: 0.002 
+
+2022-09-09 20:39:06,408 - Model - INFO - Eval mean loss: 2.566196
+2022-09-09 20:39:06,408 - Model - INFO - Eval accuracy: 0.586931
+2022-09-09 20:39:06,409 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:39:06,410 - Model - INFO - **** Epoch 10 (11/32) ****
+2022-09-09 20:39:06,411 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:41:24,015 - Model - INFO - Training mean loss: 0.755552
+2022-09-09 20:41:24,016 - Model - INFO - Training accuracy: 0.845463
+2022-09-09 20:41:24,018 - Model - INFO - Save model...
+2022-09-09 20:41:24,018 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 20:41:24,141 - Model - INFO - Saving model....
+2022-09-09 20:41:24,146 - Model - INFO - ---- EPOCH 010 EVALUATION ----
+2022-09-09 20:43:04,315 - Model - INFO - eval mean loss: 2.866803
+2022-09-09 20:43:04,315 - Model - INFO - eval point avg class IoU: 0.052560
+2022-09-09 20:43:04,316 - Model - INFO - eval point accuracy: 0.512354
+2022-09-09 20:43:04,317 - Model - INFO - eval point avg class acc: 0.121972
+2022-09-09 20:43:04,318 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.037, IoU: 0.000 
+class building       weight: 0.007, IoU: 0.617 
+class car            weight: 0.383, IoU: 0.000 
+class cone           weight: 0.009, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.001 
+class human          weight: 0.037, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.022, IoU: 0.031 
+class manhole        weight: 0.003, IoU: 0.000 
+class midline        weight: 0.002, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.005, IoU: 0.000 
+class road           weight: 0.042, IoU: 0.000 
+class roadedge       weight: 0.007, IoU: 0.000 
+class sign           weight: 0.004, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.035, IoU: 0.299 
+class walkway        weight: 0.358, IoU: 0.000 
+class wall           weight: 0.044, IoU: 0.051 
+
+2022-09-09 20:43:04,321 - Model - INFO - Eval mean loss: 2.866803
+2022-09-09 20:43:04,321 - Model - INFO - Eval accuracy: 0.512354
+2022-09-09 20:43:04,322 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:43:04,323 - Model - INFO - **** Epoch 11 (12/32) ****
+2022-09-09 20:43:04,324 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:45:15,898 - Model - INFO - Training mean loss: 0.733162
+2022-09-09 20:45:15,898 - Model - INFO - Training accuracy: 0.845258
+2022-09-09 20:45:15,904 - Model - INFO - ---- EPOCH 011 EVALUATION ----
+2022-09-09 20:46:53,193 - Model - INFO - eval mean loss: 2.639115
+2022-09-09 20:46:53,193 - Model - INFO - eval point avg class IoU: 0.063807
+2022-09-09 20:46:53,194 - Model - INFO - eval point accuracy: 0.584375
+2022-09-09 20:46:53,195 - Model - INFO - eval point avg class acc: 0.130164
+2022-09-09 20:46:53,195 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.029, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.690 
+class car            weight: 0.392, IoU: 0.000 
+class cone           weight: 0.011, IoU: nan 
+class handrail       weight: 0.000, IoU: 0.000 
+class human          weight: 0.045, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.115 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.041, IoU: 0.000 
+class roadedge       weight: 0.007, IoU: 0.000 
+class sign           weight: 0.005, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.036, IoU: 0.386 
+class walkway        weight: 0.342, IoU: 0.000 
+class wall           weight: 0.050, IoU: 0.021 
+
+2022-09-09 20:46:53,198 - Model - INFO - Eval mean loss: 2.639115
+2022-09-09 20:46:53,198 - Model - INFO - Eval accuracy: 0.584375
+2022-09-09 20:46:53,199 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:46:53,200 - Model - INFO - **** Epoch 12 (13/32) ****
+2022-09-09 20:46:53,201 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:49:01,723 - Model - INFO - Training mean loss: 0.717343
+2022-09-09 20:49:01,724 - Model - INFO - Training accuracy: 0.845205
+2022-09-09 20:49:01,730 - Model - INFO - ---- EPOCH 012 EVALUATION ----
+2022-09-09 20:50:38,942 - Model - INFO - eval mean loss: 2.668426
+2022-09-09 20:50:38,942 - Model - INFO - eval point avg class IoU: 0.070050
+2022-09-09 20:50:38,943 - Model - INFO - eval point accuracy: 0.583916
+2022-09-09 20:50:38,944 - Model - INFO - eval point avg class acc: 0.138201
+2022-09-09 20:50:38,945 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.035, IoU: 0.003 
+class building       weight: 0.010, IoU: 0.735 
+class car            weight: 0.375, IoU: 0.022 
+class cone           weight: 0.015, IoU: 0.000 
+class handrail       weight: 0.004, IoU: 0.000 
+class human          weight: 0.043, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.054 
+class manhole        weight: 0.006, IoU: 0.000 
+class midline        weight: 0.001, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.004, IoU: 0.000 
+class road           weight: 0.044, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.005, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.034, IoU: 0.485 
+class walkway        weight: 0.340, IoU: 0.000 
+class wall           weight: 0.054, IoU: 0.032 
+
+2022-09-09 20:50:38,947 - Model - INFO - Eval mean loss: 2.668426
+2022-09-09 20:50:38,948 - Model - INFO - Eval accuracy: 0.583916
+2022-09-09 20:50:38,949 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:50:38,950 - Model - INFO - **** Epoch 13 (14/32) ****
+2022-09-09 20:50:38,951 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:52:49,455 - Model - INFO - Training mean loss: 0.712529
+2022-09-09 20:52:49,456 - Model - INFO - Training accuracy: 0.852547
+2022-09-09 20:52:49,463 - Model - INFO - ---- EPOCH 013 EVALUATION ----
+2022-09-09 20:54:23,455 - Model - INFO - eval mean loss: 3.033612
+2022-09-09 20:54:23,456 - Model - INFO - eval point avg class IoU: 0.058578
+2022-09-09 20:54:23,457 - Model - INFO - eval point accuracy: 0.553617
+2022-09-09 20:54:23,458 - Model - INFO - eval point avg class acc: 0.129015
+2022-09-09 20:54:23,459 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.039, IoU: 0.000 
+class building       weight: 0.013, IoU: 0.687 
+class car            weight: 0.377, IoU: 0.000 
+class cone           weight: 0.011, IoU: nan 
+class handrail       weight: 0.000, IoU: 0.000 
+class human          weight: 0.050, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.033 
+class manhole        weight: 0.004, IoU: 0.000 
+class midline        weight: 0.002, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.028, IoU: 0.000 
+class roadedge       weight: 0.010, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.033, IoU: 0.390 
+class walkway        weight: 0.338, IoU: 0.000 
+class wall           weight: 0.060, IoU: 0.002 
+
+2022-09-09 20:54:23,463 - Model - INFO - Eval mean loss: 3.033612
+2022-09-09 20:54:23,463 - Model - INFO - Eval accuracy: 0.553617
+2022-09-09 20:54:23,464 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:54:23,465 - Model - INFO - **** Epoch 14 (15/32) ****
+2022-09-09 20:54:23,466 - Model - INFO - Learning rate:0.000700
+2022-09-09 20:56:30,947 - Model - INFO - Training mean loss: 0.720057
+2022-09-09 20:56:30,948 - Model - INFO - Training accuracy: 0.846500
+2022-09-09 20:56:30,954 - Model - INFO - ---- EPOCH 014 EVALUATION ----
+2022-09-09 20:58:06,610 - Model - INFO - eval mean loss: 3.191162
+2022-09-09 20:58:06,610 - Model - INFO - eval point avg class IoU: 0.056932
+2022-09-09 20:58:06,611 - Model - INFO - eval point accuracy: 0.545283
+2022-09-09 20:58:06,612 - Model - INFO - eval point avg class acc: 0.127032
+2022-09-09 20:58:06,613 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.042, IoU: 0.000 
+class building       weight: 0.006, IoU: 0.604 
+class car            weight: 0.360, IoU: 0.000 
+class cone           weight: 0.025, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.044, IoU: nan 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.023, IoU: 0.036 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.035, IoU: 0.000 
+class roadedge       weight: 0.013, IoU: 0.000 
+class sign           weight: 0.009, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.035, IoU: 0.439 
+class walkway        weight: 0.347, IoU: 0.000 
+class wall           weight: 0.048, IoU: 0.002 
+
+2022-09-09 20:58:06,615 - Model - INFO - Eval mean loss: 3.191162
+2022-09-09 20:58:06,616 - Model - INFO - Eval accuracy: 0.545283
+2022-09-09 20:58:06,617 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 20:58:06,617 - Model - INFO - **** Epoch 15 (16/32) ****
+2022-09-09 20:58:06,621 - Model - INFO - Learning rate:0.000700
+2022-09-09 21:00:15,566 - Model - INFO - Training mean loss: 0.672636
+2022-09-09 21:00:15,567 - Model - INFO - Training accuracy: 0.856985
+2022-09-09 21:00:15,568 - Model - INFO - Save model...
+2022-09-09 21:00:15,568 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 21:00:15,686 - Model - INFO - Saving model....
+2022-09-09 21:00:15,692 - Model - INFO - ---- EPOCH 015 EVALUATION ----
+2022-09-09 21:01:50,317 - Model - INFO - eval mean loss: 2.994036
+2022-09-09 21:01:50,318 - Model - INFO - eval point avg class IoU: 0.057558
+2022-09-09 21:01:50,319 - Model - INFO - eval point accuracy: 0.542556
+2022-09-09 21:01:50,320 - Model - INFO - eval point avg class acc: 0.130304
+2022-09-09 21:01:50,320 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.051, IoU: 0.000 
+class building       weight: 0.007, IoU: 0.627 
+class car            weight: 0.351, IoU: 0.000 
+class cone           weight: 0.016, IoU: 0.000 
+class handrail       weight: 0.000, IoU: 0.000 
+class human          weight: 0.032, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.017, IoU: 0.046 
+class manhole        weight: 0.006, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.005, IoU: 0.000 
+class road           weight: 0.042, IoU: 0.000 
+class roadedge       weight: 0.011, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.043, IoU: 0.421 
+class walkway        weight: 0.360, IoU: 0.000 
+class wall           weight: 0.049, IoU: 0.000 
+
+2022-09-09 21:01:50,324 - Model - INFO - Eval mean loss: 2.994036
+2022-09-09 21:01:50,324 - Model - INFO - Eval accuracy: 0.542556
+2022-09-09 21:01:50,325 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:01:50,327 - Model - INFO - **** Epoch 16 (17/32) ****
+2022-09-09 21:01:50,328 - Model - INFO - Learning rate:0.000700
+2022-09-09 21:04:01,007 - Model - INFO - Training mean loss: 0.633394
+2022-09-09 21:04:01,008 - Model - INFO - Training accuracy: 0.864381
+2022-09-09 21:04:01,015 - Model - INFO - ---- EPOCH 016 EVALUATION ----
+2022-09-09 21:05:37,456 - Model - INFO - eval mean loss: 2.835678
+2022-09-09 21:05:37,456 - Model - INFO - eval point avg class IoU: 0.059950
+2022-09-09 21:05:37,457 - Model - INFO - eval point accuracy: 0.572144
+2022-09-09 21:05:37,458 - Model - INFO - eval point avg class acc: 0.136392
+2022-09-09 21:05:37,458 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.061, IoU: 0.000 
+class building       weight: 0.013, IoU: 0.663 
+class car            weight: 0.398, IoU: 0.000 
+class cone           weight: 0.011, IoU: 0.000 
+class handrail       weight: 0.004, IoU: 0.000 
+class human          weight: 0.042, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.023, IoU: 0.003 
+class manhole        weight: 0.000, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.009, IoU: 0.000 
+class road           weight: 0.041, IoU: 0.000 
+class roadedge       weight: 0.010, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.028, IoU: 0.471 
+class walkway        weight: 0.298, IoU: 0.000 
+class wall           weight: 0.052, IoU: 0.002 
+
+2022-09-09 21:05:37,461 - Model - INFO - Eval mean loss: 2.835678
+2022-09-09 21:05:37,462 - Model - INFO - Eval accuracy: 0.572144
+2022-09-09 21:05:37,463 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:05:37,464 - Model - INFO - **** Epoch 17 (18/32) ****
+2022-09-09 21:05:37,464 - Model - INFO - Learning rate:0.000700
+2022-09-09 21:40:02,822 - Model - INFO - Training mean loss: 0.617069
+2022-09-09 21:40:02,823 - Model - INFO - Training accuracy: 0.862605
+2022-09-09 21:40:02,829 - Model - INFO - ---- EPOCH 017 EVALUATION ----
+2022-09-09 21:41:32,160 - Model - INFO - eval mean loss: 3.626072
+2022-09-09 21:41:32,160 - Model - INFO - eval point avg class IoU: 0.041158
+2022-09-09 21:41:32,161 - Model - INFO - eval point accuracy: 0.438077
+2022-09-09 21:41:32,162 - Model - INFO - eval point avg class acc: 0.115862
+2022-09-09 21:41:32,163 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.048, IoU: 0.000 
+class building       weight: 0.012, IoU: 0.570 
+class car            weight: 0.365, IoU: 0.000 
+class cone           weight: 0.013, IoU: 0.000 
+class handrail       weight: 0.000, IoU: 0.000 
+class human          weight: 0.045, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.019, IoU: 0.014 
+class manhole        weight: 0.002, IoU: nan 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.027, IoU: 0.000 
+class roadedge       weight: 0.007, IoU: 0.000 
+class sign           weight: 0.005, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.037, IoU: 0.173 
+class walkway        weight: 0.367, IoU: 0.000 
+class wall           weight: 0.046, IoU: 0.025 
+
+2022-09-09 21:41:32,166 - Model - INFO - Eval mean loss: 3.626072
+2022-09-09 21:41:32,166 - Model - INFO - Eval accuracy: 0.438077
+2022-09-09 21:41:32,167 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:41:32,168 - Model - INFO - **** Epoch 18 (19/32) ****
+2022-09-09 21:41:32,168 - Model - INFO - Learning rate:0.000700
+2022-09-09 21:43:31,283 - Model - INFO - Training mean loss: 0.592998
+2022-09-09 21:43:31,284 - Model - INFO - Training accuracy: 0.873621
+2022-09-09 21:43:31,291 - Model - INFO - ---- EPOCH 018 EVALUATION ----
+2022-09-09 21:45:00,132 - Model - INFO - eval mean loss: 3.027051
+2022-09-09 21:45:00,132 - Model - INFO - eval point avg class IoU: 0.056895
+2022-09-09 21:45:00,133 - Model - INFO - eval point accuracy: 0.531555
+2022-09-09 21:45:00,134 - Model - INFO - eval point avg class acc: 0.132873
+2022-09-09 21:45:00,135 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.029, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.614 
+class car            weight: 0.346, IoU: 0.018 
+class cone           weight: 0.013, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.000 
+class human          weight: 0.045, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.001 
+class light          weight: 0.022, IoU: 0.067 
+class manhole        weight: 0.006, IoU: 0.000 
+class midline        weight: 0.002, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.043, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.041, IoU: 0.381 
+class walkway        weight: 0.375, IoU: 0.000 
+class wall           weight: 0.046, IoU: 0.000 
+
+2022-09-09 21:45:00,138 - Model - INFO - Eval mean loss: 3.027051
+2022-09-09 21:45:00,139 - Model - INFO - Eval accuracy: 0.531555
+2022-09-09 21:45:00,140 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:45:00,141 - Model - INFO - **** Epoch 19 (20/32) ****
+2022-09-09 21:45:00,141 - Model - INFO - Learning rate:0.000700
+2022-09-09 21:47:01,205 - Model - INFO - Training mean loss: 0.656033
+2022-09-09 21:47:01,206 - Model - INFO - Training accuracy: 0.863329
+2022-09-09 21:47:01,212 - Model - INFO - ---- EPOCH 019 EVALUATION ----
+2022-09-09 21:48:31,452 - Model - INFO - eval mean loss: 2.587768
+2022-09-09 21:48:31,452 - Model - INFO - eval point avg class IoU: 0.063735
+2022-09-09 21:48:31,453 - Model - INFO - eval point accuracy: 0.543792
+2022-09-09 21:48:31,454 - Model - INFO - eval point avg class acc: 0.162468
+2022-09-09 21:48:31,454 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.038, IoU: 0.000 
+class building       weight: 0.004, IoU: 0.603 
+class car            weight: 0.368, IoU: 0.001 
+class cone           weight: 0.015, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.033, IoU: 0.149 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.025, IoU: 0.058 
+class manhole        weight: 0.004, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.001, IoU: 0.000 
+class road           weight: 0.027, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.047, IoU: 0.397 
+class walkway        weight: 0.372, IoU: 0.000 
+class wall           weight: 0.041, IoU: 0.003 
+
+2022-09-09 21:48:31,457 - Model - INFO - Eval mean loss: 2.587768
+2022-09-09 21:48:31,457 - Model - INFO - Eval accuracy: 0.543792
+2022-09-09 21:48:31,458 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:48:31,461 - Model - INFO - **** Epoch 20 (21/32) ****
+2022-09-09 21:48:31,462 - Model - INFO - Learning rate:0.000490
+2022-09-09 21:50:29,166 - Model - INFO - Training mean loss: 0.565290
+2022-09-09 21:50:29,167 - Model - INFO - Training accuracy: 0.883110
+2022-09-09 21:50:29,168 - Model - INFO - Save model...
+2022-09-09 21:50:29,168 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 21:50:29,290 - Model - INFO - Saving model....
+2022-09-09 21:50:29,296 - Model - INFO - ---- EPOCH 020 EVALUATION ----
+2022-09-09 21:51:57,527 - Model - INFO - eval mean loss: 3.128923
+2022-09-09 21:51:57,528 - Model - INFO - eval point avg class IoU: 0.048643
+2022-09-09 21:51:57,529 - Model - INFO - eval point accuracy: 0.479327
+2022-09-09 21:51:57,530 - Model - INFO - eval point avg class acc: 0.129216
+2022-09-09 21:51:57,531 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.034, IoU: 0.000 
+class building       weight: 0.004, IoU: 0.574 
+class car            weight: 0.343, IoU: 0.029 
+class cone           weight: 0.020, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.047, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.021, IoU: 0.013 
+class manhole        weight: 0.001, IoU: 0.000 
+class midline        weight: 0.002, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.007, IoU: 0.000 
+class road           weight: 0.047, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.038, IoU: 0.307 
+class walkway        weight: 0.363, IoU: 0.000 
+class wall           weight: 0.051, IoU: 0.000 
+
+2022-09-09 21:51:57,533 - Model - INFO - Eval mean loss: 3.128923
+2022-09-09 21:51:57,536 - Model - INFO - Eval accuracy: 0.479327
+2022-09-09 21:51:57,537 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:51:57,537 - Model - INFO - **** Epoch 21 (22/32) ****
+2022-09-09 21:51:57,538 - Model - INFO - Learning rate:0.000490
+2022-09-09 21:53:54,458 - Model - INFO - Training mean loss: 0.528972
+2022-09-09 21:53:54,459 - Model - INFO - Training accuracy: 0.880617
+2022-09-09 21:53:54,466 - Model - INFO - ---- EPOCH 021 EVALUATION ----
+2022-09-09 21:55:16,972 - Model - INFO - eval mean loss: 2.696891
+2022-09-09 21:55:16,972 - Model - INFO - eval point avg class IoU: 0.056899
+2022-09-09 21:55:16,973 - Model - INFO - eval point accuracy: 0.541107
+2022-09-09 21:55:16,974 - Model - INFO - eval point avg class acc: 0.133456
+2022-09-09 21:55:16,975 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.045, IoU: 0.000 
+class building       weight: 0.005, IoU: 0.614 
+class car            weight: 0.354, IoU: 0.011 
+class cone           weight: 0.016, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.000 
+class human          weight: 0.041, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.019, IoU: 0.015 
+class manhole        weight: 0.001, IoU: 0.000 
+class midline        weight: 0.000, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.038, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.027, IoU: 0.437 
+class walkway        weight: 0.379, IoU: 0.000 
+class wall           weight: 0.050, IoU: 0.005 
+
+2022-09-09 21:55:16,980 - Model - INFO - Eval mean loss: 2.696891
+2022-09-09 21:55:16,980 - Model - INFO - Eval accuracy: 0.541107
+2022-09-09 21:55:16,981 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:55:16,982 - Model - INFO - **** Epoch 22 (23/32) ****
+2022-09-09 21:55:16,982 - Model - INFO - Learning rate:0.000490
+2022-09-09 21:57:05,679 - Model - INFO - Training mean loss: 0.469515
+2022-09-09 21:57:05,680 - Model - INFO - Training accuracy: 0.901289
+2022-09-09 21:57:05,686 - Model - INFO - ---- EPOCH 022 EVALUATION ----
+2022-09-09 21:58:28,892 - Model - INFO - eval mean loss: 3.210315
+2022-09-09 21:58:28,892 - Model - INFO - eval point avg class IoU: 0.045589
+2022-09-09 21:58:28,893 - Model - INFO - eval point accuracy: 0.475734
+2022-09-09 21:58:28,894 - Model - INFO - eval point avg class acc: 0.110045
+2022-09-09 21:58:28,895 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.033, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.530 
+class car            weight: 0.360, IoU: 0.000 
+class cone           weight: 0.017, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.037, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.018, IoU: 0.065 
+class manhole        weight: 0.007, IoU: 0.000 
+class midline        weight: 0.001, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.033, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.038, IoU: 0.268 
+class walkway        weight: 0.372, IoU: 0.000 
+class wall           weight: 0.047, IoU: 0.003 
+
+2022-09-09 21:58:28,898 - Model - INFO - Eval mean loss: 3.210315
+2022-09-09 21:58:28,899 - Model - INFO - Eval accuracy: 0.475734
+2022-09-09 21:58:28,899 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 21:58:28,900 - Model - INFO - **** Epoch 23 (24/32) ****
+2022-09-09 21:58:28,901 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:00:19,102 - Model - INFO - Training mean loss: 0.507776
+2022-09-09 22:00:19,104 - Model - INFO - Training accuracy: 0.897156
+2022-09-09 22:00:19,110 - Model - INFO - ---- EPOCH 023 EVALUATION ----
+2022-09-09 22:01:43,307 - Model - INFO - eval mean loss: 3.272294
+2022-09-09 22:01:43,308 - Model - INFO - eval point avg class IoU: 0.055770
+2022-09-09 22:01:43,309 - Model - INFO - eval point accuracy: 0.519379
+2022-09-09 22:01:43,310 - Model - INFO - eval point avg class acc: 0.136713
+2022-09-09 22:01:43,311 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.026, IoU: 0.000 
+class building       weight: 0.010, IoU: 0.620 
+class car            weight: 0.363, IoU: 0.047 
+class cone           weight: 0.016, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.059, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.021, IoU: 0.033 
+class manhole        weight: 0.002, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.007, IoU: 0.000 
+class road           weight: 0.042, IoU: 0.000 
+class roadedge       weight: 0.014, IoU: 0.000 
+class sign           weight: 0.011, IoU: nan 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.029, IoU: 0.357 
+class walkway        weight: 0.338, IoU: 0.000 
+class wall           weight: 0.058, IoU: 0.003 
+
+2022-09-09 22:01:43,313 - Model - INFO - Eval mean loss: 3.272294
+2022-09-09 22:01:43,316 - Model - INFO - Eval accuracy: 0.519379
+2022-09-09 22:01:43,317 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:01:43,318 - Model - INFO - **** Epoch 24 (25/32) ****
+2022-09-09 22:01:43,318 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:03:34,507 - Model - INFO - Training mean loss: 0.492248
+2022-09-09 22:03:34,508 - Model - INFO - Training accuracy: 0.886099
+2022-09-09 22:03:34,515 - Model - INFO - ---- EPOCH 024 EVALUATION ----
+2022-09-09 22:04:58,074 - Model - INFO - eval mean loss: 2.989908
+2022-09-09 22:04:58,074 - Model - INFO - eval point avg class IoU: 0.061184
+2022-09-09 22:04:58,075 - Model - INFO - eval point accuracy: 0.534891
+2022-09-09 22:04:58,076 - Model - INFO - eval point avg class acc: 0.127530
+2022-09-09 22:04:58,077 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.047, IoU: 0.000 
+class building       weight: 0.004, IoU: 0.576 
+class car            weight: 0.362, IoU: 0.077 
+class cone           weight: 0.019, IoU: 0.000 
+class handrail       weight: 0.004, IoU: 0.000 
+class human          weight: 0.046, IoU: 0.000 
+class lawn           weight: 0.006, IoU: 0.000 
+class light          weight: 0.025, IoU: 0.099 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.001, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.033, IoU: 0.000 
+class roadedge       weight: 0.010, IoU: 0.000 
+class sign           weight: 0.006, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.025, IoU: 0.367 
+class walkway        weight: 0.357, IoU: 0.000 
+class wall           weight: 0.046, IoU: 0.043 
+
+2022-09-09 22:04:58,080 - Model - INFO - Eval mean loss: 2.989908
+2022-09-09 22:04:58,081 - Model - INFO - Eval accuracy: 0.534891
+2022-09-09 22:04:58,084 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:04:58,085 - Model - INFO - **** Epoch 25 (26/32) ****
+2022-09-09 22:04:58,086 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:06:48,390 - Model - INFO - Training mean loss: 0.510999
+2022-09-09 22:06:48,391 - Model - INFO - Training accuracy: 0.894318
+2022-09-09 22:06:48,392 - Model - INFO - Save model...
+2022-09-09 22:06:48,392 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 22:06:48,517 - Model - INFO - Saving model....
+2022-09-09 22:06:48,523 - Model - INFO - ---- EPOCH 025 EVALUATION ----
+2022-09-09 22:08:10,512 - Model - INFO - eval mean loss: 3.124264
+2022-09-09 22:08:10,512 - Model - INFO - eval point avg class IoU: 0.051457
+2022-09-09 22:08:10,513 - Model - INFO - eval point accuracy: 0.533611
+2022-09-09 22:08:10,514 - Model - INFO - eval point avg class acc: 0.107014
+2022-09-09 22:08:10,515 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.031, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.598 
+class car            weight: 0.401, IoU: 0.059 
+class cone           weight: 0.010, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.024, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.021, IoU: 0.021 
+class manhole        weight: 0.003, IoU: nan 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.002, IoU: 0.000 
+class road           weight: 0.037, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.041, IoU: 0.299 
+class walkway        weight: 0.363, IoU: 0.000 
+class wall           weight: 0.040, IoU: 0.000 
+
+2022-09-09 22:08:10,517 - Model - INFO - Eval mean loss: 3.124264
+2022-09-09 22:08:10,518 - Model - INFO - Eval accuracy: 0.533611
+2022-09-09 22:08:10,519 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:08:10,520 - Model - INFO - **** Epoch 26 (27/32) ****
+2022-09-09 22:08:10,521 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:10:03,582 - Model - INFO - Training mean loss: 0.448262
+2022-09-09 22:10:03,583 - Model - INFO - Training accuracy: 0.901583
+2022-09-09 22:10:03,589 - Model - INFO - ---- EPOCH 026 EVALUATION ----
+2022-09-09 22:11:27,060 - Model - INFO - eval mean loss: 3.246292
+2022-09-09 22:11:27,061 - Model - INFO - eval point avg class IoU: 0.051477
+2022-09-09 22:11:27,061 - Model - INFO - eval point accuracy: 0.520173
+2022-09-09 22:11:27,062 - Model - INFO - eval point avg class acc: 0.115584
+2022-09-09 22:11:27,063 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.038, IoU: 0.000 
+class building       weight: 0.015, IoU: 0.590 
+class car            weight: 0.367, IoU: 0.000 
+class cone           weight: 0.014, IoU: 0.000 
+class handrail       weight: 0.001, IoU: 0.000 
+class human          weight: 0.037, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.042 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.002, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.027, IoU: 0.000 
+class roadedge       weight: 0.013, IoU: 0.000 
+class sign           weight: 0.009, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.032, IoU: 0.345 
+class walkway        weight: 0.362, IoU: 0.000 
+class wall           weight: 0.052, IoU: 0.000 
+
+2022-09-09 22:11:27,066 - Model - INFO - Eval mean loss: 3.246292
+2022-09-09 22:11:27,067 - Model - INFO - Eval accuracy: 0.520173
+2022-09-09 22:11:27,070 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:11:27,071 - Model - INFO - **** Epoch 27 (28/32) ****
+2022-09-09 22:11:27,072 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:13:18,146 - Model - INFO - Training mean loss: 0.461346
+2022-09-09 22:13:18,147 - Model - INFO - Training accuracy: 0.898542
+2022-09-09 22:13:18,153 - Model - INFO - ---- EPOCH 027 EVALUATION ----
+2022-09-09 22:14:41,393 - Model - INFO - eval mean loss: 3.443094
+2022-09-09 22:14:41,393 - Model - INFO - eval point avg class IoU: 0.043847
+2022-09-09 22:14:41,394 - Model - INFO - eval point accuracy: 0.452143
+2022-09-09 22:14:41,395 - Model - INFO - eval point avg class acc: 0.105125
+2022-09-09 22:14:41,396 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.040, IoU: 0.000 
+class building       weight: 0.009, IoU: 0.524 
+class car            weight: 0.366, IoU: 0.000 
+class cone           weight: 0.016, IoU: 0.000 
+class handrail       weight: 0.002, IoU: 0.000 
+class human          weight: 0.043, IoU: 0.014 
+class lawn           weight: 0.002, IoU: 0.000 
+class light          weight: 0.025, IoU: 0.068 
+class manhole        weight: 0.006, IoU: 0.000 
+class midline        weight: 0.002, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.009, IoU: 0.000 
+class road           weight: 0.038, IoU: 0.000 
+class roadedge       weight: 0.012, IoU: 0.000 
+class sign           weight: 0.007, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.032, IoU: 0.225 
+class walkway        weight: 0.340, IoU: 0.000 
+class wall           weight: 0.051, IoU: 0.002 
+
+2022-09-09 22:14:41,400 - Model - INFO - Eval mean loss: 3.443094
+2022-09-09 22:14:41,401 - Model - INFO - Eval accuracy: 0.452143
+2022-09-09 22:14:41,405 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:14:41,406 - Model - INFO - **** Epoch 28 (29/32) ****
+2022-09-09 22:14:41,407 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:16:31,557 - Model - INFO - Training mean loss: 0.481286
+2022-09-09 22:16:31,558 - Model - INFO - Training accuracy: 0.899373
+2022-09-09 22:16:31,565 - Model - INFO - ---- EPOCH 028 EVALUATION ----
+2022-09-09 22:17:55,900 - Model - INFO - eval mean loss: 3.826234
+2022-09-09 22:17:55,900 - Model - INFO - eval point avg class IoU: 0.041809
+2022-09-09 22:17:55,901 - Model - INFO - eval point accuracy: 0.432469
+2022-09-09 22:17:55,902 - Model - INFO - eval point avg class acc: 0.118339
+2022-09-09 22:17:55,904 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.047, IoU: 0.000 
+class building       weight: 0.007, IoU: 0.536 
+class car            weight: 0.364, IoU: 0.066 
+class cone           weight: 0.018, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.045, IoU: 0.000 
+class lawn           weight: 0.001, IoU: 0.000 
+class light          weight: 0.021, IoU: 0.025 
+class manhole        weight: 0.003, IoU: 0.000 
+class midline        weight: 0.000, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.001, IoU: 0.000 
+class road           weight: 0.050, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.006, IoU: 0.000 
+class slope          weight: 0.000, IoU: 0.000 
+class tree           weight: 0.035, IoU: 0.167 
+class walkway        weight: 0.342, IoU: 0.000 
+class wall           weight: 0.048, IoU: 0.000 
+
+2022-09-09 22:17:55,907 - Model - INFO - Eval mean loss: 3.826234
+2022-09-09 22:17:55,908 - Model - INFO - Eval accuracy: 0.432469
+2022-09-09 22:17:55,908 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:17:55,909 - Model - INFO - **** Epoch 29 (30/32) ****
+2022-09-09 22:17:55,910 - Model - INFO - Learning rate:0.000490
+2022-09-09 22:19:48,165 - Model - INFO - Training mean loss: 0.456160
+2022-09-09 22:19:48,167 - Model - INFO - Training accuracy: 0.902410
+2022-09-09 22:19:48,174 - Model - INFO - ---- EPOCH 029 EVALUATION ----
+2022-09-09 22:21:13,819 - Model - INFO - eval mean loss: 3.485680
+2022-09-09 22:21:13,819 - Model - INFO - eval point avg class IoU: 0.050891
+2022-09-09 22:21:13,820 - Model - INFO - eval point accuracy: 0.491132
+2022-09-09 22:21:13,821 - Model - INFO - eval point avg class acc: 0.131372
+2022-09-09 22:21:13,822 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.047, IoU: 0.000 
+class building       weight: 0.007, IoU: 0.589 
+class car            weight: 0.370, IoU: 0.033 
+class cone           weight: 0.013, IoU: 0.000 
+class handrail       weight: 0.003, IoU: 0.000 
+class human          weight: 0.047, IoU: 0.000 
+class lawn           weight: 0.002, IoU: 0.003 
+class light          weight: 0.021, IoU: 0.042 
+class manhole        weight: 0.005, IoU: 0.000 
+class midline        weight: 0.002, IoU: 0.000 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.006, IoU: 0.000 
+class road           weight: 0.027, IoU: 0.000 
+class roadedge       weight: 0.010, IoU: 0.000 
+class sign           weight: 0.008, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.036, IoU: 0.298 
+class walkway        weight: 0.343, IoU: 0.000 
+class wall           weight: 0.053, IoU: 0.001 
+
+2022-09-09 22:21:13,825 - Model - INFO - Eval mean loss: 3.485680
+2022-09-09 22:21:13,826 - Model - INFO - Eval accuracy: 0.491132
+2022-09-09 22:21:13,826 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:21:13,827 - Model - INFO - **** Epoch 30 (31/32) ****
+2022-09-09 22:21:13,828 - Model - INFO - Learning rate:0.000343
+2022-09-09 22:23:02,090 - Model - INFO - Training mean loss: 0.469345
+2022-09-09 22:23:02,091 - Model - INFO - Training accuracy: 0.899841
+2022-09-09 22:23:02,092 - Model - INFO - Save model...
+2022-09-09 22:23:02,092 - Model - INFO - Saving at log\sem_seg\pointnet2_sem_seg\checkpoints/model.pth
+2022-09-09 22:23:02,216 - Model - INFO - Saving model....
+2022-09-09 22:23:02,222 - Model - INFO - ---- EPOCH 030 EVALUATION ----
+2022-09-09 22:24:23,871 - Model - INFO - eval mean loss: 3.601053
+2022-09-09 22:24:23,872 - Model - INFO - eval point avg class IoU: 0.055773
+2022-09-09 22:24:23,873 - Model - INFO - eval point accuracy: 0.536792
+2022-09-09 22:24:23,874 - Model - INFO - eval point avg class acc: 0.136065
+2022-09-09 22:24:23,875 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.028, IoU: 0.000 
+class building       weight: 0.007, IoU: 0.620 
+class car            weight: 0.386, IoU: 0.050 
+class cone           weight: 0.013, IoU: 0.000 
+class handrail       weight: 0.005, IoU: 0.000 
+class human          weight: 0.047, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.022, IoU: 0.040 
+class manhole        weight: 0.002, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.007, IoU: 0.000 
+class road           weight: 0.036, IoU: 0.000 
+class roadedge       weight: 0.011, IoU: 0.000 
+class sign           weight: 0.009, IoU: 0.000 
+class slope          weight: 0.001, IoU: 0.000 
+class tree           weight: 0.032, IoU: 0.349 
+class walkway        weight: 0.340, IoU: 0.000 
+class wall           weight: 0.053, IoU: 0.001 
+
+2022-09-09 22:24:23,878 - Model - INFO - Eval mean loss: 3.601053
+2022-09-09 22:24:23,878 - Model - INFO - Eval accuracy: 0.536792
+2022-09-09 22:24:23,879 - Model - INFO - Best mIoU: 0.073970
+2022-09-09 22:24:23,880 - Model - INFO - **** Epoch 31 (32/32) ****
+2022-09-09 22:24:23,881 - Model - INFO - Learning rate:0.000343
+2022-09-09 22:26:16,077 - Model - INFO - Training mean loss: 0.440399
+2022-09-09 22:26:16,078 - Model - INFO - Training accuracy: 0.910024
+2022-09-09 22:26:16,084 - Model - INFO - ---- EPOCH 031 EVALUATION ----
+2022-09-09 22:27:41,110 - Model - INFO - eval mean loss: 3.394724
+2022-09-09 22:27:41,111 - Model - INFO - eval point avg class IoU: 0.050566
+2022-09-09 22:27:41,112 - Model - INFO - eval point accuracy: 0.511707
+2022-09-09 22:27:41,113 - Model - INFO - eval point avg class acc: 0.102561
+2022-09-09 22:27:41,114 - Model - INFO - ------- IoU --------
+class barrier        weight: 0.046, IoU: 0.000 
+class building       weight: 0.006, IoU: 0.584 
+class car            weight: 0.405, IoU: 0.040 
+class cone           weight: 0.012, IoU: 0.000 
+class handrail       weight: 0.004, IoU: 0.000 
+class human          weight: 0.035, IoU: 0.000 
+class lawn           weight: 0.000, IoU: 0.000 
+class light          weight: 0.020, IoU: 0.037 
+class manhole        weight: 0.008, IoU: 0.000 
+class midline        weight: 0.000, IoU: nan 
+class motor          weight: 0.000, IoU: 0.000 
+class ridge          weight: 0.003, IoU: 0.000 
+class road           weight: 0.027, IoU: 0.000 
+class roadedge       weight: 0.009, IoU: 0.000 
+class sign           weight: 0.005, IoU: 0.000 
+class slope          weight: 0.002, IoU: 0.000 
+class tree           weight: 0.036, IoU: 0.285 
+class walkway        weight: 0.343, IoU: 0.000 
+class wall           weight: 0.037, IoU: 0.015 
+
+2022-09-09 22:27:41,116 - Model - INFO - Eval mean loss: 3.394724
+2022-09-09 22:27:41,117 - Model - INFO - Eval accuracy: 0.511707
+2022-09-09 22:27:41,118 - Model - INFO - Best mIoU: 0.073970

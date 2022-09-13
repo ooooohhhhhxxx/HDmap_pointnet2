@@ -33,10 +33,10 @@ def parse_args():
     parser.add_argument('--batch_size', type=int, default=32, help='batch size in testing [default: 32]')
     parser.add_argument('--gpu', type=str, default='0', help='specify gpu device')
     parser.add_argument('--num_point', type=int, default=4096, help='point number [default: 4096]')
-    parser.add_argument('--log_dir', type=str, required=True, help='experiment root')
-    parser.add_argument('--visual', action='store_true', default=False, help='visualize result [default: False]')
-    parser.add_argument('--test_area', type=int, default=5, help='area for testing, option: 1-6 [default: 5]')
-    parser.add_argument('--num_votes', type=int, default=3, help='aggregate segmentation scores with voting [default: 5]')
+    parser.add_argument('--log_dir', type=str, default='pointnet2_sem_seg', help='experiment root')
+    parser.add_argument('--visual', action='store_true', default=True, help='visualize result [default: False]')
+    parser.add_argument('--test_area', type=int, default=2, help='area for testing, option: 1-6 [default: 5]')
+    parser.add_argument('--num_votes', type=int, default=5, help='aggregate segmentation scores with voting [default: 5]')
     return parser.parse_args()
 
 
@@ -74,11 +74,11 @@ def main(args):
     log_string('PARAMETER ...')
     log_string(args)
 
-    NUM_CLASSES = 8
+    NUM_CLASSES = 19
     BATCH_SIZE = args.batch_size
     NUM_POINT = args.num_point
 
-    root = r'D:\pointnet\data\stanford_indoor3d'
+    root = r'D:\pointnet\data\stanford_indoor3d/'
 
     TEST_DATASET_WHOLE_SCENE = ScannetDatasetWholeScene(root, split='test', test_area=args.test_area, block_points=NUM_POINT)
     log_string("The number of test data is: %d" % len(TEST_DATASET_WHOLE_SCENE))
