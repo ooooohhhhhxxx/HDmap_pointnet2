@@ -1,0 +1,79 @@
+2022-09-11 15:34:28,263 - Model - INFO - PARAMETER ...
+2022-09-11 15:34:28,263 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:35:28,060 - Model - INFO - PARAMETER ...
+2022-09-11 15:35:28,061 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:36:28,055 - Model - INFO - PARAMETER ...
+2022-09-11 15:36:28,056 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:40:28,154 - Model - INFO - PARAMETER ...
+2022-09-11 15:43:27,144 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:43:27,475 - Model - INFO - The number of test data is: 1
+2022-09-11 15:43:29,063 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 15:48:19,121 - Model - INFO - PARAMETER ...
+2022-09-11 15:48:19,122 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:48:19,422 - Model - INFO - The number of test data is: 1
+2022-09-11 15:48:20,959 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 15:57:29,421 - Model - INFO - PARAMETER ...
+2022-09-11 15:57:29,422 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=3)
+2022-09-11 15:57:29,724 - Model - INFO - The number of test data is: 1
+2022-09-11 15:57:31,258 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:34:28,483 - Model - INFO - PARAMETER ...
+2022-09-11 16:34:28,484 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:34:28,801 - Model - INFO - The number of test data is: 1
+2022-09-11 16:34:30,442 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:38:28,364 - Model - INFO - PARAMETER ...
+2022-09-11 16:38:28,366 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:38:28,705 - Model - INFO - The number of test data is: 1
+2022-09-11 16:38:30,408 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:43:28,102 - Model - INFO - PARAMETER ...
+2022-09-11 16:43:28,103 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:43:28,416 - Model - INFO - The number of test data is: 1
+2022-09-11 16:43:29,990 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:47:28,393 - Model - INFO - PARAMETER ...
+2022-09-11 16:47:28,394 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:47:28,712 - Model - INFO - The number of test data is: 1
+2022-09-11 16:47:30,347 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:51:28,406 - Model - INFO - PARAMETER ...
+2022-09-11 16:51:28,407 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:51:28,730 - Model - INFO - The number of test data is: 1
+2022-09-11 16:51:30,363 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:54:28,379 - Model - INFO - PARAMETER ...
+2022-09-11 16:54:28,381 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:54:28,699 - Model - INFO - The number of test data is: 1
+2022-09-11 16:54:30,382 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 16:59:28,374 - Model - INFO - PARAMETER ...
+2022-09-11 16:59:28,375 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 16:59:28,691 - Model - INFO - The number of test data is: 1
+2022-09-11 16:59:30,383 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-11 17:01:28,059 - Model - INFO - PARAMETER ...
+2022-09-11 17:23:14,205 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-11 17:23:14,539 - Model - INFO - The number of test data is: 1
+2022-09-11 17:23:16,102 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-12 11:12:28,218 - Model - INFO - PARAMETER ...
+2022-09-12 11:12:28,219 - Model - INFO - Namespace(batch_size=32, gpu='0', num_point=4096, log_dir='pointnet2_sem_seg', visual=True, test_area=2, num_votes=5)
+2022-09-12 11:12:28,526 - Model - INFO - The number of test data is: 1
+2022-09-12 11:12:30,090 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2022-09-13 07:28:50,098 - Model - INFO - Mean IoU of Area_2_part_1: 0.0608
+2022-09-13 07:29:05,085 - Model - INFO - ------- IoU --------
+class barrier       , IoU: 0.000 
+class building      , IoU: 0.706 
+class car           , IoU: 0.000 
+class cone          , IoU: 0.000 
+class handrail      , IoU: 0.000 
+class human         , IoU: 0.000 
+class lawn          , IoU: 0.000 
+class light         , IoU: 0.019 
+class manhole       , IoU: 0.000 
+class midline       , IoU: 0.000 
+class motor         , IoU: 0.000 
+class ridge         , IoU: 0.000 
+class road          , IoU: 0.000 
+class roadedge      , IoU: 0.000 
+class sign          , IoU: 0.000 
+class slope         , IoU: 0.000 
+class tree          , IoU: 0.419 
+class walkway       , IoU: 0.000 
+class wall          , IoU: 0.011 
+
+2022-09-13 07:29:05,087 - Model - INFO - eval point avg class IoU: 0.060790
+2022-09-13 07:29:05,088 - Model - INFO - eval whole scene point avg class acc: 0.134138
+2022-09-13 07:29:05,089 - Model - INFO - eval whole scene point accuracy: 0.457844
