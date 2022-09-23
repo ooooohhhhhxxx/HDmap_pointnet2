@@ -51,6 +51,6 @@ class get_loss(nn.Module):
 
 if __name__ == '__main__':
     import  torch
-    model = get_model(8)
+    model = get_model(16)                           #  NUM_CLASSES
     xyz = torch.rand(6, 9, 2048)
     (model(xyz))

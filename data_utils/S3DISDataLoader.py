@@ -21,13 +21,13 @@ class S3DISDataset(Dataset):
         self.room_points, self.room_labels = [], []
         self.room_coord_min, self.room_coord_max = [], []
         num_point_all = []
-        labelweights = np.zeros(19)
+        labelweights = np.zeros(16)                  #  NUM_CLASSES
 
         for room_name in tqdm(rooms_split, total=len(rooms_split)):
             room_path = os.path.join(data_root, room_name)
             room_data = np.load(room_path)  # xyzrgbl, N*7
             points, labels = room_data[:, 0:6], room_data[:, 6]  # xyzrgb, N*6; l, N
-            tmp, _ = np.histogram(labels, range(20))
+            tmp, _ = np.histogram(labels, range(17))       #  NUM_CLASSES + 1
             labelweights += tmp
             coord_min, coord_max = np.amin(points, axis=0)[:3], np.amax(points, axis=0)[:3]
             self.room_points.append(points), self.room_labels.append(labels)
@@ -109,9 +109,9 @@ class ScannetDatasetWholeScene():
             self.room_coord_min.append(coord_min), self.room_coord_max.append(coord_max)
         assert len(self.scene_points_list) == len(self.semantic_labels_list)
 
-        labelweights = np.zeros(19)
+        labelweights = np.zeros(16)               #  NUM_CLASSES
         for seg in self.semantic_labels_list:
-            tmp, _ = np.histogram(seg, range(20))
+            tmp, _ = np.histogram(seg, range(17))        #  NUM_CLASSES + 1
             self.scene_points_num.append(seg.shape[0])
             labelweights += tmp
         labelweights = labelweights.astype(np.float32)
