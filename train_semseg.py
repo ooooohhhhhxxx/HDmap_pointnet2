@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = BASE_DIR
 sys.path.append(os.path.join(ROOT_DIR, 'models'))
 
-classes = ['barrier','building','car','cone','handrail','human','lawn','light','manhole','midline','motor','ridge','road','roadedge','sign','slope','tree','walkway','wall']
+classes = ['barrier','car','cone','handrail','human','light','manhole','midline','motor','ridge','road','roadedge','sign','tree','walkway','wall']
 class2label = {cls: i for i, cls in enumerate(classes)}
 seg_classes = class2label
 seg_label_to_cat = {}
@@ -87,8 +87,8 @@ def main(args):
     log_string('PARAMETER ...')
     log_string(args)
 
-    root = r'D:\pointnet\data\stanford_indoor3d'
-    NUM_CLASSES = 19
+    root = '/Users/jinxuanchen/Files_Local/pointnet/data'
+    NUM_CLASSES = 16
     NUM_POINT = args.npoint
     BATCH_SIZE = args.batch_size
 
@@ -102,7 +102,7 @@ def main(args):
                                                   worker_init_fn=lambda x: np.random.seed(x + int(time.time())))
     testDataLoader = torch.utils.data.DataLoader(TEST_DATASET, batch_size=BATCH_SIZE, shuffle=False, num_workers=0,
                                                  pin_memory=True, drop_last=True)
-    weights = torch.Tensor(TRAIN_DATASET.labelweights).cuda()
+    weights = torch.Tensor(TRAIN_DATASET.labelweights).cuda()     
 
     log_string("The number of training data is: %d" % len(TRAIN_DATASET))
     log_string("The number of test data is: %d" % len(TEST_DATASET))
