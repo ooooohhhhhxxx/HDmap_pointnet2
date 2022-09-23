@@ -1,2 +1,2 @@
-D:/pointnet/data/downsample/final/Area_1/part_1/Annotations
-D:/pointnet/data/downsample/final/Area_2/part_1/Annotations
+D:/pointnet/data/testsmall/Area1/part_1/Annotations
+D:/pointnet/data/testsmall/Area2/part_1/Annotations
