@@ -15,6 +15,10 @@ from tqdm import tqdm
 import provider
 import numpy as np
 
+from clearml import Task
+
+task = Task.init(project_name='semseg',task_name='test_on_small')
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = BASE_DIR
 sys.path.append(os.path.join(ROOT_DIR, 'models'))
@@ -32,8 +36,8 @@ def parse_args():
     parser = argparse.ArgumentParser('Model')
     parser.add_argument('--batch_size', type=int, default=32, help='batch size in testing [default: 32]')
     parser.add_argument('--gpu', type=str, default='0', help='specify gpu device')
-    parser.add_argument('--num_point', type=int, default=4096, help='point number [default: 4096]')
-    parser.add_argument('--log_dir', type=str, default='pointnet2_sem_seg', help='experiment root')
+    parser.add_argument('--num_point', type=int, default=8192, help='point number [default: 4096]')
+    parser.add_argument('--log_dir', type=str, default='sem_msg_testsmall', help='experiment root')
     parser.add_argument('--visual', action='store_true', default=True, help='visualize result [default: False]')
     parser.add_argument('--test_area', type=int, default=2, help='area for testing, option: 1-6 [default: 5]')
     parser.add_argument('--num_votes', type=int, default=5, help='aggregate segmentation scores with voting [default: 5]')
@@ -74,7 +78,7 @@ def main(args):
     log_string('PARAMETER ...')
     log_string(args)
 
-    NUM_CLASSES = 19
+    NUM_CLASSES = 7                  #  NUM_CLASSES
     BATCH_SIZE = args.batch_size
     NUM_POINT = args.num_point
 
@@ -115,7 +119,7 @@ def main(args):
             whole_scene_label = TEST_DATASET_WHOLE_SCENE.semantic_labels_list[batch_idx]
             vote_label_pool = np.zeros((whole_scene_label.shape[0], NUM_CLASSES))
             for _ in tqdm(range(args.num_votes), total=args.num_votes):
-                scene_data, scene_label, scene_smpw, scene_point_index = TEST_DATASET_WHOLE_SCENE[batch_idx]
+                scene_data, scene_label, scene_smpw, scene_point_index = TEST_DATASET_WHOLE_SCENE[batch_idx]     #加载很慢
                 num_blocks = scene_data.shape[0]
                 s_batch_num = (num_blocks + BATCH_SIZE - 1) // BATCH_SIZE
                 batch_data = np.zeros((BATCH_SIZE, NUM_POINT, 9))
